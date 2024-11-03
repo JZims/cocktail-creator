@@ -1,0 +1,179 @@
+{
+    "cocktails": [
+        {
+            "name": "Margarita",
+            "ingredients": [
+                {"name": "Tequila", "measurement_fl_oz": 2},
+                {"name": "Lime Juice", "measurement_fl_oz": 1},
+                {"name": "Triple Sec", "measurement_fl_oz": 0.5},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Summer",
+            "base_spirit": "Vodka",
+            "glass_type": "Martini"
+        },
+        {
+            "name": "Old Fashioned",
+            "ingredients": [
+                {"name": "Bourbon", "measurement_fl_oz": 2},
+                {"name": "Simple Syrup", "measurement_fl_oz": 0.25},
+                {"name": "Angostura Bitters", "measurement_fl_oz": 0.05},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Winter",
+            "base_spirit": "Whiskey",
+            "glass_type": "Highball"
+        },
+        {
+            "name": "Mojito",
+            "ingredients": [
+                {"name": "White Rum", "measurement_fl_oz": 2},
+                {"name": "Lime Juice", "measurement_fl_oz": 1},
+                {"name": "Simple Syrup", "measurement_fl_oz": 0.5},
+                {"name": "Soda Water", "measurement_fl_oz": 2},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Spring",
+            "base_spirit": "Rum",
+            "glass_type": "Collins"
+        },
+        {
+            "name": "Cosmopolitan",
+            "ingredients": [
+                {"name": "Vodka", "measurement_fl_oz": 1.5},
+                {"name": "Triple Sec", "measurement_fl_oz": 1},
+                {"name": "Cranberry Juice", "measurement_fl_oz": 0.5},
+                {"name": "Lime Juice", "measurement_fl_oz": 0.25},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Summer",
+            "base_spirit": "Vodka",
+            "glass_type": "Martini"
+        },
+        {
+            "name": "Gin and Tonic",
+            "ingredients": [
+                {"name": "Gin", "measurement_fl_oz": 2},
+                {"name": "Tonic Water", "measurement_fl_oz": 4},
+                {"name": "Lime Wedge", "measurement_fl_oz": 0.25},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Spring",
+            "base_spirit": "Gin",
+            "glass_type": "Highball"
+        },
+        {
+            "name": "Whiskey Sour",
+            "ingredients": [
+                {"name": "Whiskey", "measurement_fl_oz": 2},
+                {"name": "Lemon Juice", "measurement_fl_oz": 1},
+                {"name": "Simple Syrup", "measurement_fl_oz": 0.5},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Winter",
+            "base_spirit": "Whiskey",
+            "glass_type": "Collins"
+        },
+        {
+            "name": "Daiquiri",
+            "ingredients": [
+                {"name": "White Rum", "measurement_fl_oz": 2},
+                {"name": "Lime Juice", "measurement_fl_oz": 1},
+                {"name": "Simple Syrup", "measurement_fl_oz": 0.5},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Summer",
+            "base_spirit": "Rum",
+            "glass_type": "Martini"
+        },
+        {
+            "name": "Martini",
+            "ingredients": [
+                {"name": "Gin", "measurement_fl_oz": 2},
+                {"name": "Dry Vermouth", "measurement_fl_oz": 0.5},
+                {"name": "Olive", "measurement_fl_oz": 0.25},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Winter",
+            "base_spirit": "Gin",
+            "glass_type": "Martini"
+        },
+        {
+            "name": "Pina Colada",
+            "ingredients": [
+                {"name": "White Rum", "measurement_fl_oz": 2},
+                {"name": "Coconut Cream", "measurement_fl_oz": 1},
+                {"name": "Pineapple Juice", "measurement_fl_oz": 1},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Summer",
+            "base_spirit": "Rum",
+            "glass_type": "Collins"
+        },
+        {
+            "name": "Negroni",
+            "ingredients": [
+                {"name": "Gin", "measurement_fl_oz": 1},
+                {"name": "Campari", "measurement_fl_oz": 1},
+                {"name": "Sweet Vermouth", "measurement_fl_oz": 1},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Spring",
+            "base_spirit": "Gin",
+            "glass_type": "Highball"
+        },
+        {
+            "name": "Manhattan",
+            "ingredients": [
+                {"name": "Whiskey", "measurement_fl_oz": 2},
+                {"name": "Sweet Vermouth", "measurement_fl_oz": 1},
+                {"name": "Angostura Bitters", "measurement_fl_oz": 0.05},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Winter",
+            "base_spirit": "Whiskey",
+            "glass_type": "Martini"
+        },
+        {
+            "name": "Mai Tai",
+            "ingredients": [
+                {"name": "White Rum", "measurement_fl_oz": 1},
+                {"name": "Dark Rum", "measurement_fl_oz": 1},
+                {"name": "Orange Curacao", "measurement_fl_oz": 0.5},
+                {"name": "Lime Juice", "measurement_fl_oz": 0.5},
+                {"name": "Orgeat Syrup", "measurement_fl_oz": 0.25},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Summer",
+            "base_spirit": "Rum",
+            "glass_type": "Collins"
+        },
+        {
+            "name": "Tom Collins",
+            "ingredients": [
+                {"name": "Gin", "measurement_fl_oz": 2},
+                {"name": "Lemon Juice", "measurement_fl_oz": 1},
+                {"name": "Simple Syrup", "measurement_fl_oz": 0.5},
+                {"name": "Soda Water", "measurement_fl_oz": 2},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Spring",
+            "base_spirit": "Gin",
+            "glass_type": "Collins"
+        },
+        {
+            "name": "Bloody Mary",
+            "ingredients": [
+                {"name": "Vodka", "measurement_fl_oz": 2},
+                {"name": "Tomato Juice", "measurement_fl_oz": 4},
+                {"name": "Lemon Juice", "measurement_fl_oz": 0.5},
+                {"name": "Worcestershire Sauce", "measurement_fl_oz": 0.25},
+                {"name": "Tabasco Sauce", "measurement_fl_oz": 0.05},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+            ],
+            "seasonal_association": "Winter",
+            "base_spirit": "Vodka",
+            "glass_type": "Highball"
+        }
+    ]
+}
