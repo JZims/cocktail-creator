@@ -10,6 +10,8 @@ const App = () => {
 
   const allSelected = season && baseSpirit && glassType;
 
+  // Filter cocktails based on selected dropdown values
+  //
   const filteredCocktails = cocktailsData.cocktails.filter(cocktail => {
     return (
       (!season || cocktail.seasonal_association.toLowerCase() === season.toLowerCase()) &&
@@ -18,31 +20,49 @@ const App = () => {
     );
   });
 
+  const seasonOptions = [
+    "Summer",
+    "Winter",
+    "Spring",
+    "Fall"
+  ]
+
+  const baseSpiritOptions = [
+    "Vodka",
+    "Gin",
+    "Rum",
+    "Whiskey"
+  ]
+
+  const glassTyopeOptions = [
+    "Highball",
+    "Martini",
+    "Wine",
+    "Shot"
+  ]
+
   return (
     <div className="container">
       <div className="dropdowns">
         <select className="selection" value={season} onChange={(e) => setSeason(e.target.value)}>
           <option value="">Select Season</option>
-          <option value="summer">Summer</option>
-          <option value="winter">Winter</option>
-          <option value="spring">Spring</option>
-          <option value="fall">Fall</option>
+          {seasonOptions.map((season, index) => (
+            <option key={index} value={season.toLowerCase()}>{season}</option>
+          ))}
         </select>
 
         <select className="selection" value={baseSpirit} onChange={(e) => setBaseSpirit(e.target.value)}>
           <option value="">Select Base Spirit</option>
-          <option value="vodka">Vodka</option>
-          <option value="gin">Gin</option>
-          <option value="rum">Rum</option>
-          <option value="whiskey">Whiskey</option>
+          {baseSpiritOptions.map((spirit, index) => (
+            <option key={index} value={spirit.toLowerCase()}>{spirit}</option>
+          ))}
         </select>
 
         <select className="selection" value={glassType} onChange={(e) => setGlassType(e.target.value)}>
           <option value="">Select Glass Type</option>
-          <option value="highball">Highball</option>
-          <option value="martini">Martini</option>
-          <option value="wine">Wine</option>
-          <option value="shot">Shot</option>
+          {glassTyopeOptions.map((glassType, index) => (
+            <option key={index} value={glassType.toLowerCase()}>{glassType}</option>
+          ))}
         </select>
       </div>
 
