@@ -1,16 +1,30 @@
 {
     "cocktails": [
         {
-            "name": "Margarita",
+            "name": "Mushroom Margarita",
             "ingredients": [
-                {"name": "Tequila", "measurement_fl_oz": 2},
-                {"name": "Lime Juice", "measurement_fl_oz": 1},
-                {"name": "Triple Sec", "measurement_fl_oz": 0.5},
-                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
+                {"name": "Tequila", "measurement_fl_oz": 1},
+                {"name": "Lime Juice", "measurement_fl_oz": 0.5},
+                {"name": "Mezcal", "measurement_fl_oz": 0.33},
+                {"name": "Agave", "measurement_fl_oz": 0.75},
+                {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.5}
             ],
-            "seasonal_association": "Summer",
-            "base_spirit": "Vodka",
-            "glass_type": "Martini"
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
+            "base_spirit": "Tequila",
+            "glass_type": "Double Old Fashioned",
+            "method": "Shake and fine strain",
+            "strength": "Medium",
+            "garnish": "Lime Wedge",
+            "flavor_profile": {
+                "sweet": 3,
+                "sour": 3,
+                "bitter": 1,
+                "salty": 1
+            }
         },
         {
             "name": "Old Fashioned",
@@ -20,9 +34,17 @@
                 {"name": "Angostura Bitters", "measurement_fl_oz": 0.05},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Winter",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Whiskey",
-            "glass_type": "Highball"
+            "glass_type": "Highball",
+            "method": "Stirred",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Mojito",
@@ -33,9 +55,17 @@
                 {"name": "Soda Water", "measurement_fl_oz": 2},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Spring",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Rum",
-            "glass_type": "Collins"
+            "glass_type": "Collins",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Cosmopolitan",
@@ -46,9 +76,17 @@
                 {"name": "Lime Juice", "measurement_fl_oz": 0.25},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Summer",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Vodka",
-            "glass_type": "Martini"
+            "glass_type": "Martini",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Gin and Tonic",
@@ -58,9 +96,17 @@
                 {"name": "Lime Wedge", "measurement_fl_oz": 0.25},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Spring",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Gin",
-            "glass_type": "Highball"
+            "glass_type": "Highball",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Whiskey Sour",
@@ -70,9 +116,17 @@
                 {"name": "Simple Syrup", "measurement_fl_oz": 0.5},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Winter",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Whiskey",
-            "glass_type": "Collins"
+            "glass_type": "Collins",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Daiquiri",
@@ -82,9 +136,17 @@
                 {"name": "Simple Syrup", "measurement_fl_oz": 0.5},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Summer",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Rum",
-            "glass_type": "Martini"
+            "glass_type": "Martini",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Martini",
@@ -94,9 +156,17 @@
                 {"name": "Olive", "measurement_fl_oz": 0.25},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Winter",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Gin",
-            "glass_type": "Martini"
+            "glass_type": "Martini",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Pina Colada",
@@ -106,9 +176,17 @@
                 {"name": "Pineapple Juice", "measurement_fl_oz": 1},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Summer",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Rum",
-            "glass_type": "Collins"
+            "glass_type": "Collins",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Negroni",
@@ -118,9 +196,17 @@
                 {"name": "Sweet Vermouth", "measurement_fl_oz": 1},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Spring",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Gin",
-            "glass_type": "Highball"
+            "glass_type": "Highball",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Manhattan",
@@ -130,9 +216,17 @@
                 {"name": "Angostura Bitters", "measurement_fl_oz": 0.05},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Winter",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Whiskey",
-            "glass_type": "Martini"
+            "glass_type": "Martini",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Mai Tai",
@@ -144,9 +238,17 @@
                 {"name": "Orgeat Syrup", "measurement_fl_oz": 0.25},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Summer",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Rum",
-            "glass_type": "Collins"
+            "glass_type": "Collins",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Tom Collins",
@@ -157,9 +259,17 @@
                 {"name": "Soda Water", "measurement_fl_oz": 2},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Spring",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Gin",
-            "glass_type": "Collins"
+            "glass_type": "Collins",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         },
         {
             "name": "Bloody Mary",
@@ -171,9 +281,17 @@
                 {"name": "Tabasco Sauce", "measurement_fl_oz": 0.05},
                 {"name": "Veda Mushroom Liqueur", "measurement_fl_oz": 0.25}
             ],
-            "seasonal_association": "Winter",
+            "seasonal_associations": [
+                {"season": "Summer"},
+                {"season": "Spring"}, 
+                {"season": "Fall"}
+            ],
             "base_spirit": "Vodka",
-            "glass_type": "Highball"
+            "glass_type": "Highball",
+            "method": "Shake",
+            "strength": "",
+            "garnish": "",
+            "flavor_profile": ""
         }
     ]
 }

@@ -14,7 +14,7 @@ const App = () => {
   //
   const filteredCocktails = cocktailsData.cocktails.filter(cocktail => {
     return (
-      (!season || cocktail.seasonal_association.toLowerCase() === season.toLowerCase()) &&
+      (!season || cocktail.seasonal_associations[0].season.toLowerCase() === season.toLowerCase()) &&
       (!baseSpirit || cocktail.base_spirit.toLowerCase() === baseSpirit.toLowerCase()) &&
       (!glassType || cocktail.glass_type.toLowerCase() === glassType.toLowerCase())
     );
