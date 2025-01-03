@@ -1,0 +1,179 @@
+{
+    "cocktails": [
+        {
+            "name": "Veda Old Fashioned",
+            "ingredients": [
+                {
+                    "name": "Veda",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Bourbon",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Angostura",
+                    "measurement_fl_oz": 0.05
+                }
+            ],
+            "seasonal_associations": [
+                {
+                    "season": "Autumn"
+                },
+                {
+                    "season": "Winter"
+                }
+            ],
+            "base_spirit": "",
+            "glass_type": "Double Old Fashioned",
+            "method": "Stirred",
+            "strength": "Strong",
+            "garnish": "Orange peel",
+            "flavor_profile": [
+                {
+                    "flavor": "Sweet"
+                }
+            ]
+        },
+        {
+            "name": "Veda Old Fashioned",
+            "ingredients": [
+                {
+                    "name": "Veda",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Bourbon",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Angostura",
+                    "measurement_fl_oz": 0.05
+                }
+            ],
+            "seasonal_associations": [
+                {
+                    "season": "Autumn"
+                },
+                {
+                    "season": "Winter"
+                }
+            ],
+            "base_spirit": "",
+            "glass_type": "Double Old Fashioned",
+            "method": "Stirred",
+            "strength": "Strong",
+            "garnish": "Orange peel",
+            "flavor_profile": [
+                {
+                    "flavor": "Sweet"
+                }
+            ]
+        },
+        {
+            "name": "Veda Old Fashioned",
+            "ingredients": [
+                {
+                    "name": "Veda",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Bourbon",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Angostura",
+                    "measurement_fl_oz": 0.05
+                }
+            ],
+            "seasonal_associations": [
+                {
+                    "season": "Autumn"
+                },
+                {
+                    "season": "Winter"
+                }
+            ],
+            "base_spirit": "",
+            "glass_type": "Double Old Fashioned",
+            "method": "Stirred",
+            "strength": "Strong",
+            "garnish": "Orange peel",
+            "flavor_profile": [
+                {
+                    "flavor": "Sweet"
+                }
+            ]
+        },
+        {
+            "name": "Veda Old Fashioned",
+            "ingredients": [
+                {
+                    "name": "Veda",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Bourbon",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Angostura",
+                    "measurement_fl_oz": 0.05
+                }
+            ],
+            "seasonal_associations": [
+                {
+                    "season": "Autumn"
+                },
+                {
+                    "season": "Winter"
+                }
+            ],
+            "base_spirit": "",
+            "glass_type": "Double Old Fashioned",
+            "method": "Stirred",
+            "strength": "Strong",
+            "garnish": "Orange peel",
+            "flavor_profile": [
+                {
+                    "flavor": "Sweet"
+                }
+            ]
+        },
+        {
+            "name": "Veda Old Fashioned",
+            "ingredients": [
+                {
+                    "name": "Veda",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Bourbon",
+                    "measurement_fl_oz": 1.0
+                },
+                {
+                    "name": "Angostura",
+                    "measurement_fl_oz": 0.05
+                }
+            ],
+            "seasonal_associations": [
+                {
+                    "season": "Autumn"
+                },
+                {
+                    "season": "Winter"
+                }
+            ],
+            "base_spirit": "",
+            "glass_type": "Double Old Fashioned",
+            "method": "Stirred",
+            "strength": "Strong",
+            "garnish": "Orange peel",
+            "flavor_profile": [
+                {
+                    "flavor": "Sweet"
+                }
+            ]
+        }
+    ]
+}
