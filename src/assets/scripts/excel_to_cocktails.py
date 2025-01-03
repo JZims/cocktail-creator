@@ -1,3 +1,4 @@
+
 import pandas as pd
 import json
 
@@ -15,7 +16,7 @@ def excel_to_cocktails_json(csv_path, json_output_path):
     for index, row in df.iterrows():
 
         print(f"\nProcessing row {index}:")
-        print(row.to_dict())
+        
 
         # Parse ingredients from potential comma-separated strings
         ingredients_list = []
@@ -75,6 +76,6 @@ def excel_to_cocktails_json(csv_path, json_output_path):
         json.dump(output, f, indent=4)
 
 # Usage example
-csv_path = 'src/assets/recipes-to-json/assets/spreadsheets/Veda Cocktails - Sheet2 (2).csv'
-json_output_path = 'src/assets/cocktails.json'
+csv_path = 'data/veda_cocktails_cleaned.csv'
+json_output_path = 'output/cocktails.json'
 excel_to_cocktails_json(csv_path, json_output_path)
