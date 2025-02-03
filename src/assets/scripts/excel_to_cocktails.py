@@ -58,7 +58,6 @@ def excel_to_cocktails_json(csv_path, json_output_path):
             "name": row.get('name', ''),
             "ingredients": ingredients_list,
             "seasonal_associations": seasonal_list,
-            "base_spirit": row.get('base_spirit', ''),
             "glass_type": row.get('glass_type', ''),
             "method": row.get('method', ''),
             "strength": row.get('strength', ''),
@@ -76,6 +75,6 @@ def excel_to_cocktails_json(csv_path, json_output_path):
         json.dump(output, f, indent=4)
 
 # Usage example
-csv_path = 'data/veda_cocktails_cleaned.csv'
-json_output_path = 'output/cocktails.json'
+csv_path = '/Users/jzimms/Development/Veda/Cocktail Creator/cocktail-creator-frontend/src/assets/scripts/data/veda_cocktails_cleaned.csv'
+json_output_path = '/Users/jzimms/Development/Veda/Cocktail Creator/cocktail-creator-frontend/src/assets/scripts/output/veda_cocktails2.json'
 excel_to_cocktails_json(csv_path, json_output_path)

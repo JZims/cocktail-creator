@@ -32,7 +32,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old-fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -78,7 +77,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -124,7 +122,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -163,7 +160,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "old-fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -199,7 +195,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -242,7 +237,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Old fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -284,7 +278,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Shake and fine strain",
             "strength": "Strong",
@@ -316,7 +309,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -362,7 +354,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick n Nora",
             "method": "Shake and fine strain",
             "strength": "Medium Strong",
@@ -407,7 +398,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Old-fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -457,7 +447,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -507,7 +496,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -553,7 +541,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -596,7 +583,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -648,7 +634,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Shake and strain",
             "strength": "Strong",
@@ -691,7 +676,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Collins",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -734,7 +718,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -776,7 +759,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -822,7 +804,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -870,7 +851,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Shake and fine strain",
             "strength": "Light",
@@ -908,7 +888,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Shake and finestrain",
             "strength": "Light",
@@ -947,7 +926,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Strong",
@@ -992,7 +970,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Strong",
@@ -1026,7 +1003,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -1069,7 +1045,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Hurricane",
             "method": "Shake",
             "strength": "Light Medium",
@@ -1115,7 +1090,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Old-fashioend",
             "method": "Shake and fine strain",
             "strength": "Light",
@@ -1154,7 +1128,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -1192,7 +1165,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -1235,7 +1207,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -1285,7 +1256,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -1324,7 +1294,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -1370,7 +1339,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -1411,7 +1379,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Blend without ice until fluffy",
             "strength": "Light",
@@ -1460,7 +1427,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Old-fashioned",
             "method": "Shake and strain",
             "strength": "Strong",
@@ -1502,7 +1468,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -1548,7 +1513,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double Old Fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -1600,7 +1564,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Martini",
             "method": "Stir",
             "strength": "Strong",
@@ -1638,7 +1601,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double Old Fashioned",
             "method": "Stirred",
             "strength": "Strong",
@@ -1677,7 +1639,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Build",
             "strength": "Medium Strong",
@@ -1723,7 +1684,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Rocks glass",
             "method": "Double Shake",
             "strength": "Medium Strong",
@@ -1773,7 +1733,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Shake and fine strain",
             "strength": "Strong",
@@ -1816,7 +1775,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Hurricane",
             "method": "Blend with crashed ice",
             "strength": "Strong",
@@ -1869,7 +1827,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -1915,7 +1872,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -1957,7 +1913,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -1996,7 +1951,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -2050,7 +2004,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium Strong",
@@ -2103,7 +2056,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -2146,7 +2098,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -2185,7 +2136,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -2231,7 +2181,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -2277,7 +2226,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Collins",
             "method": "Build",
             "strength": "Medium",
@@ -2323,7 +2271,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Collins",
             "method": "Shake and fine strain",
             "strength": "Light",
@@ -2373,7 +2320,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake, fine strain and dry shake.",
             "strength": "Strong",
@@ -2417,7 +2363,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and Fine Strain",
             "strength": "Medium Strong",
@@ -2456,7 +2401,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -2495,7 +2439,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Old-fashioned ",
             "method": "Stir",
             "strength": "Strong",
@@ -2544,7 +2487,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Squeeze the grapes to release the juice",
             "strength": "Light Medium",
@@ -2590,7 +2532,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
@@ -2635,7 +2576,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Stir",
             "strength": "Strong",
@@ -2674,7 +2614,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Churn",
             "strength": "Medium",
@@ -2716,7 +2655,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Medium",
@@ -2757,7 +2695,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Build",
             "strength": "Light",
@@ -2803,7 +2740,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -2852,7 +2788,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Shake and fine strain",
             "strength": "Medium",
@@ -2900,7 +2835,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Highball",
             "method": "Build",
             "strength": "Light",
@@ -2938,7 +2872,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double Old Fashioned",
             "method": "Stirred",
             "strength": "Strong",
@@ -2980,7 +2913,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and Fine strain",
             "strength": "Strong",
@@ -3021,7 +2953,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Wine Glass",
             "method": "Build",
             "strength": "Medium",
@@ -3074,7 +3005,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Shake and Fine strain",
             "strength": "Medium Strong",
@@ -3127,7 +3057,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Double old fashioned",
             "method": "Churn",
             "strength": "Medium",
@@ -3187,7 +3116,6 @@
                     "season": "Summer"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake, fine strain and Dry shake",
             "strength": "Medium",
@@ -3225,7 +3153,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -3267,7 +3194,6 @@
                     "season": "Autumn"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Shake and Fine strain",
             "strength": "Strong",
@@ -3309,7 +3235,6 @@
                     "season": "Spring"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Nick & Nora",
             "method": "Stir",
             "strength": "Strong",
@@ -3348,7 +3273,6 @@
                     "season": "Winter"
                 }
             ],
-            "base_spirit": "",
             "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
