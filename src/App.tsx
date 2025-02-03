@@ -8,7 +8,7 @@ import { ResultCardProps } from './types/ResultCard.ts';
 const App = () => {
   const [season, setSeason] = useState('');
   const [glassType, setGlassType] = useState('');
-  const [results, setResults] = useState({});
+  const [results, setResults] = useState<Cocktail[]>([]);
   const [iframeHeight, setIframeHeight] = useState("0px");
 
   useEffect(() => {
@@ -44,13 +44,6 @@ const App = () => {
     "Winter",
     "Spring",
     "Fall"
-  ]
-
-  const baseSpiritOptions = [
-    "Vodka",
-    "Gin",
-    "Rum",
-    "Whiskey"
   ]
 
   const glassTyopeOptions = [
@@ -96,9 +89,13 @@ const App = () => {
               <div className="results-grid">
                 <h2>Matching Cocktails:</h2>
                   {filteredCocktails.length > 0 ? (
-                    <ul>{filteredCocktails.map((cocktail, index) => (
-                        <ResultCard key={index} cocktail={cocktail} />
-                         ))}
+                    <ul>
+                      {filteredCocktails.map((cocktail: Cocktail, index) => (
+                      <ResultCard 
+                        key={index}
+                        cocktail={cocktail}
+                       />
+                      ))}
                     </ul>
                    ):
                     ( <p>Select an option from each category.</p>
