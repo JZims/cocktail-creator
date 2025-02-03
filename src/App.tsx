@@ -1,7 +1,7 @@
 
 
 import { useState } from 'react';
-import cocktailsData from './assets/cocktails-ex.json';
+import cocktailsData from './assets/scripts/output/cocktails.json';
 
 const App = () => {
   const [season, setSeason] = useState('');
@@ -19,7 +19,7 @@ const App = () => {
       (!glassType || cocktail.glass_type.toLowerCase() === glassType.toLowerCase())
     );
   });
-
+1
   const seasonOptions = [
     "Summer",
     "Winter",
