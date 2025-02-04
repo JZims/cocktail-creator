@@ -1,8 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
 
+
 :root {
   --veda-red: #ff0000;
-  --veda-cream: #f5e6d3;
+  --veda-cream: #fee6b6;
 }
 
 * {
@@ -11,10 +12,14 @@
   padding: 0;
 }
 
+ul li {
+  margin-left: 20px;
+}
+
 body {
   font-family: Arial, sans-serif;
-  background-color: var(--veda-red);
-  color: var(--veda-cream);
+  background-color: var(--veda-cream);
+  color: var(--veda-red);
 }
 
 .container {
@@ -50,7 +55,7 @@ body {
   padding: 10px 15px;
   background-color: var(--veda-cream);
   color: var(--veda-red);
-  border: 2px solid var(--veda-cream);
+  border: 2px solid var(--veda-red);
   font-size: 16px;
   appearance: none;
   cursor: pointer;
@@ -65,14 +70,24 @@ body {
   height: 0;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
-  border-top: 6px solid var(--veda-red);
+  border-top: 6px solid black;
   pointer-events: none;
 }
+
+.select option:checked {
+  background: linear-gradient(0deg, #007bff 0%, #007bff 100%);
+  color: white;
+}
+
+.select option {
+  padding: 4px;
+}
+
 
 .search-button {
   padding: 10px 20px;
   background-color: var(--veda-cream);
-  color: var(--veda-red);
+  color: var(--veda-cream);
   border: none;
   font-family: "Archivo Black", sans-serif;
   font-size: 18px;
@@ -92,7 +107,7 @@ body {
 
 .result-card {
   background-color: rgba(245, 230, 211, 0.1);
-  border: 2px solid var(--veda-cream);
+  border: 2px solid var(--veda-red);
   padding: 20px;
   min-height: 400px;
   display: flex;
@@ -134,7 +149,7 @@ body {
 .embedded-iframe {
   width: 100%;
   border: none;
-  border-top: 2px solid var(--veda-cream);
+  border-top: 2px solid var(--veda-red);
 }
 
 @media (max-width: 768px) {

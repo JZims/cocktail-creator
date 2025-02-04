@@ -32,7 +32,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Double old-fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Orange peel",
@@ -160,7 +160,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "old-fashioned",
+            "glass_type": "Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Orange peel",
@@ -237,7 +237,7 @@
                     "season": "Spring"
                 }
             ],
-            "glass_type": "Old fashioned",
+            "glass_type": "Old Fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium",
             "garnish": "Lime wedge",
@@ -354,7 +354,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Nick n Nora",
+            "glass_type": "Nick & Nora",
             "method": "Shake and fine strain",
             "strength": "Medium Strong",
             "garnish": "-",
@@ -398,7 +398,7 @@
                     "season": "Winter"
                 }
             ],
-            "glass_type": "Old-fashioned",
+            "glass_type": "Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Orange peel",
@@ -447,7 +447,7 @@
                     "season": "Winter"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Cherry and green olive",
@@ -634,7 +634,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Shake and strain",
             "strength": "Strong",
             "garnish": "Mint peak and Orange Wedge",
@@ -1090,7 +1090,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Old-fashioend",
+            "glass_type": "Old Fashioned",
             "method": "Shake and fine strain",
             "strength": "Light",
             "garnish": "Blackberry",
@@ -1427,7 +1427,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Old-fashioned",
+            "glass_type": "Old Fashioned",
             "method": "Shake and strain",
             "strength": "Strong",
             "garnish": "Mint peaks",
@@ -1564,7 +1564,7 @@
                     "season": "Summer"
                 }
             ],
-            "glass_type": "Martini",
+            "glass_type": "Coupe",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Olive",
@@ -1684,7 +1684,7 @@
                     "season": "Spring"
                 }
             ],
-            "glass_type": "Rocks glass",
+            "glass_type": "Old Fashioned",
             "method": "Double Shake",
             "strength": "Medium Strong",
             "garnish": "Lemon peel",
@@ -1872,7 +1872,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Candied ginger",
@@ -1913,7 +1913,7 @@
                     "season": "Summer"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium",
             "garnish": "Pineapple wedge",
@@ -2004,7 +2004,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Shake and fine strain",
             "strength": "Medium Strong",
             "garnish": "Orange peel",
@@ -2439,7 +2439,7 @@
                     "season": "Spring"
                 }
             ],
-            "glass_type": "Old-fashioned ",
+            "glass_type": "Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Basil leaf",
@@ -2576,7 +2576,7 @@
                     "season": "Winter"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Lemon zest",
@@ -3005,7 +3005,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Shake and Fine strain",
             "strength": "Medium Strong",
             "garnish": "Peated whiskey spray",
@@ -3057,7 +3057,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Double old fashioned",
+            "glass_type": "Double Old Fashioned",
             "method": "Churn",
             "strength": "Medium",
             "garnish": "Mint peak",

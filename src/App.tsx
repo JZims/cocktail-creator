@@ -16,33 +16,46 @@ interface Cocktail {
 }
 
 const App = () => {
-  const [season, setSeason] = useState('');
-  const [glassType, setGlassType] = useState('');
-  // const [results, setResults] = useState<Cocktail[]>([]);
+  // const [season, setSeason] = useState('');
+  // const [glassType, setGlassType] = useState('');
+  const [selectedSeasons, setSelectedSeasons] = useState<string[]>([]);
+  const [selectedGlassTypes, setSelectedGlassTypes] = useState<string[]>([]);
+
+  const allSelected = selectedGlassTypes[0] && selectedSeasons[0];
   
-
-
-  const allSelected = season && glassType;
   const filteredCocktails = cocktailsData.cocktails.filter(cocktail => {
-    return (
-      (!season || cocktail.seasonal_associations[0].season.toLowerCase() === season.toLowerCase()) &&
-      (!glassType || cocktail.glass_type.toLowerCase() === glassType.toLowerCase())
-    );
+    const seasonMatch = selectedSeasons.length === 0 || 
+      cocktail.seasonal_associations.some(sa => 
+        selectedSeasons.includes(sa.season)
+      );
+  
+    const glassMatch = selectedGlassTypes.length === 0 || 
+      selectedGlassTypes.includes(cocktail.glass_type);
+  
+    return seasonMatch && glassMatch;
   });
-1
+
+  const handleSeasonChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const value = Array.from(e.target.selectedOptions, option => option.value);
+    setSelectedSeasons(value);
+  };
+  
+  const handleGlassTypeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const value = Array.from(e.target.selectedOptions, option => option.value);
+    setSelectedGlassTypes(value);
+  };
+  
+  
   const seasonOptions = [
     "Summer",
     "Winter",
     "Spring",
-    "Fall"
+    "Autumn"
   ]
 
-  const glassTyopeOptions = [
-    "Highball",
-    "Martini",
-    "Wine",
-    "Shot"
-  ]
+  const glassTypeOptions = Array.from(new Set(
+    cocktailsData.cocktails.map(cocktail => cocktail.glass_type)
+  )).sort();
 
   return (
     <div className="search-interface">
@@ -50,7 +63,13 @@ const App = () => {
         <div className="container">
           <div className="search-controls">
             <div className="select-wrapper">
-              <select className="select" value={season} onChange={(e) => setSeason(e.target.value)}>
+
+              <select 
+                className="select" 
+                multiple 
+                value={selectedSeasons} 
+                onChange={handleSeasonChange}
+              >
                 <option value="">Select Season</option>
                 {seasonOptions.map((opt) => (
                   <option key={opt} value={opt}>
@@ -62,9 +81,9 @@ const App = () => {
             </div>
 
             <div className="select-wrapper">
-              <select className="select" value={glassType} onChange={(e) => setGlassType(e.target.value)}>
-                <option value="">Select Glass Type</option>
-                { glassTyopeOptions.map((opt) => (
+              <select className="select" multiple value={selectedGlassTypes} onChange={handleGlassTypeChange}>
+                <option value="">Select Glass Types</option>
+                { glassTypeOptions.map((opt) => (
                   <option key={opt} value={opt}>
                     {opt}
                   </option>
@@ -74,7 +93,7 @@ const App = () => {
               </div>
             </div>
             <div className="results-grid">
-                {allSelected && filteredCocktails.length > 0 ? (
+                { allSelected && filteredCocktails.length > 0 ? (
                   filteredCocktails.map((cocktail: Cocktail, index: number) => (
                     <ResultCard 
                       key={index}

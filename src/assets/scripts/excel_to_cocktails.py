@@ -2,6 +2,40 @@
 import pandas as pd
 import json
 
+def normalize_glass_type(glass_type: str) -> str:
+    """Normalize glass type names to standard values."""
+    
+    # Convert to lowercase for comparison
+    glass_type = str(glass_type).lower().strip()
+    
+    # Mapping of variations to standard names
+    glass_mapping = {
+        # Old Fashioned variations
+        'old-fashioned': 'Old Fashioned',
+        'old fashioned': 'Old Fashioned',
+        'double old-fashioned': 'Double Old Fashioned',
+        'double old fashioned': 'Double Old Fashioned',
+        'rocks glass': 'Old Fashioned',
+        
+        # Nick & Nora variations
+        'nick & nora': 'Nick & Nora',
+        'nick and nora': 'Nick & Nora',
+        'nick n nora': 'Nick & Nora',
+        
+        # Coupe/Cocktail
+        'coupe': 'Coupe',
+        'cocktail': 'Coupe',
+        'martini': 'Coupe',
+        
+        # Highball variations
+        'highball': 'Highball',
+        'collins': 'Collins',
+        'hurricane': 'Hurricane'
+    }
+    
+    # Return mapped value or original if no mapping exists
+    return glass_mapping.get(glass_type, glass_type.title())
+
 def excel_to_cocktails_json(csv_path, json_output_path):
     # Read Excel file
     df = pd.read_csv(csv_path)
@@ -58,14 +92,29 @@ def excel_to_cocktails_json(csv_path, json_output_path):
             "name": row.get('name', ''),
             "ingredients": ingredients_list,
             "seasonal_associations": seasonal_list,
-            "glass_type": row.get('glass_type', ''),
+            "glass_type": normalize_glass_type(row.get('glass_type', '')),  # Add normalization here
             "method": row.get('method', ''),
             "strength": row.get('strength', ''),
             "garnish": row.get('garnish', ''),
             "flavor_profile": flavor_profile
-        }
+            }
+        
         print(f"Created cocktail entry: {cocktail}")
         cocktails.append(cocktail)
+
+    # Add validation step
+        if cocktail["glass_type"] not in [
+            "Old Fashioned",
+            "Double Old Fashioned",
+            "Nick & Nora",
+            "Coupe",
+            "Highball",
+            "Collins",
+            "Hurricane",
+            "Wine Glass"
+        ]:
+            print(f"Warning: Unusual glass type '{cocktail['glass_type']}' for cocktail '{cocktail['name']}'")
+    
     
     # Create final dictionary
     output = {"cocktails": cocktails}
@@ -76,5 +125,5 @@ def excel_to_cocktails_json(csv_path, json_output_path):
 
 # Usage example
 csv_path = '/Users/jzimms/Development/Veda/Cocktail Creator/cocktail-creator-frontend/src/assets/scripts/data/veda_cocktails_cleaned.csv'
-json_output_path = '/Users/jzimms/Development/Veda/Cocktail Creator/cocktail-creator-frontend/src/assets/scripts/output/veda_cocktails2.json'
+json_output_path = '/Users/jzimms/Development/Veda/Cocktail Creator/cocktail-creator-frontend/src/assets/scripts/output/veda_cocktails.json'
 excel_to_cocktails_json(csv_path, json_output_path)
