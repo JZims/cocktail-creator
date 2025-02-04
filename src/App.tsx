@@ -1,6 +1,6 @@
 
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { ResultCard } from "./components/result-card";
 import cocktailsData from './assets/scripts/output/veda_cocktails.json';
 
