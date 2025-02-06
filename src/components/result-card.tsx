@@ -1,6 +1,6 @@
 import { ResultCardProps } from '../types/ResultCard';
 
-export function ResultCard({ cocktail }: ResultCardProps) {
+export function ResultCard({ cocktail, index }: ResultCardProps & { index: number }) {
   const { 
     name,
     ingredients, 
@@ -12,7 +12,7 @@ export function ResultCard({ cocktail }: ResultCardProps) {
   } = cocktail;
 
   return (
-    <div className="result-card">
+    <div className="result-card" style={{"--animation-order": index} as React.CSSProperties} >
       <div className="result-card-image">
       </div>
       <div className="result-card-content">
