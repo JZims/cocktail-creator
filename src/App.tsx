@@ -62,27 +62,30 @@ const App = () => {
       <div id="search-block" className="search-block">
         <div className="container">
           <div className="search-controls">
+          <h2>Seasonal Association</h2>
             <div className="select-wrapper">
-
               <select 
                 className="select" 
                 multiple 
                 value={selectedSeasons} 
-                onChange={handleSeasonChange}
-              >
+                onChange={handleSeasonChange}>
                 <option value="">Select Season</option>
                 {seasonOptions.map((opt) => (
-                  <option key={opt} value={opt}>
+                  <option key={opt} value={opt} >
                     {opt}
                   </option>
                 ))}
               </select>
               <div className="select-arrow" />
             </div>
-
+            <h2>Glass Type</h2>
             <div className="select-wrapper">
-              <select className="select" multiple value={selectedGlassTypes} onChange={handleGlassTypeChange}>
-                <option value="">Select Glass Types</option>
+              <select 
+              className="select" 
+              multiple 
+              value={selectedGlassTypes} 
+              onChange={handleGlassTypeChange} >
+                <option value="">Select Glass Type</option>
                 { glassTypeOptions.map((opt) => (
                   <option key={opt} value={opt}>
                     {opt}
@@ -101,7 +104,12 @@ const App = () => {
                     />
                   ))
                 ) : (
-                  <p>Select an option from each category to start crafting!</p>
+                  <div className="no-results-placeholder">
+                  {/* <img 
+                    src='/images/Shrooms1.png' 
+                    alt='no results shrooms'
+                  /> */}
+                </div>
                 )}
               </div>
         </div>
