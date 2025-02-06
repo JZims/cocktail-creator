@@ -99,6 +99,7 @@ const App = () => {
                 { allSelected && filteredCocktails.length > 0 ? (
                   filteredCocktails.map((cocktail: Cocktail, index: number) => (
                     <ResultCard 
+                      index={index}
                       key={index}
                       cocktail={cocktail}
                     />
