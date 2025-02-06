@@ -1,6 +1,6 @@
 import { ResultCardProps } from '../types/ResultCard';
 
-export function ResultCard({ cocktail, index }: ResultCardProps & { index: number }) {
+export function ResultCard({ cocktail, index}: ResultCardProps & { index: number }) {
   const { 
     name,
     ingredients, 

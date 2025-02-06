@@ -1,7 +1,8 @@
 
 
 import { useState } from 'react';
-import { ResultCard } from "./components/result-card";
+import { ResultCard} from "./components/result-card";
+import { NoneFound } from './components/none-found';
 import cocktailsData from './assets/scripts/output/veda_cocktails.json';
 
 interface Cocktail {
@@ -105,12 +106,7 @@ const App = () => {
                     />
                   ))
                 ) : (
-                  <div className="no-results-placeholder">
-                  {/* <img 
-                    src='/images/Shrooms1.png' 
-                    alt='no results shrooms'
-                  /> */}
-                </div>
+                 <NoneFound/>
                 )}
               </div>
         </div>

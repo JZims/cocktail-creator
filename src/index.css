@@ -201,6 +201,12 @@ body {
   object-fit: contain;
 }
 
+.none-found {
+  text-align: center;
+  grid-area: 6 / 2;
+  line-height: 3;
+}
+
 @media (max-width: 768px) {
   .search-controls {
     flex-direction: column;
