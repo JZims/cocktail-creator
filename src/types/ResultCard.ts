@@ -6,11 +6,6 @@ interface Ingredient {
   interface SeasonalAssociation {
     season: string;
   }
-  
-  interface FlavorProfile {
-    flavor: string;
-  }
-  
   interface Cocktail {
     name: string;
     ingredients: Ingredient[];
