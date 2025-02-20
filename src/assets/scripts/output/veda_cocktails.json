@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 0.25
                 }
             ],
             "seasonal_associations": [
@@ -37,9 +37,7 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Bitter"
-                }
+                "Bitter"
             ]
         },
         {
@@ -63,7 +61,7 @@
                 },
                 {
                     "name": "Pear bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 0.4
                 }
             ],
             "seasonal_associations": [
@@ -82,12 +80,9 @@
             "strength": "Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Fruity"
-                }
+                "Dry",
+                "Sweet",
+                "Fruity"
             ]
         },
         {
@@ -95,7 +90,7 @@
             "ingredients": [
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Veda",
@@ -127,9 +122,8 @@
             "strength": "Strong",
             "garnish": "Lemon Peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                "Dry",
+                "Sweet"
             ]
         },
         {
@@ -145,7 +139,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 0.4
                 },
                 {
                     "name": "Creme de Cacao",
@@ -165,9 +159,8 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -200,9 +193,7 @@
             "strength": "Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet"
-                }
+                "Sweet"
             ]
         },
         {
@@ -242,12 +233,9 @@
             "strength": "Medium",
             "garnish": "Lime wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Spicy"
-                }
+                "Sweet", 
+                "Sour",
+                "Spicy"
             ]
         },
         {
@@ -283,9 +271,8 @@
             "strength": "Strong",
             "garnish": "Lemon Peel",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -314,9 +301,8 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                 "Sweet"
             ]
         },
         {
@@ -359,15 +345,10 @@
             "strength": "Medium Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Nutty"
-                },
-                {
-                    "flavor": "Smokey"
-                }
+                "Dry",
+                "Sweet",
+                "Nutty",
+                "Smokey"
             ]
         },
         {
@@ -403,12 +384,9 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Fruity"
-                }
+                 "Dry",
+                "Sweet",
+                "Fruity"
             ]
         },
         {
@@ -420,7 +398,7 @@
                 },
                 {
                     "name": "Spiced Chocolate bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 2.0
                 },
                 {
                     "name": "Luxardo Maraschino",
@@ -452,12 +430,9 @@
             "strength": "Strong",
             "garnish": "Cherry and green olive",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Fruity"
-                }
+                 "Dry",
+                "Sweet",
+                "Fruity"
             ]
         },
         {
@@ -501,12 +476,9 @@
             "strength": "Medium",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Nutty"
-                }
+                 "Sweet", 
+                "Sour",
+                "Nutty"
             ]
         },
         {
@@ -530,7 +502,7 @@
                 },
                 {
                     "name": "Xocolatl bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 }
             ],
             "seasonal_associations": [
@@ -546,9 +518,8 @@
             "strength": "Medium",
             "garnish": "Orange zest",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -588,15 +559,9 @@
             "strength": "Strong",
             "garnish": "Orange Zest",
             "flavor_profile": [
-                {
-                    "flavor": "Bitter Sweet"
-                },
-                {
-                    "flavor": "Floral"
-                },
-                {
-                    "flavor": "Smokey"
-                }
+                "Bittersweet",
+                "Floral",
+                "Smokey"
             ]
         },
         {
@@ -639,9 +604,8 @@
             "strength": "Strong",
             "garnish": "Mint peak and Orange Wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -681,9 +645,8 @@
             "strength": "Medium",
             "garnish": "Lemon wheel",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -723,12 +686,9 @@
             "strength": "Medium",
             "garnish": "Raspberry on stick",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Tropical"
-                }
+                 "Sweet", 
+                "Sour",
+                "Tropical"
             ]
         },
         {
@@ -740,7 +700,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Scotch",
@@ -764,9 +724,7 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Tropical"
-                }
+                "Tropical"
             ]
         },
         {
@@ -790,7 +748,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 }
             ],
             "seasonal_associations": [
@@ -809,15 +767,10 @@
             "strength": "Strong",
             "garnish": "Orange wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Herbal"
-                },
-                {
-                    "flavor": "Spicy"
-                }
+                 "Dry",
+                "Sweet",
+                "Herbal",
+                "Spicy"
             ]
         },
         {
@@ -856,12 +809,9 @@
             "strength": "Light",
             "garnish": "Lime wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Spicy"
-                }
+                 "Dry",
+                "Sweet",
+                "Spicy"
             ]
         },
         {
@@ -893,9 +843,8 @@
             "strength": "Light",
             "garnish": "Lemon zest",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -931,12 +880,9 @@
             "strength": "Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Floral"
-                }
+                 "Sweet", 
+                "Sour",
+                "Floral"
             ]
         },
         {
@@ -975,12 +921,9 @@
             "strength": "Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet Sour"
-                },
-                {
-                    "flavor": "Herbal"
-                }
+                "Sweet",
+                 "Sour",
+                "Herbal"
             ]
         },
         {
@@ -1008,9 +951,7 @@
             "strength": "Strong",
             "garnish": "Lime peel",
             "flavor_profile": [
-                {
-                    "flavor": "Bitter Sweet"
-                }
+                "Bittersweet"
             ]
         },
         {
@@ -1050,12 +991,8 @@
             "strength": "Light Medium",
             "garnish": "Pineapple Wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet"
-                },
-                {
-                    "flavor": "Tropical"
-                }
+                "Sweet",
+                "Tropical"
             ]
         },
         {
@@ -1095,9 +1032,8 @@
             "strength": "Light",
             "garnish": "Blackberry",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -1105,7 +1041,7 @@
             "ingredients": [
                 {
                     "name": "Orange Bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Veda",
@@ -1133,9 +1069,8 @@
             "strength": "Strong",
             "garnish": "Maraschino cherry",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1170,9 +1105,7 @@
             "strength": "Strong",
             "garnish": "Orange Peel",
             "flavor_profile": [
-                {
-                    "flavor": "Bitter Sweet"
-                }
+                "Bittersweet"
             ]
         },
         {
@@ -1188,7 +1121,7 @@
                 },
                 {
                     "name": "Xocolatl Bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 2.0
                 },
                 {
                     "name": "Veda",
@@ -1212,9 +1145,8 @@
             "strength": "Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1261,9 +1193,8 @@
             "strength": "Medium",
             "garnish": "Lemon wheel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1299,12 +1230,9 @@
             "strength": "Medium",
             "garnish": "Lime wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Smokey"
-                }
+                 "Sweet", 
+                "Sour",
+                "Smokey"
             ]
         },
         {
@@ -1344,12 +1272,9 @@
             "strength": "Medium",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Tropical"
-                }
+                 "Sweet", 
+                "Sour",
+                "Tropical"
             ]
         },
         {
@@ -1384,12 +1309,9 @@
             "strength": "Light",
             "garnish": "Pink Grapefruit wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Citrus"
-                }
+                 "Dry",
+                "Sweet",
+                "Citrusy"
             ]
         },
         {
@@ -1432,12 +1354,9 @@
             "strength": "Strong",
             "garnish": "Mint peaks",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Nutty"
-                }
+                 "Sweet", 
+                "Sour",
+                "Nutty"
             ]
         },
         {
@@ -1453,7 +1372,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Veda",
@@ -1473,9 +1392,7 @@
             "strength": "Strong",
             "garnish": "Cocktail cherry",
             "flavor_profile": [
-                {
-                    "flavor": "Bitter Sweet"
-                }
+                "Bittersweet"
             ]
         },
         {
@@ -1518,12 +1435,9 @@
             "strength": "Medium",
             "garnish": "Lime wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet and sour"
-                },
-                {
-                    "flavor": "Smoky"
-                }
+                "Sweet",
+                "Sour",
+                "Smokey"
             ]
         },
         {
@@ -1542,8 +1456,8 @@
                     "measurement_fl_oz": 1.66
                 },
                 {
-                    "name": "Bokers Bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "name": "Bokers bitters",
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Veda",
@@ -1569,9 +1483,7 @@
             "strength": "Strong",
             "garnish": "Olive",
             "flavor_profile": [
-                {
-                    "flavor": "Dry"
-                }
+                "Dry"
             ]
         },
         {
@@ -1606,9 +1518,7 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Bitter Sweet"
-                }
+                "Bittersweet"
             ]
         },
         {
@@ -1644,12 +1554,9 @@
             "strength": "Medium Strong",
             "garnish": "Pink Grapefruit Wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Effervescent"
-                }
+                 "Sweet", 
+                "Sour",
+                "Effervescent"
             ]
         },
         {
@@ -1689,9 +1596,8 @@
             "strength": "Medium Strong",
             "garnish": "Lemon peel",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -1738,9 +1644,8 @@
             "strength": "Strong",
             "garnish": "Lemon peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1780,12 +1685,9 @@
             "strength": "Strong",
             "garnish": "Dehydrated banana",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Tropical"
-                }
+                 "Sweet", 
+                "Sour",
+                "Tropical"
             ]
         },
         {
@@ -1832,12 +1734,9 @@
             "strength": "Medium",
             "garnish": "Lime wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Floral"
-                }
+                 "Sweet", 
+                "Sour",
+                "Floral"
             ]
         },
         {
@@ -1845,7 +1744,7 @@
             "ingredients": [
                 {
                     "name": "Chocolate bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Gin",
@@ -1877,9 +1776,8 @@
             "strength": "Strong",
             "garnish": "Candied ginger",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1918,9 +1816,8 @@
             "strength": "Medium",
             "garnish": "Pineapple wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1956,9 +1853,8 @@
             "strength": "Strong",
             "garnish": "Lemon zest",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -1974,7 +1870,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Bourbon",
@@ -2009,12 +1905,9 @@
             "strength": "Medium Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Spice"
-                }
+                 "Sweet", 
+                "Sour",
+                "Spicy"
             ]
         },
         {
@@ -2061,9 +1954,8 @@
             "strength": "Medium",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -2103,9 +1995,7 @@
             "strength": "Strong",
             "garnish": "Cherries on stick",
             "flavor_profile": [
-                {
-                    "flavor": "Floral"
-                }
+                "Floral"
             ]
         },
         {
@@ -2117,7 +2007,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Veda",
@@ -2141,9 +2031,8 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -2151,7 +2040,7 @@
             "ingredients": [
                 {
                     "name": "Grapefruit bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Tonic",
@@ -2186,9 +2075,8 @@
             "strength": "Medium",
             "garnish": "Grapefruit peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -2204,7 +2092,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Sugar syrup 1",
@@ -2231,9 +2119,8 @@
             "strength": "Medium",
             "garnish": "Lime peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -2276,12 +2163,9 @@
             "strength": "Light",
             "garnish": "Orange Wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Effervescent"
-                }
+                 "Dry",
+                "Sweet",
+                "Effervescent"
             ]
         },
         {
@@ -2325,15 +2209,10 @@
             "strength": "Strong",
             "garnish": "Grated cinnamon",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Herbal"
-                },
-                {
-                    "flavor": "Smokey"
-                }
+                 "Sweet", 
+                "Sour",
+                "Herbal",
+                "Smokey"
             ]
         },
         {
@@ -2368,9 +2247,8 @@
             "strength": "Medium Strong",
             "garnish": "Suggared Rim",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                }
+                 "Sweet", 
+                "Sour"
             ]
         },
         {
@@ -2386,7 +2264,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 0.4
                 },
                 {
                     "name": "Veda",
@@ -2406,9 +2284,7 @@
             "strength": "Strong",
             "garnish": "Orange Coin",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet"
-                }
+                "Sweet"
             ]
         },
         {
@@ -2420,7 +2296,7 @@
                 },
                 {
                     "name": "Celery bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Byrrh",
@@ -2444,12 +2320,9 @@
             "strength": "Strong",
             "garnish": "Basil leaf",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Herbal"
-                }
+                 "Dry",
+                "Sweet",
+                "Herbal"
             ]
         },
         {
@@ -2492,12 +2365,9 @@
             "strength": "Light Medium",
             "garnish": "Mint peak",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                },
-                {
-                    "flavor": "Herbal"
-                }
+                 "Dry",
+                "Sweet",
+                "Herbal"
             ]
         },
         {
@@ -2521,7 +2391,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 }
             ],
             "seasonal_associations": [
@@ -2537,9 +2407,7 @@
             "strength": "Strong",
             "garnish": "Orange twist",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet"
-                }
+                "Sweet"
             ]
         },
         {
@@ -2559,7 +2427,7 @@
                 },
                 {
                     "name": "Peach bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 0.4
                 }
             ],
             "seasonal_associations": [
@@ -2581,9 +2449,8 @@
             "strength": "Strong",
             "garnish": "Lemon zest",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -2619,12 +2486,9 @@
             "strength": "Medium",
             "garnish": "Grated Cinnamon",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Fruity"
-                }
+                 "Sweet", 
+                "Sour",
+                "Fruity"
             ]
         },
         {
@@ -2660,12 +2524,8 @@
             "strength": "Medium",
             "garnish": "Orange coin",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet"
-                },
-                {
-                    "flavor": "Dry"
-                }
+                "Sweet",
+                "Dry"
             ]
         },
         {
@@ -2700,12 +2560,8 @@
             "strength": "Light",
             "garnish": "Orange Wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Effervescent"
-                },
-                {
-                    "flavor": "Bitter Sweet"
-                }
+                "Effervescent",
+                "Bittersweet"
             ]
         },
         {
@@ -2713,7 +2569,7 @@
             "ingredients": [
                 {
                     "name": "Angostura cocoa bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 0.4
                 },
                 {
                     "name": "Gin",
@@ -2745,9 +2601,8 @@
             "strength": "Strong",
             "garnish": "Orange Peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -2793,15 +2648,10 @@
             "strength": "Medium",
             "garnish": "Celery root",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Savory"
-                },
-                {
-                    "flavor": "Spicy"
-                }
+                 "Sweet", 
+                "Sour",
+                "Savory",
+                "Spicy"
             ]
         },
         {
@@ -2809,7 +2659,7 @@
             "ingredients": [
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 0.4
                 },
                 {
                     "name": "Ginger Beer",
@@ -2840,12 +2690,8 @@
             "strength": "Light",
             "garnish": "Lime wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Spicy"
-                },
-                {
-                    "flavor": "Effervescent"
-                }
+                "Spicy",
+                "Effervescent"
             ]
         },
         {
@@ -2857,7 +2703,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "2 Dashes"
+                    "measurement_fl_oz": 0.4
                 },
                 {
                     "name": "Veda",
@@ -2877,9 +2723,7 @@
             "strength": "Strong",
             "garnish": "Orange peel",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet"
-                }
+                "Sweet"
             ]
         },
         {
@@ -2918,15 +2762,10 @@
             "strength": "Strong",
             "garnish": "-",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Herbal"
-                },
-                {
-                    "flavor": "Citrusy"
-                }
+                 "Sweet", 
+                "Sour",
+                "Herbal",
+                "Citrusy"
             ]
         },
         {
@@ -2958,9 +2797,7 @@
             "strength": "Medium",
             "garnish": "Lemon wedge",
             "flavor_profile": [
-                {
-                    "flavor": "Effervecent"
-                }
+                "Effervescent"
             ]
         },
         {
@@ -3010,12 +2847,9 @@
             "strength": "Medium Strong",
             "garnish": "Peated whiskey spray",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Smokey"
-                }
+                 "Sweet", 
+                "Sour",
+                "Smokey"
             ]
         },
         {
@@ -3039,7 +2873,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Lime juice",
@@ -3062,15 +2896,10 @@
             "strength": "Medium",
             "garnish": "Mint peak",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Fruity"
-                },
-                {
-                    "flavor": "Tropical"
-                }
+                 "Sweet", 
+                "Sour",
+                "Fruity",
+                "Tropical"
             ]
         },
         {
@@ -3121,9 +2950,8 @@
             "strength": "Medium",
             "garnish": "Lemon wheel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sour"
-                }
+                "Dry", 
+                "Sour"
             ]
         },
         {
@@ -3158,9 +2986,8 @@
             "strength": "Strong",
             "garnish": "Orange zest",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -3199,12 +3026,9 @@
             "strength": "Strong",
             "garnish": "Sugarred Rim",
             "flavor_profile": [
-                {
-                    "flavor": "Sweet & Sour"
-                },
-                {
-                    "flavor": "Herbal"
-                }
+                "Sweet", 
+                "Sour",
+                "Herbal"
             ]
         },
         {
@@ -3220,7 +3044,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": "1 Dash"
+                    "measurement_fl_oz": 1.0
                 },
                 {
                     "name": "Bianco Vermouth",
@@ -3240,9 +3064,8 @@
             "strength": "Strong",
             "garnish": "Lemon peel",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                 "Dry",
+                "Sweet"
             ]
         },
         {
@@ -3278,9 +3101,8 @@
             "strength": "Strong",
             "garnish": "Lemon zest",
             "flavor_profile": [
-                {
-                    "flavor": "Dry Sweet"
-                }
+                "Dry",
+                "Sweet"
             ]
         }
     ]

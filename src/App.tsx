@@ -13,16 +13,15 @@ interface Cocktail {
   method: string;
   strength: string;
   garnish: string;
-  flavor_profile: any[];
+  flavor_profile: string[];
 }
 
 const App = () => {
-  // const [season, setSeason] = useState('');
-  // const [glassType, setGlassType] = useState('');
   const [selectedSeasons, setSelectedSeasons] = useState<string[]>([]);
   const [selectedGlassTypes, setSelectedGlassTypes] = useState<string[]>([]);
+  const [selectedFlavorProfiles, setSelectedFlavorProfiles] = useState<string[]>([]);
 
-  const allSelected = selectedGlassTypes[0] && selectedSeasons[0];
+  const allSelected = selectedGlassTypes[0] && selectedSeasons[0] && selectedFlavorProfiles[0];
   
   const filteredCocktails = cocktailsData.cocktails.filter(cocktail => {
     const seasonMatch = selectedSeasons.length === 0 || 
@@ -32,9 +31,18 @@ const App = () => {
   
     const glassMatch = selectedGlassTypes.length === 0 || 
       selectedGlassTypes.includes(cocktail.glass_type);
+
+    const flavorProfileMatch = selectedFlavorProfiles.length === 0 ||
+      cocktail.flavor_profile.some(fp =>
+        selectedFlavorProfiles.includes(fp)
+      );
   
-    return seasonMatch && glassMatch;
+    return seasonMatch && glassMatch && flavorProfileMatch;
   });
+
+  const capitalizeFirstLetter = function (string:string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
 
   const handleSeasonChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const value = Array.from(e.target.selectedOptions, option => option.value);
@@ -44,6 +52,11 @@ const App = () => {
   const handleGlassTypeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const value = Array.from(e.target.selectedOptions, option => option.value);
     setSelectedGlassTypes(value);
+  };
+
+  const handleFlavorProfileChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const value = Array.from(e.target.selectedOptions, option => option.value);
+    setSelectedFlavorProfiles(value);
   };
   
   
@@ -58,6 +71,15 @@ const App = () => {
     cocktailsData.cocktails.map(cocktail => cocktail.glass_type)
   )).sort();
 
+  const flavorProfileOptions = Array.from(new Set(
+    cocktailsData.cocktails.map(cocktail => cocktail.flavor_profile)
+    .map(fps => fps.map(fp => fp.toLowerCase()))
+    .reduce(
+      (acc, val) => acc.concat(val), []
+    )
+    .map(fp => capitalizeFirstLetter(fp))
+  )).sort();
+
   return (
     <div className="search-interface">
       <div id="search-block" className="search-block">
@@ -65,7 +87,6 @@ const App = () => {
           <div className="search-controls">
             <div className = "selection-box-wrapper">
               <h2>Seasonal Associations</h2>
-              <h3> Select Multiple </h3>
             <div className="select-wrapper">
               <select 
                 className="select" 
@@ -101,6 +122,29 @@ const App = () => {
                 <div className="select-arrow" />
               </div>
             </div>
+
+            <div className="selection-box-wrapper">
+            <h2> Flavor Profile </h2>
+            <div className="select-wrapper">
+              <select 
+                className="select" 
+                multiple 
+                value={selectedFlavorProfiles} 
+                onChange={handleFlavorProfileChange} >
+                <option value="">Select Flavor Profiles </option>
+                { flavorProfileOptions.map((flavor) => (
+                      <option key={flavor} value={flavor}>
+                        {flavor}
+                      </option>
+                    ))
+                  })
+                </select>
+
+              
+                <div className="select-arrow" />
+              </div>
+            </div>
+
           </div>
             <div className="results-grid">
                 { allSelected && filteredCocktails.length > 0 ? (

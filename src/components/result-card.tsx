@@ -1,6 +1,6 @@
 import { ResultCardProps } from '../types/ResultCard';
 
-export function ResultCard({ cocktail, index}: ResultCardProps & { index: number }) {
+export function ResultCard({cocktail, index}: ResultCardProps & { index: number }) {
   const { 
     name,
     ingredients, 
@@ -27,8 +27,8 @@ export function ResultCard({ cocktail, index}: ResultCardProps & { index: number
          </li>
           <li>Method: {method}</li>
           <li>Strength: {strength}</li>
-          <li>Flavor Profile: {flavor_profile.map(profile => profile.flavor).join(', ')}</li>
-          <li>Garnish with: {garnish}</li>
+          <li>Flavor Profile: {flavor_profile.map(profile => profile).join(', ')}</li>
+          <li>Garnish with: {garnish} </li>
 
         </ul>
       </div>

@@ -19,7 +19,7 @@ interface Ingredient {
     method: string;
     strength: string;
     garnish: string;
-    flavor_profile: FlavorProfile[];
+    flavor_profile: string[];
   }
   
   export interface ResultCardProps {

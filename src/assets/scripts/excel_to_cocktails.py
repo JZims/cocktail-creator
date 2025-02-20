@@ -79,7 +79,7 @@ def excel_to_cocktails_json(csv_path, json_output_path):
         if 'flavor_profile' in row and pd.notna(row['flavor_profile']):
             flavors = row['flavor_profile'].split(',')
             for flavor in flavors:
-                flavor_profile.append({"flavor": flavor.strip()})
+                flavor_profile.append(flavor.strip())
 
         # Future add for flavor profile score
         # flavor_profile = {}
