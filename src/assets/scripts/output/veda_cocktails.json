@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 0.25
+                    "measurement_fl_oz": "1 Dash"
                 }
             ],
             "seasonal_associations": [
@@ -61,7 +61,7 @@
                 },
                 {
                     "name": "Pear bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "2 Dashes"
                 }
             ],
             "seasonal_associations": [
@@ -90,7 +90,7 @@
             "ingredients": [
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -139,7 +139,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Creme de Cacao",
@@ -398,7 +398,7 @@
                 },
                 {
                     "name": "Spiced Chocolate bitters",
-                    "measurement_fl_oz": 2.0
+                    "measurement_fl_oz": "2 Dashes"
                 },
                 {
                     "name": "Luxardo Maraschino",
@@ -502,7 +502,7 @@
                 },
                 {
                     "name": "Xocolatl bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 }
             ],
             "seasonal_associations": [
@@ -700,7 +700,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Scotch",
@@ -748,7 +748,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 }
             ],
             "seasonal_associations": [
@@ -1041,7 +1041,7 @@
             "ingredients": [
                 {
                     "name": "Orange Bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -1121,7 +1121,7 @@
                 },
                 {
                     "name": "Xocolatl Bitters",
-                    "measurement_fl_oz": 2.0
+                    "measurement_fl_oz": "2 Dashes"
                 },
                 {
                     "name": "Veda",
@@ -1368,11 +1368,11 @@
                 },
                 {
                     "name": "Organge bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -1457,7 +1457,7 @@
                 },
                 {
                     "name": "Bokers bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -1744,7 +1744,7 @@
             "ingredients": [
                 {
                     "name": "Chocolate bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Gin",
@@ -1870,7 +1870,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Bourbon",
@@ -2007,7 +2007,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -2040,7 +2040,7 @@
             "ingredients": [
                 {
                     "name": "Grapefruit bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Tonic",
@@ -2092,7 +2092,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Sugar syrup 1",
@@ -2264,7 +2264,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -2296,7 +2296,7 @@
                 },
                 {
                     "name": "Celery bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "2 Dashes"
                 },
                 {
                     "name": "Byrrh",
@@ -2391,7 +2391,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "2 Dashes"
                 }
             ],
             "seasonal_associations": [
@@ -2427,7 +2427,7 @@
                 },
                 {
                     "name": "Peach bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "1 Dash"
                 }
             ],
             "seasonal_associations": [
@@ -2569,7 +2569,7 @@
             "ingredients": [
                 {
                     "name": "Angostura cocoa bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Gin",
@@ -2659,7 +2659,7 @@
             "ingredients": [
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Ginger Beer",
@@ -2703,7 +2703,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 0.4
+                    "measurement_fl_oz": "1 Dash"
                 },
                 {
                     "name": "Veda",
@@ -2873,7 +2873,7 @@
                 },
                 {
                     "name": "Angostura bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "2 Dashes"
                 },
                 {
                     "name": "Lime juice",
@@ -3044,7 +3044,7 @@
                 },
                 {
                     "name": "Orange bitters",
-                    "measurement_fl_oz": 1.0
+                    "measurement_fl_oz": "2 Dashes"
                 },
                 {
                     "name": "Bianco Vermouth",

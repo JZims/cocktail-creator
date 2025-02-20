@@ -21,7 +21,9 @@ export function ResultCard({cocktail, index}: ResultCardProps & { index: number 
           <li>Glass: {glass_type}</li>
           <li>
             <ul>Ingredients: {ingredients.map(ingredient => 
-                <li>{ingredient.name}: {ingredient.measurement_fl_oz}fl oz</li>
+                <li>{ingredient.name}: {
+                  typeof ingredient.measurement_fl_oz == 'string' ? ingredient.measurement_fl_oz : ingredient.measurement_fl_oz + " fl oz"
+                  }</li>
                 )}
             </ul>
          </li>
