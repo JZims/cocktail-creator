@@ -7,7 +7,7 @@ import cocktailsData from './assets/scripts/output/veda_cocktails.json';
 
 interface Cocktail {
   name: string;
-  ingredients: { name: string; measurement_fl_oz: number }[];
+  ingredients: { name: string; measurement_fl_oz: number | string}[];
   seasonal_associations: { season: string }[];
   glass_type: string;
   method: string;
@@ -63,7 +63,9 @@ const App = () => {
       <div id="search-block" className="search-block">
         <div className="container">
           <div className="search-controls">
-          <h2>Seasonal Association</h2>
+            <div className = "selection-box-wrapper">
+              <h2>Seasonal Associations</h2>
+              <h3> Select Multiple </h3>
             <div className="select-wrapper">
               <select 
                 className="select" 
@@ -79,13 +81,16 @@ const App = () => {
               </select>
               <div className="select-arrow" />
             </div>
+            </div>
+          
+            <div className="selection-box-wrapper">
             <h2>Glass Type</h2>
             <div className="select-wrapper">
               <select 
-              className="select" 
-              multiple 
-              value={selectedGlassTypes} 
-              onChange={handleGlassTypeChange} >
+                className="select" 
+                multiple 
+                value={selectedGlassTypes} 
+                onChange={handleGlassTypeChange} >
                 <option value="">Select Glass Type</option>
                 { glassTypeOptions.map((opt) => (
                   <option key={opt} value={opt}>
@@ -96,6 +101,7 @@ const App = () => {
                 <div className="select-arrow" />
               </div>
             </div>
+          </div>
             <div className="results-grid">
                 { allSelected && filteredCocktails.length > 0 ? (
                   filteredCocktails.map((cocktail: Cocktail, index: number) => (

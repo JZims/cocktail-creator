@@ -1,6 +1,6 @@
 interface Ingredient {
     name: string;
-    measurement_fl_oz: number;
+    measurement_fl_oz: number | string;
   }
   
   interface SeasonalAssociation {

@@ -1,0 +1,1 @@
+# To run, first activate th virtual environment with the command: "source Creator/.venv/bin/activate " from within the /scripts/ dir.
