@@ -93,14 +93,14 @@ const App = () => {
                 multiple 
                 value={selectedSeasons} 
                 onChange={handleSeasonChange}>
-                <option value="">Select Season</option>
+                
                 {seasonOptions.map((opt) => (
                   <option key={opt} value={opt} >
                     {opt}
                   </option>
                 ))}
               </select>
-              <div className="select-arrow" />
+              
             </div>
             </div>
           
@@ -112,14 +112,14 @@ const App = () => {
                 multiple 
                 value={selectedGlassTypes} 
                 onChange={handleGlassTypeChange} >
-                <option value="">Select Glass Type</option>
+                
                 { glassTypeOptions.map((opt) => (
                   <option key={opt} value={opt}>
                     {opt}
                   </option>
                   ))}
                 </select>
-                <div className="select-arrow" />
+                
               </div>
             </div>
 
@@ -131,7 +131,7 @@ const App = () => {
                 multiple 
                 value={selectedFlavorProfiles} 
                 onChange={handleFlavorProfileChange} >
-                <option value="">Select Flavor Profiles </option>
+                
                 { flavorProfileOptions.map((flavor) => (
                       <option key={flavor} value={flavor}>
                         {flavor}
@@ -141,7 +141,7 @@ const App = () => {
                 </select>
 
               
-                <div className="select-arrow" />
+                
               </div>
             </div>
 

@@ -946,7 +946,7 @@
                     "season": "Winter"
                 }
             ],
-            "glass_type": "Double Old Fashioned",
+            "glass_type": "Old Fashioned",
             "method": "Stir",
             "strength": "Strong",
             "garnish": "Lime peel",
@@ -1027,7 +1027,7 @@
                     "season": "Autumn"
                 }
             ],
-            "glass_type": "Old-Fashioend",
+            "glass_type": "Old Fashioned",
             "method": "Shake and fine strain",
             "strength": "Light",
             "garnish": "Blackberry",
