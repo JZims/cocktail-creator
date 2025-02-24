@@ -628,7 +628,7 @@
                     "measurement_fl_oz": 0.5
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 }
             ],
@@ -1003,7 +1003,7 @@
                     "measurement_fl_oz": 0.83
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 },
                 {
@@ -1161,7 +1161,7 @@
                     "measurement_fl_oz": 0.67
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 },
                 {
@@ -1243,7 +1243,7 @@
                     "measurement_fl_oz": 0.5
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 },
                 {
@@ -1612,7 +1612,7 @@
                     "measurement_fl_oz": 0.75
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 },
                 {
@@ -2143,7 +2143,7 @@
                     "measurement_fl_oz": 1.0
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 }
             ],
@@ -2172,7 +2172,7 @@
             "name": "Show me the smoke",
             "ingredients": [
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 },
                 {
@@ -2914,7 +2914,7 @@
                     "measurement_fl_oz": 1.5
                 },
                 {
-                    "name": "2",
+                    "name" : "2:1 Sugar Syrup",
                     "measurement_fl_oz": 1.0
                 },
                 {
@@ -2991,7 +2991,7 @@
             ]
         },
         {
-            "name": "Withces Flight",
+            "name": "Witches Flight",
             "ingredients": [
                 {
                     "name": "Veda",

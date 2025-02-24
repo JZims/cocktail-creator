@@ -1,4 +1,3 @@
-
 import pandas as pd
 import json
 import os
@@ -40,90 +39,77 @@ def normalize_glass_type(glass_type: str) -> str:
     # Return mapped value or original if no mapping exists
     return glass_mapping.get(glass_type, glass_type.title())
 
-def excel_to_cocktails_json(csv_path, json_output_path):
-    # Read Excel file
-    df = pd.read_csv(csv_path)
+def normalize_measurement(measurement: str) -> str:
+    """Normalize measurements, especially handling dashes."""
+    if not isinstance(measurement, str):
+        return measurement
+        
+    measurement = str(measurement).strip().lower()
+    
+    # Handle dash variations
+    dash_variations = ['dash', 'dashes', 'dash.', 'dashes.', 'dsh', 'dshs']
+    
+    for variation in dash_variations:
+        if variation in measurement:
+            # Extract the number
+            try:
+                number = ''.join(filter(str.isdigit, measurement))
+                if number:
+                    number = int(number)
+                    return f"{number} {'Dash' if number == 1 else 'Dashes'}"
+            except ValueError:
+                pass
+    
+    return measurement
 
-    print("DataFrame head:")
-    print(df.head())
+def excel_to_cocktails_json(csv_path, json_output_path):
+    # Read Excel file with different handling for empty cells
+    df = pd.read_csv(csv_path, keep_default_na=False)
     
     # Initialize cocktails list
     cocktails = []
+    current_cocktail = None
+    current_ingredients = []
     
     # Iterate through each row in DataFrame
     for index, row in df.iterrows():
-
-        print(f"\nProcessing row {index}:")
-        
-
-        # Parse ingredients from potential comma-separated strings
-        ingredients_list = []
-        if 'ingredients' in row and pd.notna(row['ingredients']):
-            raw_ingredients = row['ingredients'].split(',')
-            for ingredient in raw_ingredients:
-                if ':' in ingredient:
-                    name, measurement = ingredient.split(':')
-                    ingredients_list.append({
-                        "name": name.strip(),
-                        "measurement_fl_oz": float(measurement.strip())
-                    })
-        
-        # Parse seasonal associations
-        seasonal_list = []
-        if 'seasonal_associations' in row and pd.notna(row['seasonal_associations']):
-            seasons = row['seasonal_associations'].split(',')
-            for season in seasons:
-                seasonal_list.append({"season": season.strip()})
-        # Parse flavor profiles
-        flavor_profile = []
-        if 'flavor_profile' in row and pd.notna(row['flavor_profile']):
-            flavors = row['flavor_profile'].split(',')
-            for flavor in flavors:
-                flavor_profile.append(flavor.strip())
-
-        # Future add for flavor profile score
-        # flavor_profile = {}
-        # if all(x in row for x in ['sweet', 'sour', 'bitter', 'salty']):
-        #     flavor_profile = {
-        #         "sweet": int(row['sweet']) if pd.notna(row['sweet']) else 0,
-        #         "sour": int(row['sour']) if pd.notna(row['sour']) else 0,
-        #         "bitter": int(row['bitter']) if pd.notna(row['bitter']) else 0,
-        #         "salty": int(row['salty']) if pd.notna(row['salty']) else 0
-        #     }
-        
-        # Create cocktail dictionary
-        cocktail = {
-            "name": row.get('name', ''),
-            "ingredients": ingredients_list,
-            "seasonal_associations": seasonal_list,
-            "glass_type": normalize_glass_type(row.get('glass_type', '')),  # Add normalization here
-            "method": row.get('method', ''),
-            "strength": row.get('strength', ''),
-            "garnish": row.get('garnish', ''),
-            "flavor_profile": flavor_profile
+        # If we have a cocktail name, this is the start of a new cocktail
+        if row['Cocktail Name']:
+            # Save the previous cocktail if it exists
+            if current_cocktail is not None:
+                current_cocktail['ingredients'] = current_ingredients
+                cocktails.append(current_cocktail)
+            
+            # Initialize new cocktail
+            current_ingredients = []
+            seasons = [s.strip() for s in str(row['Season']).split(',') if s.strip()]
+            flavors = [f.strip() for f in str(row['Flavor Profile']).split(',') if f.strip()]
+            
+            current_cocktail = {
+                "name": row['Cocktail Name'],
+                "ingredients": [],
+                "seasonal_associations": [{"season": season} for season in seasons],
+                "glass_type": normalize_glass_type(row['Glass']),
+                "method": row['Method'],
+                "strength": row['Strength'],
+                "garnish": row['Garnish'],
+                "flavor_profile": flavors
             }
         
-        print(f"Created cocktail entry: {cocktail}")
-        cocktails.append(cocktail)
-
-    # Add validation step
-        if cocktail["glass_type"] not in [
-            "Old Fashioned",
-            "Double Old Fashioned",
-            "Nick & Nora",
-            "Coupe",
-            "Highball",
-            "Collins",
-            "Hurricane",
-            "Wine Glass"
-        ]:
-            print(f"Warning: Unusual glass type '{cocktail['glass_type']}' for cocktail '{cocktail['name']}'")
+        # Add ingredient if both name and quantity exist
+        if row['Ingredients'] and row['Quantity (oz)']:
+            current_ingredients.append({
+                "name": row['Ingredients'].strip(),
+                "measurement_fl_oz": normalize_measurement(row['Quantity (oz)'].strip())
+            })
     
+    # Don't forget to add the last cocktail
+    if current_cocktail is not None:
+        current_cocktail['ingredients'] = current_ingredients
+        cocktails.append(current_cocktail)
     
-    # Create final dictionary
+    # Create final dictionary and write to JSON
     output = {"cocktails": cocktails}
-    
-    # Write to JSON file
     with open(json_output_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=4)
 

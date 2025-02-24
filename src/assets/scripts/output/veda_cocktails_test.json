@@ -1,0 +1,3877 @@
+[
+  {
+    "name": "Veda Old Fashioned",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Double Old Fashioned",
+    "method": "Stirred",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Negroni",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Double Old Fashioned",
+    "method": "Stirred",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Mule",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "2 dashes"
+      },
+      {
+        "name": "Ginger Beer",
+        "measurement_fl_oz": 3.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Build",
+    "strength": "Light",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Last Mushroom",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Maraschino",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lime",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Sprint"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Americano",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Campari",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Build",
+    "strength": "Light",
+    "garnish": "Orange Wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Margarita",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Agave",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lime",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Double Old Fashioned",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Spirtz",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Prosecco",
+        "measurement_fl_oz": 2.5
+      },
+      {
+        "name": "Soda",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Wine Glass",
+    "method": "Build",
+    "strength": "Medium",
+    "garnish": "Lemon wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Paper Plane",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Aperol",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and Fine strain",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Adonis",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Palo Cortado Sherry",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Amontillado Sherry",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Medium",
+    "garnish": "Orange coin",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Manhattan",
+    "ingredients": [
+      {
+        "name": "Rye Whiskey",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1 Dash"
+      },
+      {
+        "name": "Organge bitters",
+        "measurement_fl_oz": "1 Dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Cocktail cherry",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Sour",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Simple syrup",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lemon Juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Egg White",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Rocks glass",
+    "method": "Double Shake",
+    "strength": "Medium Strong",
+    "garnish": "Lemon peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "M&M (Mushroom & Mezcal)",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 1.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Double Old Fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lime peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "BeatIt",
+    "ingredients": [
+      {
+        "name": "Rye Whiskey",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Tawny Port",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Affinity",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Dry Vermouth",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1 Dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon Peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Manhattan Transfer",
+    "ingredients": [
+      {
+        "name": "Rye Whiskey",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Dry Vermouth",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Orange Bitters",
+        "measurement_fl_oz": "1 Dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Maraschino cherry",
+    "flavor_profile": []
+  },
+  {
+    "name": "Yamabuki",
+    "ingredients": [
+      {
+        "name": "Japanese Whiskey",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Bianco Vermouth",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Avion",
+    "ingredients": [
+      {
+        "name": "Tequila blanco",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Aperol",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Shake and fine strain",
+    "strength": "Strong",
+    "garnish": "Lemon Peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Hunter's Verdict",
+    "ingredients": [
+      {
+        "name": "Aged rum",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Ginger Liqueur",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "1dash"
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Double Old Fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Devil's Roots",
+    "ingredients": [
+      {
+        "name": "Straight Whiskey",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Campari",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Elderflower Liqueur",
+        "measurement_fl_oz": 0.17
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange Zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Me, Myself & I",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Italicus",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Double Old Fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange Peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Smoke & Mirrors",
+    "ingredients": [
+      {
+        "name": "Peated Whiskey",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Apricot liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange Coin",
+    "flavor_profile": []
+  },
+  {
+    "name": "Withces Flight",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Strega",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lemon Juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and Fine strain",
+    "strength": "Strong",
+    "garnish": "Sugarred Rim",
+    "flavor_profile": []
+  },
+  {
+    "name": "Midnight Mush",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": "1/5"
+      },
+      {
+        "name": "Bonal",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Cynar",
+        "measurement_fl_oz": "1/5"
+      },
+      {
+        "name": "Xocolatl Bitters",
+        "measurement_fl_oz": "2 Dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Sidecap",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "measurement_fl_oz": 1.52
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lemon Juice",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and Fine Strain",
+    "strength": "Medium Strong",
+    "garnish": "Suggared Rim",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Mary",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Tomato pasata",
+        "measurement_fl_oz": 3.0
+      },
+      {
+        "name": "Salt",
+        "measurement_fl_oz": "pinch"
+      },
+      {
+        "name": "Pepper",
+        "measurement_fl_oz": "pinch"
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "measurement_fl_oz": "1dash"
+      },
+      {
+        "name": "Tobasco",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Celery root",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Garibaldi",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Blood Orange juice",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Pink Grapefruit juice",
+        "measurement_fl_oz": 1.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Blend without ice until fluffy",
+    "strength": "Light",
+    "garnish": "Pink Grapefruit wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Tropical Mushroom",
+    "ingredients": [
+      {
+        "name": "Cachaca",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Giffard Banana do brazil",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Churn",
+    "strength": "Medium",
+    "garnish": "Grated Cinnamon",
+    "flavor_profile": []
+  },
+  {
+    "name": "Beelzebub",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Orgeat",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Nick n Nora",
+    "method": "Shake and fine strain",
+    "strength": "Medium Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Swizzle Suspect",
+    "ingredients": [
+      {
+        "name": "Suze",
+        "measurement_fl_oz": 1.33
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Peach liqueur",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Mint leaves",
+        "measurement_fl_oz": 8.0
+      },
+      {
+        "name": "Seedless green grapes",
+        "measurement_fl_oz": 6.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "",
+    "strength": "Light Medium",
+    "garnish": "Mint peak",
+    "flavor_profile": []
+  },
+  {
+    "name": "The Malague\u00f1a",
+    "ingredients": [
+      {
+        "name": "Blackstrap Rum",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Agave",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Angostura btiters",
+        "measurement_fl_oz": "3dashes"
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange twist",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Paloma",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Pink Grapefruit Soda",
+        "measurement_fl_oz": "Top up"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Build",
+    "strength": "Medium Strong",
+    "garnish": "Pink Grapefruit Wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Drunken Pirate",
+    "ingredients": [
+      {
+        "name": "Overproof aged rum",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "falernum liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Maple syrup",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Shake and strain",
+    "strength": "Strong",
+    "garnish": "Mint peak and Orange Wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Veda Martinez",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.75
+      },
+      {
+        "name": "Antica Formula",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Luxardo Maraschino",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Angostura cocoa bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange Peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Pinched Notes",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Amontillado Sherry",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Chili liqueur",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Chocolate bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Candied ginger",
+    "flavor_profile": []
+  },
+  {
+    "name": "Vedrano",
+    "ingredients": [
+      {
+        "name": "Agricole Rhum",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Pineapple Rum",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Pineapple syrup",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Churn",
+    "strength": "Medium",
+    "garnish": "Mint peak",
+    "flavor_profile": []
+  },
+  {
+    "name": "Highlander",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Served",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Fino Sherry",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "2:1 Sugar Syrup",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Soda",
+        "measurement_fl_oz": 2.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Collins",
+    "method": "Shake and fine strain",
+    "strength": "Light",
+    "garnish": "Orange Wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Pastry War",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Elderflower liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Saline solution ",
+        "measurement_fl_oz": "2drops"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Moment Gone",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Pomegranate juice",
+        "measurement_fl_oz": 1.33
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "2:1 sugar syrup",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Prosecco",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lemon wheel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushrooms and Coke",
+    "ingredients": [
+      {
+        "name": "Martinique Rum",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Pimento liqueur",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "2:1 Sugar Syrup",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Prosecco",
+        "measurement_fl_oz": "1 0.5"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Shake and fine strain",
+    "strength": "Strong",
+    "garnish": "Lemon peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Show me the smoke",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Green chartreuse",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "2:1 Sugar Syrup",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Egg white",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake, fine strain and dry shake.",
+    "strength": "Strong",
+    "garnish": "Grated cinnamon",
+    "flavor_profile": []
+  },
+  {
+    "name": "Cherry Bomb No.2",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Aqua Bianca",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Luxardo Maraschino",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Cherry Heering ",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Spiced Chocolate bitters",
+        "measurement_fl_oz": "2 Dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Cherry and green olive",
+    "flavor_profile": []
+  },
+  {
+    "name": "Vedicilin",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Peated scotch",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Lemon Juice",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Ginger Liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Honey syrup",
+        "measurement_fl_oz": 0.25
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Shake and Fine strain",
+    "strength": "Medium Strong",
+    "garnish": "Peated whiskey spray",
+    "flavor_profile": []
+  },
+  {
+    "name": "Poison Dart",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Orgeat syrup",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Cinnamon syrup",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Pimento liqueur",
+        "measurement_fl_oz": 0.54
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Shake and fine strain",
+    "strength": "Medium Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Vedroni Sour",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Campari",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Orange juice",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "2:1 Sugar syrup",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Egg white",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake, fine strain and Dry shake",
+    "strength": "Medium",
+    "garnish": "Lemon wheel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Yesterday, Today and Veda",
+    "ingredients": [
+      {
+        "name": "Rye Whiskey",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Cynar",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Ben\u00e9dictine",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Italian Buck",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Cynar",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Ginger beer",
+        "measurement_fl_oz": 2.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Shake and fine strain",
+    "strength": "Light",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Jim Jam",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Apricot liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Shake and finestrain",
+    "strength": "Light",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Velvet Touch",
+    "ingredients": [
+      {
+        "name": "Rye Whiskey",
+        "measurement_fl_oz": 1.33
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "P.X Sherry",
+        "measurement_fl_oz": 0.33
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Trident",
+    "ingredients": [
+      {
+        "name": "Manzanilla Sherry",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Aquavit",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Peach bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Susto",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.83
+      },
+      {
+        "name": "Byrrh",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Celery bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Old-fashioned ",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Basil leaf",
+    "flavor_profile": []
+  },
+  {
+    "name": "Black Magic no.2",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Peated scotch",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Banana Do Brazil ",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Saline solution",
+        "measurement_fl_oz": "2 drops"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Old-fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Daiquiri",
+    "ingredients": [
+      {
+        "name": "Aged rum",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Pinepple rum",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "2:1 Sugar syrup",
+        "measurement_fl_oz": 0.25
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "French Kiss No.4",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Orgeat",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Raspberry syrup",
+        "measurement_fl_oz": 0.25
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Raspberry on stick",
+    "flavor_profile": []
+  },
+  {
+    "name": "Avenue San Maritn",
+    "ingredients": [
+      {
+        "name": "Pisco",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Honey",
+        "measurement_fl_oz": "2barspoon"
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Ginger syrup",
+        "measurement_fl_oz": 0.1
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Old fashioned",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Royal Balcan",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Benedictine ",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Grapefruit bitters",
+        "measurement_fl_oz": "1dash"
+      },
+      {
+        "name": "Tonic",
+        "measurement_fl_oz": 2.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Grapefruit peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "French 40",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "2:1 Sugary Syrup",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Champagne / Sparkling wine",
+        "measurement_fl_oz": 2.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Collins",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lemon wheel",
+    "flavor_profile": []
+  },
+  {
+    "name": "M.S",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Creme de mure",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.83
+      },
+      {
+        "name": "2:1 Sugar syrup",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Absinth",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Old-fashioend",
+    "method": "Shake and fine strain",
+    "strength": "Light",
+    "garnish": "Blackberry",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Hold",
+    "ingredients": [
+      {
+        "name": "Jamaican overproof rum",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Elderflower liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Orgeat",
+        "measurement_fl_oz": 0.33
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Old-fashioned",
+    "method": "Shake and strain",
+    "strength": "Strong",
+    "garnish": "Mint peaks",
+    "flavor_profile": []
+  },
+  {
+    "name": "A Still Dawn",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.83
+      },
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 0.83
+      },
+      {
+        "name": "Creme de cassis",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Pear bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Atumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Killer Queen",
+    "ingredients": [
+      {
+        "name": "White overproof rum",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Rose liqueur",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Prophet in Plain Clothes",
+    "ingredients": [
+      {
+        "name": "Peated Scotch",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Fernet Branca",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Rosso Vermouth",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Saline solution",
+        "measurement_fl_oz": "3drops"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Cherries on stick",
+    "flavor_profile": []
+  },
+  {
+    "name": "African Flower",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Creme de Cacao",
+        "measurement_fl_oz": 0.17
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "old-fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Crowned King",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.33
+      },
+      {
+        "name": "Amaro",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Amontillado Sherry",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Apricot liqueur",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Orgeat",
+        "measurement_fl_oz": 0.17
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "A Moment of Silence",
+    "ingredients": [
+      {
+        "name": "Rye",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Apricot Liqueur",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Applejack brandy",
+        "measurement_fl_oz": 0.25
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old-fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Pura Vida",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 1.33
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Galiano Espresso",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "M. Colada",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Pineapple juice",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lime Juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Coco Lopez",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Hurricane",
+    "method": "Shake",
+    "strength": "Light Medium",
+    "garnish": "Pineapple Wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Rum & Mushroom",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Sugar syrup 1:1",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1dash"
+      },
+      {
+        "name": "Tonic",
+        "measurement_fl_oz": "top-up"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Collins",
+    "method": "Build",
+    "strength": "Medium",
+    "garnish": "Lime peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Positive Side",
+    "ingredients": [
+      {
+        "name": "8yo Rum",
+        "measurement_fl_oz": "1 .5"
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Apricot liqueur",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Sugar syrup 1:1",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Ginger ",
+        "measurement_fl_oz": "1inch"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Poderoso",
+    "ingredients": [
+      {
+        "name": "Aged rum",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Coffee liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Pineapple juice",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Pineapple wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom & Famous",
+    "ingredients": [
+      {
+        "name": "Mezcal",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Aperol",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Nuclear Mushroom Daiquiri",
+    "ingredients": [
+      {
+        "name": "Overoproof rum",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Falernum",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Banana",
+        "measurement_fl_oz": "1/2 fresh"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Hurricane",
+    "method": "Blend with crashed ice",
+    "strength": "Strong",
+    "garnish": "Dehydrated banana",
+    "flavor_profile": []
+  },
+  {
+    "name": "Angel's Share No.3",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Walnut liqueur",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Tawny port",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Poet's Dream",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Benedictine",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Dry vermouth",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Martini",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.66
+      },
+      {
+        "name": "Marsala",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Dry Vermouth",
+        "measurement_fl_oz": 0.16
+      },
+      {
+        "name": "Bokers bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Martini",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Olive",
+    "flavor_profile": []
+  },
+  {
+    "name": "Dante's Shroom",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.16
+      },
+      {
+        "name": "Blood orange juice",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Maple syrup",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Xocolatl bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Orange zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "My shroomy tie",
+    "ingredients": [
+      {
+        "name": "Aged rum",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Pineapple rum",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Orange curacao",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Orgeat",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Falernum",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Absinthe",
+        "measurement_fl_oz": "2dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old-fashioned",
+    "method": "Shake and fine strain",
+    "strength": "Strong",
+    "garnish": "Orange wedge ",
+    "flavor_profile": []
+  },
+  {
+    "name": "Satan's Whiskers No.2",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Dry Vermouth",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Rosso Vermouth",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Orange juice",
+        "measurement_fl_oz": 0.67
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Strong",
+    "garnish": "Orange zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "New Carre",
+    "ingredients": [
+      {
+        "name": "Rye whiskey",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Cognac",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Rosso Vermouth",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Peychaud's bitters",
+        "measurement_fl_oz": "2dashes"
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Double old fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "New York Sling",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Cherry heering",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Triple sec",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Pineapple juice",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Grenadine ",
+        "measurement_fl_oz": 0.1
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "1dash"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Sling glass",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Pineapple wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "The Ground",
+    "ingredients": [
+      {
+        "name": "Rye",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Ammontillado Sherry",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "3dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "-",
+    "flavor_profile": []
+  },
+  {
+    "name": "Hound's tooth",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Pink grapefruit juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Grapefruit bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Grapefruit Zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "C'est la Evi",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Apple juice",
+        "measurement_fl_oz": 0.66
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Cinnamon syrup",
+        "measurement_fl_oz": 0.33
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Dehydrated apple",
+    "flavor_profile": []
+  },
+  {
+    "name": "Coco Shroom",
+    "ingredients": [
+      {
+        "name": "Gold rum",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Coconut rum",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Fino sherry",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Vanilla bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "White chocolate on rim",
+    "flavor_profile": []
+  },
+  {
+    "name": "Highball no.2",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 0.66
+      },
+      {
+        "name": "Rosso vermouth",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.2
+      },
+      {
+        "name": "Soda",
+        "measurement_fl_oz": 2.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Winter"
+      }
+    ],
+    "glass_type": "Highball",
+    "method": "Build",
+    "strength": "Medium",
+    "garnish": "Lemon wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Death & Taxes no.2",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Punt e Mes",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Orange bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Black dog Smash",
+    "ingredients": [
+      {
+        "name": "Tennesy Whiskey",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Apricot jam",
+        "measurement_fl_oz": "2 brspn"
+      },
+      {
+        "name": "Angostura bitters",
+        "measurement_fl_oz": "2dashes"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "highball",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Mint peak",
+    "flavor_profile": []
+  },
+  {
+    "name": "Loose Lips",
+    "ingredients": [
+      {
+        "name": "Rye whiskey",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Gentian",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Maraschino liqueur",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Benedictine",
+        "measurement_fl_oz": 0.1
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Autumn"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Rosemary on peg",
+    "flavor_profile": []
+  },
+  {
+    "name": "Strawberry Fields",
+    "ingredients": [
+      {
+        "name": "Strawberries",
+        "measurement_fl_oz": "2 hulled"
+      },
+      {
+        "name": "Raspberry vodka",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.2
+      },
+      {
+        "name": "Strawberry syrup",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.33
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Light",
+    "garnish": "Sugarred rim",
+    "flavor_profile": []
+  },
+  {
+    "name": "Chocolate Mushroom",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Creme de cacao",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Chili liqueur",
+        "measurement_fl_oz": 0.1
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Nick & Nora",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Orange zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Swizzle",
+    "ingredients": [
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Falernum",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Pineapple juice",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Collins",
+    "method": "Swizzle",
+    "strength": "Medium",
+    "garnish": "Mint peak",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Daisy",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "2:1 Sugar syrup",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Yellow chartreuse ",
+        "measurement_fl_oz": 0.1
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Wine glass",
+    "method": "Shake and strain",
+    "strength": "Medium",
+    "garnish": "Berries",
+    "flavor_profile": []
+  },
+  {
+    "name": "Celery Gimlet",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Celery juice",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "2:1 sugar syrup",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "White wine vinegar",
+        "measurement_fl_oz": 0.1
+      },
+      {
+        "name": "Celery bitters",
+        "measurement_fl_oz": "2dashes"
+      },
+      {
+        "name": "Celery salt",
+        "measurement_fl_oz": "1 pinch"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      }
+    ],
+    "glass_type": "Double - old fashioned",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Celery stick",
+    "flavor_profile": []
+  },
+  {
+    "name": "M.C",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Sugar syrup",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Soda",
+        "measurement_fl_oz": "top-up"
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Collins",
+    "method": "Shake and fine strain",
+    "strength": "Medium",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Early Fizz",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Lemon juice",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "2:1 Sugar syrup",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Sea Salt",
+        "measurement_fl_oz": "Pinch"
+      },
+      {
+        "name": "Egg white",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Soda",
+        "measurement_fl_oz": 2.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Collins",
+    "method": "Shake and Dry shake",
+    "strength": "Medium",
+    "garnish": "Lemon zest",
+    "flavor_profile": []
+  },
+  {
+    "name": "Optimism",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lime juice",
+        "measurement_fl_oz": 0.66
+      },
+      {
+        "name": "Ginger syrup",
+        "measurement_fl_oz": 0.16
+      },
+      {
+        "name": "Honey syrup",
+        "measurement_fl_oz": 0.16
+      },
+      {
+        "name": "Basil leaves",
+        "measurement_fl_oz": 8.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Coupe",
+    "method": "Shake and fine strain",
+    "strength": "Light",
+    "garnish": "Cucumber peel",
+    "flavor_profile": []
+  },
+  {
+    "name": "Melon & Mushroom",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Luxardo Bianco",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Bianco Vermouth",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.33
+      },
+      {
+        "name": "Melon liqueur",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Old-fashioned",
+    "method": "Stir",
+    "strength": "Strong",
+    "garnish": "Melon slice",
+    "flavor_profile": []
+  },
+  {
+    "name": "Tacos Highball",
+    "ingredients": [
+      {
+        "name": "Empirical Cilantro",
+        "measurement_fl_oz": 1.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "La tomato liqueur",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Lime jucie",
+        "measurement_fl_oz": 0.25
+      },
+      {
+        "name": "Soda",
+        "measurement_fl_oz": ""
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Summer"
+      },
+      {
+        "season": "Spring"
+      }
+    ],
+    "glass_type": "Colins",
+    "method": "Shake and fine strain",
+    "strength": "Light",
+    "garnish": "Lime wedge",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Flip",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "Tawny port",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Egg",
+        "measurement_fl_oz": 1.0
+      },
+      {
+        "name": "2:1 Sugar syrup",
+        "measurement_fl_oz": 0.5
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Flip",
+    "method": "Shake and Dry shake",
+    "strength": "Medium",
+    "garnish": "Grated nutmeg",
+    "flavor_profile": []
+  },
+  {
+    "name": "Mushroom Coffee",
+    "ingredients": [
+      {
+        "name": "Irish Whiskey",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Veda",
+        "measurement_fl_oz": 0.75
+      },
+      {
+        "name": "Coffee liqueur",
+        "measurement_fl_oz": 0.5
+      },
+      {
+        "name": "Hot filter coffee",
+        "measurement_fl_oz": 2.0
+      },
+      {
+        "name": "Heavy cream",
+        "measurement_fl_oz": 1.0
+      }
+    ],
+    "seasonal_associations": [
+      {
+        "season": "Winter"
+      },
+      {
+        "season": "Autumn"
+      }
+    ],
+    "glass_type": "Toddy",
+    "method": "Build",
+    "strength": "Strong",
+    "garnish": "Grated cinnamon",
+    "flavor_profile": []
+  }
+]

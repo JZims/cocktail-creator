@@ -1,0 +1,583 @@
+name,ingredients,method,glass_type,ice,garnish,seasonal_associations,strength,flavor_profile
+1,Veda Old Fashioned,Bourbon,1.00,Stirred,Double Old Fashioned,Ice Block,Orange peel,Autumn,Strong,Sweet
+,,Veda,1.00,,,,,Winter,,
+,,Angostura bitters,2dashes,,,,,,,
+,,,,,,,,,,
+2,Mushroom Negroni,Gin,1.00,Stirred,Double Old Fashioned,Ice Block,Orange peel,Autumn,Strong,Bitter Sweet
+,,Veda,1.00,,,,,Winter,,
+,,Sweet Vermouth,1.00,,,,,Spring,,
+,,,,,,,,,,
+3,Veda Mule,Veda,1.00,Build,Highball,Cubed Ice,Lime wedge,Spring,Light,Spicy
+,,Lime juice,0.5,,,,,Summer,,Effervescent
+,,Angostura bitters,2 dashes,,,,,Autumn,,
+,,Ginger Beer,3.00,,,,,,,
+,,,,,,,,,,
+4,Last Mushroom,Gin,1.00,Shake and fine strain,Coupe,-,-,Summer,Strong,Sweet Sour
+,,Veda,1.00,,,,,Sprint,,Herbal
+,,Maraschino,1.00,,,,,Autumn,,
+,,Lime,1.00,,,,,,,
+,,,,,,,,,,
+5,Veda Americano,Veda,0.5,Build,Highball,Cubed Ice,Orange Wedge,Autumn,Light,Effervescent
+,,Campari,0.5,,,,,Spring,,Bitter Sweet
+,,Sweet Vermouth,1.00,,,,,Summer,,
+,,,,,,,,,,
+6,Mushroom Margarita,Tequila,1,Shake and fine strain,Double Old Fashioned,Cubed Ice,Lime wedge,Autumn,Medium,Sweet and sour
+,,Veda,0.50,,,,,Spring,,Smoky
+,,Mezcal,0.33,,,,,Summer,,
+,,Agave,0.75,,,,,,,
+,,Lime,0.5,,,,,,,
+,,,,,,,,,,
+7,Veda Spirtz,Veda,2.00,Build,Wine Glass,Cubed Ice,Lemon wedge,Autumn,Medium,Effervecent
+,,Prosecco,2.50,,,,,Spring,,
+,,Soda,1.00,,,,,,,
+,,,,,,,,,,
+8,Veda Paper Plane,Veda,1.00,Shake and Fine strain,Coupe,-,-,Autumn,Strong,Sweet & Sour
+,,Aperol,1.00,,,,,Spring,,Herbal
+,,Bourbon,1.00,,,,,Summer,,Citrusy
+,,Lemon juice,1.00,,,,,,,
+,,,,,,,,,,
+9,Veda Adonis,Veda,1.00,Stir,Coupe,-,Orange coin,Winter,Medium,Sweet
+,,Palo Cortado Sherry,1.00,,,,,Autumn,,Dry
+,,Amontillado Sherry,1.00,,,,,,,
+,,Sweet Vermouth,1.00,,,,,,,
+,,,,,,,,,,
+10,Mushroom Manhattan,Rye Whiskey,2.00,Stir,Coupe,-,Cocktail cherry,Winter,Strong,Bitter Sweet
+,,Veda,1.00,,,,,Autumn,,
+,,Angostura bitters,1 Dash,,,,,,,
+,,Organge bitters,1 Dash,,,,,,,
+,,,,,,,,,,
+11,Mushroom Sour,Scotch,1.50,Double Shake,Rocks glass,Cubed,Lemon peel,Autumn,Medium Strong,Sweet & Sour
+,,Veda,1.00,Fine Strain,,,,Spring,,
+,,Simple syrup,0.25,,,,,,,
+,,Lemon Juice,0.5,,,,,,,
+,,Egg White,1.00,,,,,,,
+,,,,,,,,,,
+12,M&M (Mushroom & Mezcal),Veda,1.50,Stir,Double Old Fashioned,Block,Lime peel,Autumn,Strong,Bitter Sweet
+,,Mezcal,1.50,,,,,Winter,,
+,,,,,,,,,,
+13,BeatIt,Rye Whiskey,0.75,Stir,Nick & Nora,-,Orange peel,Winter,Strong,Dry Sweet
+,,Veda,1,,,,,,,
+,,Tawny Port,0.75,,,,,,,
+,,,,,,,,,,
+14,Affinity,Scotch,1.00,Stir,Coupe,-,Lemon Peel,Winter,Strong,Dry Sweet
+,,Veda,1.00,,,,,Autumn,,
+,,Sweet Vermouth,0.5,,,,,,,
+,,Dry Vermouth,0.5,,,,,,,
+,,Angostura bitters,1 Dash,,,,,,,
+,,,,,,,,,,
+15,Manhattan Transfer,Rye Whiskey,1.50,Stir,Coupe,-,Maraschino cherry,Winter,Strong,Dry Sweet
+,,Veda,1.00,,,,,Autumn,,
+,,Dry Vermouth,1.00,,,,,,,
+,,Orange Bitters,1 Dash,,,,,,,
+,,,,,,,,,,
+16,Yamabuki,Japanese Whiskey,1.50,Stir,Nick & Nora,-,Lemon peel,Autumn,Strong,Dry Sweet
+,,Bianco Vermouth,0.75,,,,,Spring,,
+,,Veda,0.5,,,,,,,
+,,Orange bitters,1dash,,,,,,,
+,,,,,,,,,,
+17,Avion,Tequila blanco,0.75,Shake and fine strain,Nick & Nora,-,Lemon Peel,Summer,Strong,Sweet & Sour
+,,Veda,0.75,,,,,Spring,,
+,,Aperol,0.75,,,,,,,
+,,Lemon juice,0.75,,,,,,,
+,,,,,,,,,,
+18,Hunter's Verdict,Aged rum,2.00,Stir,Double Old Fashioned,-,Orange wedge,Autumn,Strong,Dry Sweet
+,,Veda,0.75,,,,,Spring,,Herbal
+,,Ginger Liqueur,0.25,,,,,Winter,,Spicy
+,,Orange bitters,1dash,,,,,,,
+,,Angostura bitters,1dash,,,,,,,
+,,,,,,,,,,
+19,Devil's Roots,Straight Whiskey,1.00,Stir,Nick & Nora,-,Orange Zest,Autumn,Strong,Bitter Sweet
+,,Mezcal,0.33,,,,,Spring,,Floral
+,,Veda,0.33,,,,,,,Smokey
+,,Campari,0.17,,,,,,,
+,,Elderflower Liqueur,0.17,,,,,,,
+,,,,,,,,,,
+20,"Me, Myself & I",Mezcal,1.00,Stir,Double Old Fashioned,Ice Block,Orange Peel,Autumn,Strong,Bitter Sweet
+,,Veda,1.00,,,,,Winter,,
+,,Italicus,1.00,,,,,Spring,,
+,,,,,,,,,,
+21,Smoke & Mirrors,Peated Whiskey,1.50,Stir,Coupe,-,Orange Coin,Spring,Strong,Sweet
+,,Veda,1.00,,,,,Autumn,,
+,,Apricot liqueur,0.5,,,,,,,
+,,Angostura bitters,2dashes,,,,,,,
+,,,,,,,,,,
+22,Withces Flight,Bourbon,0.75,Shake and Fine strain,Coupe,-,Sugarred Rim,Spring,Strong,Sweet & Sour
+,,Veda,0.75,,,,,Summer,,Herbal
+,,Strega,0.75,,,,,Autumn,,
+,,Lemon Juice,0.75,,,,,,,
+,,,,,,,,,,
+23,Midnight Mush,Mezcal,1.00,Stir,Coupe,-,-,Winter,Strong,Dry Sweet
+,,Veda,1/5,,,,,Autumn,,
+,,Bonal,1.00,,,,,,,
+,,Cynar,1/5,,,,,,,
+,,Xocolatl Bitters,2 Dashes,,,,,,,
+,,,,,,,,,,
+24,Sidecap,Cognac,1.52,Shake and Fine Strain,Coupe,-,Suggared Rim,Autumn,Medium Strong,Sweet & Sour
+,,Veda,1.00,,,,,Winter,,
+,,Lemon Juice,0.5,,,,,Spring,,
+,,,,,,,,,,
+25,Veda Mary,Vodka,1.00,Shake and fine strain,Highball,Cubed,Celery root,Spring,Medium,Sweet & Sour
+,,Veda,0.5,,,,pickled mushrooms,Summer,,Savory
+,,Tomato pasata,3.00,,,,,Winter,,Spicy
+,,Salt,pinch,,,,,Autumn,,
+,,Pepper,pinch,,,,,,,
+,,Worcestershire Sauce,1dash,,,,,,,
+,,Tobasco,2dashes,,,,,,,
+,,,,,,,,,,
+26,Mushroom Garibaldi,Veda,1.50,Blend without ice until fluffy,Highball,-,Pink Grapefruit wedge,Summer,Light,Dry Sweet
+,,Blood Orange juice,2.00,,,,,Spring,,Citrus
+,,Pink Grapefruit juice,1.75,,,,,Autumn,,
+,,,,,,,,,,
+27,Tropical Mushroom,Cachaca,1.50,Churn,Highball,Crushed,Grated Cinnamon,Spring,Medium,Sweet & Sour
+,,Veda,1.00,,,,,Summer,,Fruity
+,,Giffard Banana do brazil,0.75,,,,,,,
+,,Lime juice,0.75,,,,,,,
+,,,,,,,,,,
+28,Beelzebub,Bourbon,1.50,Shake and fine strain,Nick n Nora,- ,-,Spring,Medium Strong,Dry Sweet
+,,Mezcal,0.5,,,,,Summer,,Nutty
+,,Veda,0.5,,,,,Autumn,,Smokey
+,,Orgeat,0.5,,,,,,,
+,,Lemon juice,0.75,,,,,,,
+,,,,,,,,,,
+29,Swizzle Suspect,,,,Highball,Crushed,Mint peak,Spring,Light Medium,Dry Sweet
+,,Suze,1.33,"Add suze, peach liqueur, and mind leaves",,,,Autumn,,Herbal
+,,Veda,0.33,Churn with crushed ice.,,,,Summer,,
+,,Peach liqueur,0.33,Fill up with crushed ice,,,,,,
+,,Mint leaves,8.00,Float with Veda,,,,,,
+,,Seedless green grapes,6.00,Squeeze the grapes to release the juice,,,,,,
+,,,,,,,,,,
+30,The Malagueña,Blackstrap Rum,1.50,Stir,Coupe,-,Orange twist,Autumn,Strong,Sweet
+,,Veda,1.00,,,,,Winter,,
+,,Agave,0.25,,,,,,,
+,,Angostura btiters,3dashes,,,,,,,
+,,Orange bitters,1dash,,,,,,,
+,,,,,,,,,,
+31,Mushroom Paloma,Tequila,0.5,Build,Highball,Cubed,Pink Grapefruit Wedge,Spring,Medium Strong,Sweet & Sour
+,,Mezcal,0.5,,,,,Summer,,Effervescent
+,,Veda,0.5,,,,,,,
+,,Lime,0.25,,,,,,,
+,,Pink Grapefruit Soda,Top up,,,,,,,
+,,,,,,,,,,
+32,Drunken Pirate,Overproof aged rum,1.50,Shake and strain,Double old fashioned,Cubed,Mint peak and Orange Wedge,Summer,Strong,Sweet & Sour
+,,Veda,0.5,,,,,Spring,,
+,,falernum liqueur,0.5,,,,,Autumn,,
+,,Lime juice,1.00,,,,,,,
+,,Maple syrup,0.5,,,,,,,
+,,,,,,,,,,
+33,Veda Martinez,Gin,1.75,Stir,Nick & Nora,-,Orange Peel,Winter,Strong,Dry Sweet
+,,Antica Formula,0.5,,,,,Autumn,,
+,,Veda,0.5,,,,,,,
+,,Luxardo Maraschino,0.25,,,,,,,
+,,Angostura cocoa bitters,2dashes,,,,,,,
+,,,,,,,,,,
+34,Pinched Notes,Veda,1.00,Stir,Double old fashioned,Block,Candied ginger,Winter,Strong,Dry Sweet
+,,Amontillado Sherry,1.00,,,,,Autumn,,
+,,Gin,0.5,,,,,,,
+,,Chili liqueur,0.25,,,,,,,
+,,Chocolate bitters,1dash,,,,,,,
+,,,,,,,,,,
+35,Vedrano,Agricole Rhum,1.00,Churn,Double old fashioned,Crashed,Mint peak,Summer,Medium,Sweet & Sour
+,,Veda,0.75,,,,,Spring,,Fruity
+,,Pineapple Rum,0.25,,,,,Autumn,,Tropical
+,,Pineapple syrup,0.17,,,,,,,
+,,Lime juice,0.17,,,,,,,
+,,Angostura bitters,1dash,,,,,,,
+,,,,,,,,,,
+36,Highlander,Scotch,1.50,Stir,Nick & Nora,- ,Orange peel,Winter,Strong,
+,,Veda,0.5,,,,,Autumn,,
+,,Sweet Vermouth,0.75,,,,,,,
+,,Angostura bitters,1dash,,,,,,,
+,,,,,,,,,,
+37,Served,Veda,1.00,Shake and fine strain,Collins,Cubed,Orange Wedge,Spring,Light,Dry Sweet
+,,Fino Sherry,1.00,Top-up with soda,,,,Summer,,Effervescent
+,,Lime juice,1.00,,,,,Autumn,,
+,,2:1 Sugar Syrup,0.5,,,,,,,
+,,Soda,2.00,,,,,,,
+,,,,,,,,,,
+38,Pastry War,Tequila,1.00,Shake and fine strain,Coupe,-,Lime wedge,Spring,Medium,Sweet & Sour
+,,Mezcal,0.5,,,,,Autumn,,Floral
+,,Veda,0.5,,,,,Summer,,
+,,Elderflower liqueur,0.5,,,,,,,
+,,Lime juice,0.5,,,,,,,
+,,Saline solution ,2drops,,,,,,,
+,,,,,,,,,,
+39,Moment Gone,White rum,2.00,Shake and fine strain,Highball,Cubed,Lemon wheel,Spring,Medium,Dry Sweet
+,,Pomegranate juice,1.33,Top up with Prosecco,,,,Autumn,,
+,,Lemon juice,0.67,,,,,Summer,,
+,,Veda,0.5,,,,,,,
+,,2:1 sugar syrup,0.25,,,,,,,
+,,Prosecco,1.00,,,,,,,
+,,,,,,,,,,
+40,Mushrooms and Coke,Martinique Rum,1.00,Shake and fine strain,Highball,Cubed,Lemon peel,Spring,Strong,Dry Sweet
+,,Veda,1.00,Top up with Prosecco,,,,Autumn,,
+,,Pimento liqueur,0.25,,,,,Summer,,
+,,Lime juice,0.75,,,,,,,
+,,2:1 Sugar Syrup,0.25,,,,,,,
+,,Prosecco,1 0.5,,,,,,,
+,,,,,,,,,,
+41,Show me the smoke,Mezcal,1.50,"Shake, fine strain and dry shake.",Coupe,-,Grated cinnamon,Spring,Strong,Sweet & Sour
+,,Green chartreuse,0.25,,,,,Autumn,,Herbal
+,,Veda,0.25,,,,,,,Smokey
+,,Lemon juice,0.5,,,,,,,
+,,2:1 Sugar Syrup,0.33,,,,,,,
+,,Egg white,0.5,,,,,,,
+,,,,,,,,,,
+42,Cherry Bomb No.2,Tequila,2.00,Stir,Double old fashioned,Block,Cherry and green olive,Autumn,Strong,Dry Sweet
+,,Veda,0.17,,,,,Winter,,Fruity
+,,Aqua Bianca,0.17,,,,,,,
+,,Luxardo Maraschino,0.17,,,,,,,
+,,Cherry Heering ,0.17,,,,,,,
+,,Spiced Chocolate bitters,2 Dashes,,,,,,,
+,,,,,,,,,,
+43,Vedicilin,Scotch,1.00,Shake and Fine strain,Double old fashioned,Cubed,Peated whiskey spray,Spring,Medium Strong,Sweet & Sour
+,,Peated scotch,0.67,,,,Candiend Ginger,Summer,,Smokey
+,,Lemon Juice,0.67,,,,,Winter,,
+,,Veda,0.25,,,,,Autumn,,
+,,Ginger Liqueur,0.5,,,,,,,
+,,Honey syrup,0.25,,,,,,,
+,,,,,,,,,,
+44,Poison Dart,Bourbon,2.00,Shake and fine strain,Double old fashioned,Cubed,Orange peel,Summer,Medium Strong,Sweet & Sour
+,,Lemon juice,0.5,,,,,Spring,,Spice
+,,Orgeat syrup,0.5,,,,,Autumn,,
+,,Veda,0.25,,,,,,,
+,,Cinnamon syrup,0.17,,,,,,,
+,,Pimento liqueur,0.54,,,,,,,
+,,Orange bitters,1dash,,,,,,,
+,,,,,,,,,,
+45,Vedroni Sour,Gin,1.50,"Shake, fine strain and Dry shake",Coupe,-,Lemon wheel,Spring,Medium,Dry Sour
+,,Campari,0.75,,,,,Autumn,,
+,,Veda,1.00,,,,,Summer,,
+,,Lemon juice,0.75,,,,,,,
+,,Orange juice,0.25,,,,,,,
+,,2:1 Sugar syrup,0.17,,,,,,,
+,,Egg white,0.5,,,,,,,
+,,,,,,,,,,
+46,"Yesterday, Today and Veda",Rye Whiskey,2.00,Stir,Coupe,-,Lemon zest,Autumn,Strong,Dry Sweet
+,,Cynar,0.5,,,,,Winter,,
+,,Benédictine,0.25,,,,,,,
+,,Veda,0.25,,,,,,,
+,,,,,,,,,,
+47,Italian Buck,Veda,1.50,Shake and fine strain,Highball,Cubed,Lime wedge,Spring,Light,Dry Sweet
+,,Cynar,1.50,Top up with Ginger beer,,,,Autumn,,Spicy
+,,Lime juice,0.75,,,,,Summer,,
+,,Ginger beer,2.50,,,,,,,
+,,,,,,,,,,
+48,Jim Jam,Veda,1.00,Shake and finestrain,Nick & Nora,-,Lemon zest,Spring,Light,Sweet & Sour
+,,Apricot liqueur,0.5,,,,,Autumn,,
+,,Lemon juice,0.5,,,,,,,
+,,,,,,,,,,
+49,Velvet Touch,Rye Whiskey,1.33,Stir,Nick & Nora,-,Orange zest,Winter,Strong,Dry Sweet
+,,Veda,0.5,,,,,Autumn,,
+,,P.X Sherry,0.33,,,,,Spring,,
+,,,,,,,,,,
+50,Trident,Manzanilla Sherry,1.00,Stir,Double old fashioned,Cubed,Lemon zest,Spring,Strong,Dry Sweet
+,,Veda,1.00,,,,,Autumn,,
+,,Aquavit,1.00,,,,,Summer,,
+,,Peach bitters,2dashes,,,,,Winter,,
+,,,,,,,,,,
+51,Susto,Mezcal,1.00,Stir,Old-fashioned ,Block,Basil leaf,Autumn,Strong,Dry Sweet
+,,Veda,0.83,,,,,Spring,,Herbal
+,,Byrrh,0.5,,,,,,,
+,,Celery bitters,1dash,,,,,,,
+,,,,,,,,,,
+52,Black Magic no.2,Veda,2.00,Stir,Old-fashioned,Block,Orange peel,Autumn,Strong,Dry Sweet
+,,Peated scotch,1.00,,,,,Winter,,Fruity
+,,Banana Do Brazil ,0.33,,,,,,,
+,,Saline solution,2 drops,,,,,,,
+,,,,,,,,,,
+53,Mushroom Daiquiri,Aged rum,0.5,Shake and fine strain,Coupe,-,-,Summer,Medium,Sweet & Sour
+,,Pinepple rum,0.5,,,,,Spring,,Tropical
+,,Veda,0.5,,,,,,,
+,,Lime juice,0.5,,,,,,,
+,,2:1 Sugar syrup,0.25,,,,,,,
+,,,,,,,,,,
+54,French Kiss No.4,Cognac,1.50,Shake and fine strain,Coupe,-,Raspberry on stick,Summer,Medium,Sweet & Sour
+,,Veda,0.67,,,,,Spring,,Tropical
+,,Lime juice,0.5,,,,,,,
+,,Orgeat,0.33,,,,,,,
+,,Raspberry syrup,0.25,,,,,,,
+,,,,,,,,,,
+55,Avenue San Maritn,Pisco,1.50,Shake and fine strain,Old fashioned,Cubed,Lime wedge,Summer,Medium,Sweet & Sour
+,,Veda,0.5,,,,,Spring,,Spicy
+,,Honey,2barspoon,,,,,,,
+,,Lime juice,0.67,,,,,,,
+,,Ginger syrup,0.1,,,,,,,
+,,,,,,,,,,
+56,Royal Balcan,Gin,1.50,Shake and fine strain,Highball,Cubed,Grapefruit peel,Summer,Medium,Dry Sweet
+,,Veda,1.00,Top up with Tonic,,,,Spring,,
+,,Benedictine ,0.25,,,,,Autumn,,
+,,Grapefruit bitters,1dash,,,,,,,
+,,Tonic,2.00,,,,,,,
+,,,,,,,,,,
+57,French 40,Gin,1.00,Shake and fine strain,Collins,Cubed,Lemon wheel,Spring,Medium,Sweet & Sour
+,,Veda,0.75,Top up with Champagne,,,,Autumn,,
+,,Lemon juice,0.5,,,,,,,
+,,2:1 Sugary Syrup,0.33,,,,,,,
+,,Champagne / Sparkling wine,2.00,,,,,,,
+,,,,,,,,,,
+58,M.S,Veda,1.50,Shake and fine strain,Old-fashioend,Block,Blackberry,Spring,Light,Sweet & Sour
+,,Creme de mure,0.5,,,,,Autumn,,
+,,Lime juice,0.83,,,,,,,
+,,2:1 Sugar syrup,0.25,,,,,,,
+,,Absinth,1dash,,,,,,,
+,,,,,,,,,,
+59,Mushroom Hold,Jamaican overproof rum,0.75,Shake and strain,Old-fashioned,Crushed,Mint peaks,Summer,Strong,Sweet & Sour
+,,Veda,0.75,,,,,Spring,,Nutty
+,,Elderflower liqueur,0.5,,,,,Autumn,,
+,,Lemon juice,0.75,,,,,,,
+,,Orgeat,0.33,,,,,,,
+,,,,,,,,,,
+60,A Still Dawn,Mezcal,0.83,Stir,Nick & Nora,-,-,Atumn,Strong,Dry Sweet
+,,Gin,0.83,,,,,Spring,,Fruity
+,,Creme de cassis,0.25,,,,,Winter,,
+,,Veda,0.17,,,,,,,
+,,Pear bitters,2dashes,,,,,,,
+,,,,,,,,,,
+61,Killer Queen,White overproof rum,1.00,Shake and fine strain,Coupe,-,-,Spring,Strong,Sweet & Sour
+,,Veda,1.00,,,,,Summer,,Floral
+,,Rose liqueur,0.25,,,,,,,
+,,Lime juice,0.75,,,,,,,
+,,,,,,,,,,
+62,Prophet in Plain Clothes,Peated Scotch,1.00,Stir,Coupe,-,Cherries on stick,Winter,Strong,
+,,Fernet Branca,1.00,,,,,Autumn,,
+,,Rosso Vermouth,1.00,,,,,,,
+,,Veda,0.5,,,,,,,
+,,Saline solution,3drops,,,,,,,
+,,,,,,,,,,
+63,African Flower,Bourbon,2.00,Stir,old-fashioned,Block,Orange peel,Winter,Strong,Dry sweet
+,,Veda,0.17,,,,,Autumn,,
+,,Creme de Cacao,0.17,,,,,,,
+,,Orange bitters,2dashes,,,,,,,
+,,,,,,,,,,
+64,Crowned King,Gin,1.33,Shake and fine strain,Coupe,-,-,Autumn,Medium,Sweet & Sour
+,,Amaro,0.5,,,,,Spring,,Nutty
+,,Amontillado Sherry,0.33,,,,,,,
+,,Apricot liqueur,0.33,,,,,,,
+,,Lemon juice,0.67,,,,,,,
+,,Orgeat,0.17,,,,,,,
+,,,,,,,,,,
+65,A Moment of Silence,Rye,1.50,Stir,Double old-fashioned,Block,Orange peel,Winter,Strong,Bitter
+,,Apricot Liqueur,1.00,,,,,Autumn,,
+,,Veda,0.5,,,,,,,
+,,Angostura bitters,0.25,,,,,,,
+,,Applejack brandy,0.25,,,,,,,
+,,,,,,,,,,
+66,Pura Vida,Mezcal,1.33,Stir,Coupe,-,Orange peel,Winter,Strong,Dry Sweet
+,,Veda,0.5,,,,,Autumn,,
+,,Galiano Espresso,0.33,,,,,,,
+,,Orange bitters,1dash,,,,,,,
+,,,,,,,,,,
+67,M. Colada,White rum,1.50,Shake,Hurricane,Crashed,Pineapple Wedge,Summer,Light Medium,Sweet
+,,Veda,0.33,,,,,Spring,,Tropical
+,,Pineapple juice,1.00,,,,,,,
+,,Lime Juice,0.5,,,,,,,
+,,Coco Lopez,0.5,,,,,,,
+,,,,,,,,,,
+68,Rum & Mushroom,White rum,1.50,Build,Collins,Cubed,Lime peel,Summer,Medium,Dry Sweet
+,,Veda,0.5,,,,,Spring,,
+,,Sugar syrup 1:1,0.5,,,,,Autumn,,
+,,Lime juice,0.33,,,,,,,
+,,Angostura bitters,1dash,,,,,,,
+,,Tonic,top-up,,,,,,,
+,,,,,,,,,,
+69,Positive Side,8yo Rum,1 .5,Shake and fine strain,Coupe,-,-,Spring,Medium,Sweet & sour
+,,Veda,0.5,,,,,Autumn,,
+,,Apricot liqueur,0.33,,,,,Summer,,
+,,Lime juice,0.5,,,,,,,
+,,Sugar syrup 1:1,0.33,,,,,,,
+,,Ginger ,1inch,,,,,,,
+,,,,,,,,,,
+70,Poderoso,Aged rum,1.50,Shake and fine strain,Double old fashioned,Cubed,Pineapple wedge,Autumn,Medium,Dry Sweet
+,,Veda,0.50,,,,,Spring,,
+,,Coffee liqueur,0.50,,,,,Summer,,
+,,Pineapple juice,0.50,,,,,,,
+,,,,,,,,,,
+71,Mushroom & Famous,Mezcal,0.75,Shake and fine strain,Coupe,-,Lime wedge,Autumn,Medium,Sweet & Sour
+,,Veda,0.75,,,,,Spring,,Smokey
+,,Aperol,0.75,,,,,,,
+,,Lime juice,0.75,,,,,,,
+,,,,,,,,,,
+72,Nuclear Mushroom Daiquiri,Overoproof rum,1.00,Blend with crashed ice,Hurricane,-,Dehydrated banana,Summer,Strong,Sweet & Sour
+,,Veda,0.67,,,,,Spring,,Tropical
+,,Falernum,0.67,,,,,,,
+,,Lime juice,0.67,,,,,,,
+,,Banana,1/2 fresh,,,,,,,
+,,,,,,,,,,
+73,Angel's Share No.3,Cognac,1.50,Stir,Coupe,-,-,Winter,Strong,Sweet
+,,Veda,0.25,,,,,,,
+,,Walnut liqueur,0.75,,,,,,,
+,,Tawny port,0.50,,,,,,,
+,,,,,,,,,,
+74,Poet's Dream,Gin,0.75,Stir,Nick & Nora,-,Lemon zest,Autumn,Strong,Dry Sweet
+,,Benedictine,0.25,,,,,Winter,,
+,,Veda,0.25,,,,,,,
+,,Dry vermouth,0.75,,,,,,,
+,,,,,,,,,,
+75,Mushroom Martini,Gin,1.66,Stir,Martini,-,Olive,Spring,Strong,Dry 
+,,Marsala,0.33,,,,,Autumn,,
+,,Veda,0.25,,,,,Winter,,
+,,Dry Vermouth,0.16,,,,,Summer,,
+,,Bokers bitters,1dash,,,,,,,
+,,,,,,,,,,
+76,Dante's Shroom,Scotch,1.00,Shake and fine strain,Nick & Nora,-,Orange zest,Winter,Medium,Sweet & Sour
+,,Veda,0.16,,,,,Autumn,,
+,,Blood orange juice,1.00,,,,,,,
+,,Maple syrup,0.25,,,,,,,
+,,Xocolatl bitters,1dash,,,,,,,
+,,,,,,,,,,
+77,My shroomy tie,Aged rum,1.00,Shake and fine strain,Double old-fashioned,Crushed,Orange wedge ,Summer,Strong,Sweet & Sour
+,,Pineapple rum,1.00,,,,Mint Peak,Spring,,Nutty
+,,Orange curacao,0.50,,,,,Autumn,,
+,,Lime juice,0.75,,,,,,,
+,,Orgeat,0.25,,,,,,,
+,,Veda,0.25,,,,,,,
+,,Falernum,0.25,,,,,,,
+,,Absinthe,2dash,,,,,,,
+,,,,,,,,,,
+78,Satan's Whiskers No.2,Gin,0.67,Shake and fine strain,Coupe,-,Orange zest,Autumn,Strong,Dry sweet
+,,Dry Vermouth,0.67,,,,,Winter,,
+,,Rosso Vermouth,0.67,,,,,,,
+,,Veda,0.33,,,,,,,
+,,Orange juice,0.67,,,,,,,
+,,Orange bitters,1dash,,,,,,,
+,,,,,,,,,,
+79,New Carre,Rye whiskey,0.75,Stir,Double old fashioned,Block,Lemon zest,Winter,Strong,Dry sweet
+,,Cognac,0.75,,,,,Autumn,,
+,,Rosso Vermouth,0.75,,,,,,,
+,,Veda,0.33,,,,,,,
+,,Peychaud's bitters,2dashes,,,,,,,
+,,Angostura bitters,1dash,,,,,,,
+,,,,,,,,,,
+80,New York Sling,Gin,1.50,Shake and fine strain,Sling glass,Cubed,Pineapple wedge,Summer,Medium,Sweet & Sour
+,,Cherry heering,0.50,,,,Maraschino cherry,Spring,,Tropical
+,,Veda,0.25,,,,,Autumn,,
+,,Triple sec,0.25,,,,,,,
+,,Pineapple juice,1.50,,,,,,,
+,,Lime juice,0.50,,,,,,,
+,,Grenadine ,0.10,,,,,,,
+,,Angostura bitters,1dash,,,,,,,
+,,,,,,,,,,
+81,The Ground,Rye,1.50,Stir,Coupe,-,-,Autumn,Strong,Dry Sweet
+,,Ammontillado Sherry,0.50,,,,,Winter,,
+,,Veda,0.50,,,,,,,
+,,Angostura bitters,3dashes,,,,,,,
+,,,,,,,,,,
+82,Hound's tooth,Vodka,1.50,Shake and fine strain,Coupe,-,Grapefruit Zest,Autumn,Medium,Dry Sweet
+,,Veda,0.75,,,,,Winter,,Citrusy
+,,Pink grapefruit juice,0.75,,,,,,,
+,,Lemon juice,0.25,,,,,,,
+,,Grapefruit bitters,2dashes,,,,,,,
+,,,,,,,,,,
+83,C'est la Evi,Cognac,1.50,Shake and fine strain,Coupe,-,Dehydrated apple,Autumn,Medium,Sweet & Sour
+,,Veda,0.33,,,,,Winter,,Fruity
+,,Apple juice,0.66,,,,,Spring,,
+,,Lemon juice,0.33,,,,,,,
+,,Cinnamon syrup,0.33,,,,,,,
+,,,,,,,,,,
+84,Coco Shroom,Gold rum,1.50,Stir,Coupe,-,White chocolate on rim,Autumn,Strong,Dry Sweet
+,,Coconut rum,0.50,,,,,Spring,,
+,,Veda,0.50,,,,,Summer,,
+,,Fino sherry,0.50,,,,,,,
+,,Vanilla bitters,2dashes,,,,,,,
+,,,,,,,,,,
+85,Highball no.2,Scotch,0.66,Build,Highball,Cubed,Lemon wedge,Summer,Medium,Dry Sweet
+,,Rosso vermouth,0.50,,,,,Spring,,Effervescent
+,,Veda,0.20,,,,,Autumn,,
+,,Soda,2.50,,,,,Winter,,
+,,,,,,,,,,
+86,Death & Taxes no.2,Scotch,1.00,Stir,Coupe,-,Lemon zest,Winter,Strong,Dry Sweet
+,,Gin,1.00,,,,,Autumn,,
+,,Punt e Mes,0.75,,,,,,,
+,,Veda,0.25,,,,,,,
+,,Orange bitters,2dashes,,,,,,,
+,,,,,,,,,,
+87,Black dog Smash,Tennesy Whiskey,1.50,Shake and fine strain,highball,Crushed,Mint peak,Autumn,Medium,Sweet & Sour
+,,Veda,0.50,,,,Orange zest,Spring,,
+,,Lemon juice,0.33,,,,,Summer,,
+,,Apricot jam,2 brspn,,,,,,,
+,,Angostura bitters,2dashes,,,,,,,
+,,,,,,,,,,
+88,Loose Lips,Rye whiskey,1.00,Shake and fine strain,Coupe,-,Rosemary on peg,Autumn,Medium,Sweet & Sour
+,,Gentian,0.50,,,,,Spring,,Herbal
+,,Veda,0.50,,,,,Summer,,
+,,Lemon juice,0.33,,,,,,,
+,,Lime juice,0.33,,,,,,,
+,,Maraschino liqueur,0.33,,,,,,,
+,,Benedictine,0.10,,,,,,,
+,,,,,,,,,,
+89,Strawberry Fields,Strawberries,2 hulled,Shake and fine strain,Coupe,-,Sugarred rim,Summer,Light,Sweet & Sour
+,,Raspberry vodka,1.50,,,,,Spring,,Fruity
+,,Veda,0.20,,,,,,,
+,,Strawberry syrup,0.33,,,,,,,
+,,Lemon juice,0.33,,,,,,,
+,,,,,,,,,,
+90,Chocolate Mushroom,Bourbon,1.50,Stir,Nick & Nora,-,Orange zest,Winter,Strong,Sweet
+,,Veda,0.50,,,,,Autumn,,
+,,Creme de cacao,0.25,,,,,,,
+,,Chili liqueur,0.10,,,,,,,
+,,,,,,,,,,
+91,Mushroom Swizzle,Veda,1.50,Swizzle,Collins,Crushed,Mint peak,Summer,Medium,Sweet & Sour
+,,Falernum,0.50,,,,Grated Nutmeg,Spring,,
+,,Pineapple juice,1.50,,,,,Autumn,,
+,,Lime juice,0.75,,,,,,,
+,,,,,,,,,,
+92,Mushroom Daisy,Light rum,2.00,Shake and strain,Wine glass,Crushed,Berries,Summer,Medium,Sweet & Sour
+,,Lime juice,0.75,Float yellow chartreuse on top,,,Mint peak,Spring,,
+,,Veda,0.25,,,,Powdered sugar,Autumn,,
+,,2:1 Sugar syrup,0.25,,,,,,,
+,,Yellow chartreuse ,0.10,,,,,,,
+,,,,,,,,,,
+93,Celery Gimlet,Gin,1.50,Shake and fine strain,Double - old fashioned,Cubed,Celery stick,Spring,Medium,Sweet & Sour
+,,Veda,0.25,,,,,Summer,,Vegetal
+,,Celery juice,0.25,,,,,,,
+,,Lime juice,0.75,,,,,,,
+,,2:1 sugar syrup,0.50,,,,,,,
+,,White wine vinegar,0.10,,,,,,,
+,,Celery bitters,2dashes,,,,,,,
+,,Celery salt,1 pinch,,,,,,,
+,,,,,,,,,,
+94,M.C,Gin,1.50,Shake and fine strain,Collins,Cubed,Lemon zest,Summer,Medium,Sweet & Sour
+,,Veda,0.50,,,,,Spring,,
+,,Lemon juice,0.50,,,,,Autumn,,
+,,Sugar syrup,0.50,,,,,,,
+,,Soda,top-up,,,,,,,
+,,,,,,,,,,
+95,Early Fizz,Cognac,1.00,Shake and Dry shake,Collins,Cubed,Lemon zest,Winter,Medium,Sweet & Sour
+,,Gin,1.00,,,,,Spring,,Creamy
+,,Veda,1.00,,,,,Summer,,
+,,Lemon juice,1.00,,,,,Autumn,,
+,,2:1 Sugar syrup,0.50,,,,,,,
+,,Sea Salt,Pinch,,,,,,,
+,,Egg white,0.50,,,,,,,
+,,Soda,2.00,,,,,,,
+,,,,,,,,,,
+96,Optimism,White rum,2.00,Shake and fine strain,Coupe,-,Cucumber peel,Summer,Light,Sweet & Sour
+,,Veda,0.25,,,,,Spring,,
+,,Lime juice,0.66,,,,,,,
+,,Ginger syrup,0.16,,,,,,,
+,,Honey syrup,0.16,,,,,,,
+,,Basil leaves,8.00,,,,,,,
+,,,,,,,,,,
+97,Melon & Mushroom,Gin,0.75,Stir,Old-fashioned,Cubed,Melon slice,Summer,Strong,Sweet
+,,Luxardo Bianco,0.75,,,,,Spring,,
+,,Bianco Vermouth,0.75,,,,,Autumn,,
+,,Veda,0.33,,,,,,,
+,,Melon liqueur,0.50,,,,,,,
+,,,,,,,,,,
+98,Tacos Highball,Empirical Cilantro,1.50,Shake and fine strain,Colins,Cubed,Lime wedge,Summer,Light,Sweet & Sour
+,,Veda,0.50,,,,,Spring,,Vegetal
+,,La tomato liqueur,0.25,,,,,,,
+,,Lime jucie,0.25,,,,,,,
+,,Soda,,,,,,,,
+,,,,,,,,,,
+99,Mushroom Flip,Bourbon,1.00,Shake and Dry shake,Flip,-,Grated nutmeg,Winter,Medium,Sweet
+,,Tawny port,0.50,,,,,Autumn,,Creamy
+,,Veda,0.50,,,,,,,
+,,Egg,1.00,,,,,,,
+,,2:1 Sugar syrup,0.50,,,,,,,
+,,,,,,,,,,
+100,Mushroom Coffee,Irish Whiskey,0.75,Build,Toddy,-,Grated cinnamon,Winter,Strong,Sweet
+,,Veda,0.75,Float heavy cream on top,,,,Autumn,,Coffee
+,,Coffee liqueur,0.50,,,,,,,
+,,Hot filter coffee,2.00,,,,,,,
+,,Heavy cream,1.00,,,,,,,
