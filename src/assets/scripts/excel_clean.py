@@ -11,21 +11,17 @@ output_path = os.getenv('CLEANED_XLSX_OUTPUT')
 df = pd.read_excel(excel_path)
 # print(df.head(20))
 
-
-def parse_ingredient(ingredient_str):
-   pass
-
-def parse_ingredients(ingredient_row):
+def parse_ingredient(ingredient_row):
     """
-    Splits the entire ingredients string by commas,
-    then uses parse_ingredient to create a dictionary where the key is the ingredient name
-    and the value is its measurement.
+    Add logic for normalizing non-ounce values such as dash, pinch, barspoon, top up, etc...
     """
     if pd.notna(ingredient_row["ingredients"]):
-        print( ingredient_row["ingredients"].title(), ingredient_row["measure"] )
+        return {"name": ingredient_row["ingredients"].title(), "measurement_fl_oz": ingredient_row["measure"]}
     
-
-    pass
+def initialize_ingredient(ingredient_row):
+    container = []
+    container.append(parse_ingredient(ingredient_row))
+    return container
 
 def parse_list(cell):
     """
@@ -49,7 +45,7 @@ for _, row in df.iterrows():
         # Start a new cocktail
         current_cocktail = {
             "name": row["name"].title(),
-            "ingredients": parse_ingredients(row) if pd.notna(row["ingredients"]) else [],
+            "ingredients": initialize_ingredient(row),
             "method": row["method"].title() if pd.notna(row["method"]) else "",
             "glass_type": row["glass_type"] if pd.notna(row["glass_type"]) else "Any",
             "ice_type": row["ice_type"].title() if pd.notna(row["ice_type"]) and row["ice_type"] != "-" else "Any",
@@ -60,13 +56,11 @@ for _, row in df.iterrows():
         }
     elif current_cocktail is not None:
         # Append any additional valid data to existing cocktail
-        if pd.notna(row["ingredients"]):
-            current_ingredients = current_cocktail.get("ingredients", [])
-            new_ingredients = parse_ingredients(row["ingredients"])
-            if isinstance(new_ingredients, list):
-                current_cocktail["ingredients"] = current_ingredients + new_ingredients
-            elif isinstance(new_ingredients, dict):
-                current_cocktail["ingredients"].update(new_ingredients)
+        if pd.notna(row["ingredients"]) and current_cocktail["ingredients"]:
+            current_ingredients = current_cocktail["ingredients"]
+            new_ingredient = parse_ingredient(row)
+            if isinstance(new_ingredient, dict):
+                current_ingredients.append(new_ingredient)
 
         if pd.notna(row["seasonal_associations"]):
             cocktail_sa = current_cocktail["seasonal_associations"]

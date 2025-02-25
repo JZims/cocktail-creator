@@ -1,11 +1,24 @@
 [
     {
         "name": "Veda Old Fashioned",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Bourbon",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Angostura Bitters",
+                "measurement_fl_oz": "2dashes"
+            }
+        ],
         "method": "Stirred",
         "glass_type": "Double Old Fashioned",
         "ice_type": "Ice Block",
-        "garnish": "Orange peel",
+        "garnish": "Orange Peel",
         "seasonal_associations": [
             "Autumn",
             "Winter"
@@ -17,11 +30,24 @@
     },
     {
         "name": "Mushroom Negroni",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Gin",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Sweet Vermouth",
+                "measurement_fl_oz": 1
+            }
+        ],
         "method": "Stirred",
         "glass_type": "Double Old Fashioned",
         "ice_type": "Ice Block",
-        "garnish": "Orange peel",
+        "garnish": "Orange Peel",
         "seasonal_associations": [
             "Autumn",
             "Winter",
@@ -34,11 +60,28 @@
     },
     {
         "name": "Veda Mule",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Lime Juice",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Angostura Bitters",
+                "measurement_fl_oz": "2 dashes"
+            },
+            {
+                "name": "Ginger Beer",
+                "measurement_fl_oz": 3
+            }
+        ],
         "method": "Build",
         "glass_type": "Highball",
         "ice_type": "Cubed Ice",
-        "garnish": "Lime wedge",
+        "garnish": "Lime Wedge",
         "seasonal_associations": [
             "Spring",
             "Summer",
@@ -52,8 +95,25 @@
     },
     {
         "name": "Last Mushroom",
-        "ingredients": null,
-        "method": "Shake and fine strain",
+        "ingredients": [
+            {
+                "name": "Gin",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Maraschino",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Lime",
+                "measurement_fl_oz": 1
+            }
+        ],
+        "method": "Shake And Fine Strain",
         "glass_type": "Coupe",
         "ice_type": "Any",
         "garnish": "-",
@@ -70,7 +130,20 @@
     },
     {
         "name": "Veda Americano",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Campari",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Sweet Vermouth",
+                "measurement_fl_oz": 1
+            }
+        ],
         "method": "Build",
         "glass_type": "Highball",
         "ice_type": "Cubed Ice",
@@ -88,11 +161,32 @@
     },
     {
         "name": "Mushroom Margarita",
-        "ingredients": null,
-        "method": "Shake and fine strain",
+        "ingredients": [
+            {
+                "name": "Tequila",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Mezcal",
+                "measurement_fl_oz": 0.33
+            },
+            {
+                "name": "Agave",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Lime",
+                "measurement_fl_oz": 0.5
+            }
+        ],
+        "method": "Shake And Fine Strain",
         "glass_type": "Double Old Fashioned",
         "ice_type": "Cubed Ice",
-        "garnish": "Lime wedge",
+        "garnish": "Lime Wedge",
         "seasonal_associations": [
             "Autumn",
             "Spring",
@@ -106,11 +200,24 @@
     },
     {
         "name": "Veda Spirtz",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 2
+            },
+            {
+                "name": "Prosecco",
+                "measurement_fl_oz": 2.5
+            },
+            {
+                "name": "Soda",
+                "measurement_fl_oz": 1
+            }
+        ],
         "method": "Build",
         "glass_type": "Wine Glass",
         "ice_type": "Cubed Ice",
-        "garnish": "Lemon wedge",
+        "garnish": "Lemon Wedge",
         "seasonal_associations": [
             "Autumn",
             "Spring"
@@ -122,8 +229,25 @@
     },
     {
         "name": "Veda Paper Plane",
-        "ingredients": null,
-        "method": "Shake and Fine strain",
+        "ingredients": [
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Aperol",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Bourbon",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Lemon Juice",
+                "measurement_fl_oz": 1
+            }
+        ],
+        "method": "Shake And Fine Strain",
         "glass_type": "Coupe",
         "ice_type": "Any",
         "garnish": "-",
@@ -141,11 +265,28 @@
     },
     {
         "name": "Veda Adonis",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Palo Cortado Sherry",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Amontillado Sherry",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Sweet Vermouth",
+                "measurement_fl_oz": 1
+            }
+        ],
         "method": "Stir",
         "glass_type": "Coupe",
         "ice_type": "Any",
-        "garnish": "Orange coin",
+        "garnish": "Orange Coin",
         "seasonal_associations": [
             "Winter",
             "Autumn"
@@ -158,11 +299,28 @@
     },
     {
         "name": "Mushroom Manhattan",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Rye Whiskey",
+                "measurement_fl_oz": 2
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Angostura Bitters",
+                "measurement_fl_oz": "1 Dash"
+            },
+            {
+                "name": "Organge Bitters",
+                "measurement_fl_oz": "1 Dash"
+            }
+        ],
         "method": "Stir",
         "glass_type": "Coupe",
         "ice_type": "Any",
-        "garnish": "Cocktail cherry",
+        "garnish": "Cocktail Cherry",
         "seasonal_associations": [
             "Winter",
             "Autumn"
@@ -174,11 +332,32 @@
     },
     {
         "name": "Mushroom Sour",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Scotch",
+                "measurement_fl_oz": 1.5
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Simple Syrup",
+                "measurement_fl_oz": 0.25
+            },
+            {
+                "name": "Lemon Juice",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Egg White",
+                "measurement_fl_oz": 1
+            }
+        ],
         "method": "Double Shake",
         "glass_type": "Rocks glass",
         "ice_type": "Cubed",
-        "garnish": "Lemon peel",
+        "garnish": "Lemon Peel",
         "seasonal_associations": [
             "Autumn",
             "Spring"
@@ -190,11 +369,20 @@
     },
     {
         "name": "M&M (Mushroom & Mezcal)",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1.5
+            },
+            {
+                "name": "Mezcal",
+                "measurement_fl_oz": 1.5
+            }
+        ],
         "method": "Stir",
         "glass_type": "Double Old Fashioned",
         "ice_type": "Block",
-        "garnish": "Lime peel",
+        "garnish": "Lime Peel",
         "seasonal_associations": [
             "Autumn",
             "Winter"
@@ -205,12 +393,25 @@
         ]
     },
     {
-        "name": "BeatIt",
-        "ingredients": null,
+        "name": "Beatit",
+        "ingredients": [
+            {
+                "name": "Rye Whiskey",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Tawny Port",
+                "measurement_fl_oz": 0.75
+            }
+        ],
         "method": "Stir",
         "glass_type": "Nick & Nora",
         "ice_type": "Any",
-        "garnish": "Orange peel",
+        "garnish": "Orange Peel",
         "seasonal_associations": [
             "Winter"
         ],
@@ -221,7 +422,28 @@
     },
     {
         "name": "Affinity",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Scotch",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Sweet Vermouth",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Dry Vermouth",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Angostura Bitters",
+                "measurement_fl_oz": "1 Dash"
+            }
+        ],
         "method": "Stir",
         "glass_type": "Coupe",
         "ice_type": "Any",
@@ -237,11 +459,28 @@
     },
     {
         "name": "Manhattan Transfer",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Rye Whiskey",
+                "measurement_fl_oz": 1.5
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Dry Vermouth",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Orange Bitters",
+                "measurement_fl_oz": "1 Dash"
+            }
+        ],
         "method": "Stir",
         "glass_type": "Coupe",
         "ice_type": "Any",
-        "garnish": "Maraschino cherry",
+        "garnish": "Maraschino Cherry",
         "seasonal_associations": [
             "Winter",
             "Autumn"
@@ -253,11 +492,28 @@
     },
     {
         "name": "Yamabuki",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Japanese Whiskey",
+                "measurement_fl_oz": 1.5
+            },
+            {
+                "name": "Bianco Vermouth",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Orange Bitters",
+                "measurement_fl_oz": "1dash"
+            }
+        ],
         "method": "Stir",
         "glass_type": "Nick & Nora",
         "ice_type": "Any",
-        "garnish": "Lemon peel",
+        "garnish": "Lemon Peel",
         "seasonal_associations": [
             "Autumn",
             "Spring"
@@ -269,8 +525,25 @@
     },
     {
         "name": "Avion",
-        "ingredients": null,
-        "method": "Shake and fine strain",
+        "ingredients": [
+            {
+                "name": "Tequila Blanco",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Aperol",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Lemon Juice",
+                "measurement_fl_oz": 0.75
+            }
+        ],
+        "method": "Shake And Fine Strain",
         "glass_type": "Nick & Nora",
         "ice_type": "Any",
         "garnish": "Lemon Peel",
@@ -284,12 +557,33 @@
         ]
     },
     {
-        "name": "Hunter's Verdict",
-        "ingredients": null,
+        "name": "Hunter'S Verdict",
+        "ingredients": [
+            {
+                "name": "Aged Rum",
+                "measurement_fl_oz": 2
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Ginger Liqueur",
+                "measurement_fl_oz": 0.25
+            },
+            {
+                "name": "Orange Bitters",
+                "measurement_fl_oz": "1dash"
+            },
+            {
+                "name": "Angostura Bitters",
+                "measurement_fl_oz": "1dash"
+            }
+        ],
         "method": "Stir",
         "glass_type": "Double Old Fashioned",
         "ice_type": "Any",
-        "garnish": "Orange wedge",
+        "garnish": "Orange Wedge",
         "seasonal_associations": [
             "Autumn",
             "Spring",
@@ -303,8 +597,29 @@
         ]
     },
     {
-        "name": "Devil's Roots",
-        "ingredients": null,
+        "name": "Devil'S Roots",
+        "ingredients": [
+            {
+                "name": "Straight Whiskey",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Mezcal",
+                "measurement_fl_oz": 0.33
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.33
+            },
+            {
+                "name": "Campari",
+                "measurement_fl_oz": 0.17
+            },
+            {
+                "name": "Elderflower Liqueur",
+                "measurement_fl_oz": 0.17
+            }
+        ],
         "method": "Stir",
         "glass_type": "Nick & Nora",
         "ice_type": "Any",
@@ -322,7 +637,20 @@
     },
     {
         "name": "Me, Myself & I",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Mezcal",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Italicus",
+                "measurement_fl_oz": 1
+            }
+        ],
         "method": "Stir",
         "glass_type": "Double Old Fashioned",
         "ice_type": "Ice Block",
@@ -339,7 +667,24 @@
     },
     {
         "name": "Smoke & Mirrors",
-        "ingredients": null,
+        "ingredients": [
+            {
+                "name": "Peated Whiskey",
+                "measurement_fl_oz": 1.5
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Apricot Liqueur",
+                "measurement_fl_oz": 0.5
+            },
+            {
+                "name": "Angostura Bitters",
+                "measurement_fl_oz": "2dashes"
+            }
+        ],
         "method": "Stir",
         "glass_type": "Coupe",
         "ice_type": "Any",
@@ -355,8 +700,25 @@
     },
     {
         "name": "Withces Flight",
-        "ingredients": null,
-        "method": "Shake and Fine strain",
+        "ingredients": [
+            {
+                "name": "Bourbon",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Strega",
+                "measurement_fl_oz": 0.75
+            },
+            {
+                "name": "Lemon Juice",
+                "measurement_fl_oz": 0.75
+            }
+        ],
+        "method": "Shake And Fine Strain",
         "glass_type": "Coupe",
         "ice_type": "Any",
         "garnish": "Sugarred Rim",
@@ -373,1329 +735,11 @@
     },
     {
         "name": "Midnight Mush",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Sidecap",
-        "ingredients": null,
-        "method": "Shake and Fine Strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Suggared Rim",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter",
-            "Spring"
-        ],
-        "strength": "Medium Strong",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Veda Mary",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Celery root",
-        "seasonal_associations": [
-            "Spring",
-            "Summer",
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Savory",
-            "Spicy"
-        ]
-    },
-    {
-        "name": "Mushroom Garibaldi",
-        "ingredients": null,
-        "method": "Blend without ice until fluffy",
-        "glass_type": "Highball",
-        "ice_type": "Any",
-        "garnish": "Pink Grapefruit wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Citrus"
-        ]
-    },
-    {
-        "name": "Tropical Mushroom",
-        "ingredients": null,
-        "method": "Churn",
-        "glass_type": "Highball",
-        "ice_type": "Crushed",
-        "garnish": "Grated Cinnamon",
-        "seasonal_associations": [
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Fruity"
-        ]
-    },
-    {
-        "name": "Beelzebub",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Nick n Nora",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Spring",
-            "Summer",
-            "Autumn"
-        ],
-        "strength": "Medium Strong",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Nutty",
-            "Smokey"
-        ]
-    },
-    {
-        "name": "Swizzle Suspect",
-        "ingredients": [],
-        "method": "",
-        "glass_type": "Highball",
-        "ice_type": "Crushed",
-        "garnish": "Mint peak",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Light Medium",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Herbal"
-        ]
-    },
-    {
-        "name": "The Malague\u00f1a",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Orange twist",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet"
-        ]
-    },
-    {
-        "name": "Mushroom Paloma",
-        "ingredients": null,
-        "method": "Build",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Pink Grapefruit Wedge",
-        "seasonal_associations": [
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Medium Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Effervescent"
-        ]
-    },
-    {
-        "name": "Drunken Pirate",
-        "ingredients": null,
-        "method": "Shake and strain",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Mint peak and Orange Wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Veda Martinez",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Orange Peel",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Pinched Notes",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Block",
-        "garnish": "Candied ginger",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Vedrano",
-        "ingredients": null,
-        "method": "Churn",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Crashed",
-        "garnish": "Mint peak",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Fruity",
-            "Tropical"
-        ]
-    },
-    {
-        "name": "Highlander",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Orange peel",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": null
-    },
-    {
-        "name": "Served",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Collins",
-        "ice_type": "Cubed",
-        "garnish": "Orange Wedge",
-        "seasonal_associations": [
-            "Spring",
-            "Summer",
-            "Autumn"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Effervescent"
-        ]
-    },
-    {
-        "name": "Pastry War",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Lime wedge",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Floral"
-        ]
-    },
-    {
-        "name": "Moment Gone",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Lemon wheel",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Mushrooms and Coke",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Lemon peel",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Show me the smoke",
-        "ingredients": null,
-        "method": "Shake, fine strain and dry shake.",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Grated cinnamon",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Herbal",
-            "Smokey"
-        ]
-    },
-    {
-        "name": "Cherry Bomb No.2",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Block",
-        "garnish": "Cherry and green olive",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Fruity"
-        ]
-    },
-    {
-        "name": "Vedicilin",
-        "ingredients": null,
-        "method": "Shake and Fine strain",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Peated whiskey spray",
-        "seasonal_associations": [
-            "Spring",
-            "Summer",
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Medium Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Smokey"
-        ]
-    },
-    {
-        "name": "Poison Dart",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Orange peel",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Spice"
-        ]
-    },
-    {
-        "name": "Vedroni Sour",
-        "ingredients": null,
-        "method": "Shake, fine strain and Dry shake",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Lemon wheel",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sour"
-        ]
-    },
-    {
-        "name": "Yesterday, Today and Veda",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Italian Buck",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Lime wedge",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Spicy"
-        ]
-    },
-    {
-        "name": "Jim Jam",
-        "ingredients": null,
-        "method": "Shake and finestrain",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Velvet Touch",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Orange zest",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn",
-            "Spring"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Trident",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Susto",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Old-fashioned",
-        "ice_type": "Block",
-        "garnish": "Basil leaf",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Herbal"
-        ]
-    },
-    {
-        "name": "Black Magic no.2",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Old-fashioned",
-        "ice_type": "Block",
-        "garnish": "Orange peel",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Fruity"
-        ]
-    },
-    {
-        "name": "Mushroom Daiquiri",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Tropical"
-        ]
-    },
-    {
-        "name": "French Kiss No.4",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Raspberry on stick",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Tropical"
-        ]
-    },
-    {
-        "name": "Avenue San Maritn",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Lime wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Spicy"
-        ]
-    },
-    {
-        "name": "Royal Balcan",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Grapefruit peel",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "French 40",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Collins",
-        "ice_type": "Cubed",
-        "garnish": "Lemon wheel",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "M.S",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Old-fashioend",
-        "ice_type": "Block",
-        "garnish": "Blackberry",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Mushroom Hold",
-        "ingredients": null,
-        "method": "Shake and strain",
-        "glass_type": "Old-fashioned",
-        "ice_type": "Crushed",
-        "garnish": "Mint peaks",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Nutty"
-        ]
-    },
-    {
-        "name": "A Still Dawn",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Atumn",
-            "Spring",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Fruity"
-        ]
-    },
-    {
-        "name": "Killer Queen",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Floral"
-        ]
-    },
-    {
-        "name": "Prophet in Plain Clothes",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Cherries on stick",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": null
-    },
-    {
-        "name": "African Flower",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "old-fashioned",
-        "ice_type": "Block",
-        "garnish": "Orange peel",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry sweet"
-        ]
-    },
-    {
-        "name": "Crowned King",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Nutty"
-        ]
-    },
-    {
-        "name": "A Moment of Silence",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Double old-fashioned",
-        "ice_type": "Block",
-        "garnish": "Orange peel",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Bitter"
-        ]
-    },
-    {
-        "name": "Pura Vida",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Orange peel",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "M. Colada",
-        "ingredients": null,
-        "method": "Shake",
-        "glass_type": "Hurricane",
-        "ice_type": "Crashed",
-        "garnish": "Pineapple Wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Light Medium",
-        "flavor_profile": [
-            "Sweet",
-            "Tropical"
-        ]
-    },
-    {
-        "name": "Rum & Mushroom",
-        "ingredients": null,
-        "method": "Build",
-        "glass_type": "Collins",
-        "ice_type": "Cubed",
-        "garnish": "Lime peel",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Positive Side",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & sour"
-        ]
-    },
-    {
-        "name": "Poderoso",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Pineapple wedge",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Mushroom & Famous",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Lime wedge",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Smokey"
-        ]
-    },
-    {
-        "name": "Nuclear Mushroom Daiquiri",
-        "ingredients": null,
-        "method": "Blend with crashed ice",
-        "glass_type": "Hurricane",
-        "ice_type": "Any",
-        "garnish": "Dehydrated banana",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Tropical"
-        ]
-    },
-    {
-        "name": "Angel's Share No.3",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet"
-        ]
-    },
-    {
-        "name": "Poet's Dream",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Mushroom Martini",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Martini",
-        "ice_type": "Any",
-        "garnish": "Olive",
-        "seasonal_associations": [
-            "Spring",
-            "Autumn",
-            "Winter",
-            "Summer"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry"
-        ]
-    },
-    {
-        "name": "Dante's Shroom",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Orange zest",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "My shroomy tie",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Double old-fashioned",
-        "ice_type": "Crushed",
-        "garnish": "Orange wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Nutty"
-        ]
-    },
-    {
-        "name": "Satan's Whiskers No.2",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Orange zest",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry sweet"
-        ]
-    },
-    {
-        "name": "New Carre",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Double old fashioned",
-        "ice_type": "Block",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry sweet"
-        ]
-    },
-    {
-        "name": "New York Sling",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Sling glass",
-        "ice_type": "Cubed",
-        "garnish": "Pineapple wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Tropical"
-        ]
-    },
-    {
-        "name": "The Ground",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "-",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Hound's tooth",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Grapefruit Zest",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Citrusy"
-        ]
-    },
-    {
-        "name": "C'est la Evi",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Dehydrated apple",
-        "seasonal_associations": [
-            "Autumn",
-            "Winter",
-            "Spring"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Fruity"
-        ]
-    },
-    {
-        "name": "Coco Shroom",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "White chocolate on rim",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Highball no.2",
-        "ingredients": null,
-        "method": "Build",
-        "glass_type": "Highball",
-        "ice_type": "Cubed",
-        "garnish": "Lemon wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn",
-            "Winter"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Dry Sweet",
-            "Effervescent"
-        ]
-    },
-    {
-        "name": "Death & Taxes no.2",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Dry Sweet"
-        ]
-    },
-    {
-        "name": "Black dog Smash",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "highball",
-        "ice_type": "Crushed",
-        "garnish": "Mint peak",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Loose Lips",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Rosemary on peg",
-        "seasonal_associations": [
-            "Autumn",
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Herbal"
-        ]
-    },
-    {
-        "name": "Strawberry Fields",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Sugarred rim",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Fruity"
-        ]
-    },
-    {
-        "name": "Chocolate Mushroom",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Nick & Nora",
-        "ice_type": "Any",
-        "garnish": "Orange zest",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet"
-        ]
-    },
-    {
-        "name": "Mushroom Swizzle",
-        "ingredients": null,
-        "method": "Swizzle",
-        "glass_type": "Collins",
-        "ice_type": "Crushed",
-        "garnish": "Mint peak",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Mushroom Daisy",
-        "ingredients": null,
-        "method": "Shake and strain",
-        "glass_type": "Wine glass",
-        "ice_type": "Crushed",
-        "garnish": "Berries",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Celery Gimlet",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Double - old fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Celery stick",
-        "seasonal_associations": [
-            "Spring",
-            "Summer"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Vegetal"
-        ]
-    },
-    {
-        "name": "M.C",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Collins",
-        "ice_type": "Cubed",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Early Fizz",
-        "ingredients": null,
-        "method": "Shake and Dry shake",
-        "glass_type": "Collins",
-        "ice_type": "Cubed",
-        "garnish": "Lemon zest",
-        "seasonal_associations": [
-            "Winter",
-            "Spring",
-            "Summer",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Creamy"
-        ]
-    },
-    {
-        "name": "Optimism",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Coupe",
-        "ice_type": "Any",
-        "garnish": "Cucumber peel",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Sweet & Sour"
-        ]
-    },
-    {
-        "name": "Melon & Mushroom",
-        "ingredients": null,
-        "method": "Stir",
-        "glass_type": "Old-fashioned",
-        "ice_type": "Cubed",
-        "garnish": "Melon slice",
-        "seasonal_associations": [
-            "Summer",
-            "Spring",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet"
-        ]
-    },
-    {
-        "name": "Tacos Highball",
-        "ingredients": null,
-        "method": "Shake and fine strain",
-        "glass_type": "Colins",
-        "ice_type": "Cubed",
-        "garnish": "Lime wedge",
-        "seasonal_associations": [
-            "Summer",
-            "Spring"
-        ],
-        "strength": "Light",
-        "flavor_profile": [
-            "Sweet & Sour",
-            "Vegetal"
-        ]
-    },
-    {
-        "name": "Mushroom Flip",
-        "ingredients": null,
-        "method": "Shake and Dry shake",
-        "glass_type": "Flip",
-        "ice_type": "Any",
-        "garnish": "Grated nutmeg",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Medium",
-        "flavor_profile": [
-            "Sweet",
-            "Creamy"
-        ]
-    },
-    {
-        "name": "Mushroom Coffee",
-        "ingredients": null,
-        "method": "Build",
-        "glass_type": "Toddy",
-        "ice_type": "Any",
-        "garnish": "Grated cinnamon",
-        "seasonal_associations": [
-            "Winter",
-            "Autumn"
-        ],
-        "strength": "Strong",
-        "flavor_profile": [
-            "Sweet",
-            "Coffee"
-        ]
-    }
-]
+        "ingredients": [
+            {
+                "name": "Mezcal",
+                "measurement_fl_oz": 1
+            },
+            {
+                "name": "Veda",
+                "measurement_fl_oz": 
