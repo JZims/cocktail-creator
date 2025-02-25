@@ -17,7 +17,6 @@ def standardize_flavor_profiles(flavor_raw):
         # Comprehensive flavor mapping based on CSV analysis
         flavor_mapping = {
             # Sweet variations
-            'Bitter Sweet': 'Bittersweet',
             'Dry Sweet': 'Dry-Sweet',
             'Sweet and Sour': 'Sweet & Sour',
             'Sweet Sour': 'Sweet & Sour',
@@ -40,24 +39,6 @@ def standardize_flavor_profiles(flavor_raw):
             'Sweet Fruity': ['Sweet', 'Fruity'],
             'Sweet Spicy': ['Sweet', 'Spicy'],
             
-            # Case standardization
-            'bitter': 'Bittersweet',
-            'sweet': 'Sweet',
-            'sour': 'Sour',
-            'dry': 'Dry',
-            'smokey': 'Smokey',
-            'floral': 'Floral',
-            'spicy': 'Spicy',
-            'herbal': 'Herbal',
-            'fruity': 'Fruity',
-            'tropical': 'Tropical',
-            'nutty': 'Nutty',
-            'citrusy': 'Citrusy',
-            'vegetal': 'Vegetal',
-            'savory': 'Savory',
-            'creamy': 'Creamy',
-            'coffee': 'Coffee',
-            'effervescent': 'Effervescent'
         }
         
         # Process each flavor

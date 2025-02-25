@@ -55,8 +55,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Bitter",
-            "Sweet"
+            "Bitter Sweet"
         ]
     },
     {
@@ -125,8 +124,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet Sour",
             "Herbal"
         ]
     },
@@ -158,8 +156,7 @@
         "strength":"Light",
         "flavor_profile":[
             "Effervescent",
-            "Bitter",
-            "Sweet"
+            "Bitter Sweet"
         ]
     },
     {
@@ -197,9 +194,8 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
-            "Smokey"
+            "Sweet and sour",
+            "Smoky"
         ]
     },
     {
@@ -228,7 +224,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Effervescent"
+            "Effervecent"
         ]
     },
     {
@@ -262,8 +258,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Herbal",
             "Citrusy"
         ]
@@ -332,8 +327,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Bitter",
-            "Sweet"
+            "Bitter Sweet"
         ]
     },
     {
@@ -370,8 +364,7 @@
         ],
         "strength":"Medium Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -396,8 +389,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Bitter",
-            "Sweet"
+            "Bitter Sweet"
         ]
     },
     {
@@ -425,8 +417,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -463,8 +454,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -497,8 +487,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -531,8 +520,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -565,8 +553,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -604,8 +591,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Herbal",
             "Spicy"
         ]
@@ -644,8 +630,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Bitter",
-            "Sweet",
+            "Bitter Sweet",
             "Floral",
             "Smokey"
         ]
@@ -677,8 +662,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Bitter",
-            "Sweet"
+            "Bitter Sweet"
         ]
     },
     {
@@ -745,8 +729,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Herbal"
         ]
     },
@@ -784,8 +767,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -815,8 +797,7 @@
         ],
         "strength":"Medium Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -863,8 +844,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Savory",
             "Spicy"
         ]
@@ -896,8 +876,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Citrus"
         ]
     },
@@ -931,8 +910,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Fruity"
         ]
     },
@@ -971,8 +949,7 @@
         ],
         "strength":"Medium Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Nutty",
             "Smokey"
         ]
@@ -1013,8 +990,7 @@
         ],
         "strength":"Light Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Herbal"
         ]
     },
@@ -1089,8 +1065,7 @@
         ],
         "strength":"Medium Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Effervescent"
         ]
     },
@@ -1129,8 +1104,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -1167,8 +1141,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1205,8 +1178,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1248,8 +1220,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Fruity",
             "Tropical"
         ]
@@ -1283,9 +1254,7 @@
             "Autumn"
         ],
         "strength":"Strong",
-        "flavor_profile":[
-
-        ]
+        "flavor_profile":null
     },
     {
         "name":"Served",
@@ -1322,8 +1291,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Effervescent"
         ]
     },
@@ -1366,8 +1334,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Floral"
         ]
     },
@@ -1410,8 +1377,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1453,8 +1419,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1495,8 +1460,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Herbal",
             "Smokey"
         ]
@@ -1539,8 +1503,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Fruity"
         ]
     },
@@ -1584,8 +1547,7 @@
         ],
         "strength":"Medium Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Smokey"
         ]
     },
@@ -1632,9 +1594,8 @@
         ],
         "strength":"Medium Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
-            "Spicy"
+            "Sweet & Sour",
+            "Spice"
         ]
     },
     {
@@ -1680,8 +1641,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sour"
+            "Dry Sour"
         ]
     },
     {
@@ -1714,8 +1674,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1749,8 +1708,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Spicy"
         ]
     },
@@ -1780,8 +1738,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -1811,8 +1768,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1847,8 +1803,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -1881,8 +1836,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Herbal"
         ]
     },
@@ -1916,8 +1870,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Fruity"
         ]
     },
@@ -1955,8 +1908,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Tropical"
         ]
     },
@@ -1994,8 +1946,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Tropical"
         ]
     },
@@ -2033,8 +1984,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Spicy"
         ]
     },
@@ -2073,8 +2023,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -2111,8 +2060,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -2149,8 +2097,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -2188,8 +2135,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Nutty"
         ]
     },
@@ -2228,8 +2174,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Fruity"
         ]
     },
@@ -2263,8 +2208,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Floral"
         ]
     },
@@ -2301,9 +2245,7 @@
             "Autumn"
         ],
         "strength":"Strong",
-        "flavor_profile":[
-
-        ]
+        "flavor_profile":null
     },
     {
         "name":"African Flower",
@@ -2335,8 +2277,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry sweet"
         ]
     },
     {
@@ -2377,8 +2318,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Nutty"
         ]
     },
@@ -2449,8 +2389,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -2530,8 +2469,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -2573,8 +2511,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "sour"
+            "Sweet & sour"
         ]
     },
     {
@@ -2608,8 +2545,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -2642,8 +2578,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Smokey"
         ]
     },
@@ -2681,8 +2616,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Tropical"
         ]
     },
@@ -2748,8 +2682,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -2825,8 +2758,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -2876,8 +2808,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Nutty"
         ]
     },
@@ -2919,8 +2850,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry sweet"
         ]
     },
     {
@@ -2961,8 +2891,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry sweet"
         ]
     },
     {
@@ -3012,8 +2941,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Tropical"
         ]
     },
@@ -3047,8 +2975,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -3085,8 +3012,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Citrusy"
         ]
     },
@@ -3125,8 +3051,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Fruity"
         ]
     },
@@ -3165,8 +3090,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -3201,8 +3125,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Dry",
-            "Sweet",
+            "Dry Sweet",
             "Effervescent"
         ]
     },
@@ -3240,8 +3163,7 @@
         ],
         "strength":"Strong",
         "flavor_profile":[
-            "Dry",
-            "Sweet"
+            "Dry Sweet"
         ]
     },
     {
@@ -3279,8 +3201,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -3326,8 +3247,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Herbal"
         ]
     },
@@ -3365,8 +3285,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Fruity"
         ]
     },
@@ -3434,8 +3353,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -3473,8 +3391,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -3523,8 +3440,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Vegetal"
         ]
     },
@@ -3563,8 +3479,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -3615,8 +3530,7 @@
         ],
         "strength":"Medium",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Creamy"
         ]
     },
@@ -3658,8 +3572,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Sweet",
-            "Sour"
+            "Sweet & Sour"
         ]
     },
     {
@@ -3734,8 +3647,7 @@
         ],
         "strength":"Light",
         "flavor_profile":[
-            "Sweet",
-            "Sour",
+            "Sweet & Sour",
             "Vegetal"
         ]
     },

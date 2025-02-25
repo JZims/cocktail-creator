@@ -8,7 +8,7 @@ excel_path = os.getenv('UNCLEAN_XLSX_INPUT')
 output_path = os.getenv('CLEANED_XLSX_OUTPUT')
 
 # Read the Excel file (update the file name/path as needed)
-df = pd.read_excel(excel_path)
+
 # print(df.head(20))
 
 def parse_ingredient(ingredient_row):
@@ -23,6 +23,68 @@ def initialize_ingredient(ingredient_row):
     container.append(parse_ingredient(ingredient_row))
     return container
 
+def standardize_flavor_profiles(flavor_input):
+    """
+    Standardizes flavor profile strings or lists into consistent format.
+    Args:
+        flavor_input: Either a string or list of flavor profiles
+    Returns:
+        list: Standardized list of flavor profiles
+    """
+    flavors = []
+    if not flavor_input:
+        return flavors
+        
+    # Convert input to list if it's a string
+    raw_flavors = []
+    if isinstance(flavor_input, str):
+        raw_flavors = [f.strip() for f in flavor_input.replace('&', ',').split(',')]
+    elif isinstance(flavor_input, list):
+        raw_flavors = flavor_input
+    
+    # Comprehensive flavor mapping
+    flavor_mapping = {
+        # Sweet variations
+        'Dry Sweet': ['Dry', 'Sweet'],
+        'Dry sweet': ['Dry', 'Sweet'],
+        'Dry-Sweet': ['Dry', 'Sweet'],
+        'Dry Sour': ['Dry', 'Sour'],
+        'Dry-Sour': ['Dry', 'Sour'],
+        'Sweet and Sour': ['Sweet', 'Sour'],
+        'Sweet Sour': ['Sweet', 'Sour'],
+        'Sweet and sour': ['Sweet', 'Sour'],
+        'Sweet & sour': ['Sweet', 'Sour'],
+        'Sweet & Sour': ['Sweet', 'Sour'],
+        'Bitter Sweet': ['Bitter', 'Sweet'],
+        # Spelling standardization
+        'Smoky': 'Smokey',
+        'Effervecent': 'Effervescent',
+        'Spice': 'Spicy',
+        
+        # Compound flavors
+        'Sweet Tropical': ['Sweet', 'Tropical'],
+        'Dry Herbal': ['Dry', 'Herbal'],
+        'Sweet Fruity': ['Sweet', 'Fruity'],
+        'Sweet Spicy': ['Sweet', 'Spicy'],
+    }
+    
+    # Process each flavor
+    for flavor in raw_flavors:
+        if isinstance(flavor, str):
+            flavor = flavor.strip()
+            if flavor:
+                # Apply standardization mapping
+                standardized = flavor_mapping.get(flavor, flavor)
+                
+                # Handle array results from mapping
+                if isinstance(standardized, list):
+                    flavors.extend(standardized)
+                else:
+                    flavors.append(standardized)
+    
+    # Remove duplicates while preserving order
+    return list(dict.fromkeys(flavors))
+
 def parse_list(cell):
     """
     Splits a comma-separated string into a list of trimmed strings.
@@ -30,8 +92,9 @@ def parse_list(cell):
     """
     if pd.notna(cell):
         return [x.strip() for x in cell.split(',') if x.strip()]
+    
 
-
+df = pd.read_excel(excel_path)
 cocktails = []
 current_cocktail = None
 
@@ -52,7 +115,7 @@ for _, row in df.iterrows():
             "garnish": row["garnish"].title() if pd.notna(row["garnish"]) else "Any",
             "seasonal_associations": parse_list(row["seasonal_associations"]),
             "strength": row["strength"].title() if pd.notna(row["strength"]) else "",
-            "flavor_profile": parse_list(row["flavor_profile"])
+            "flavor_profile": standardize_flavor_profiles(row["flavor_profile"])
         }
     elif current_cocktail is not None:
         # Append any additional valid data to existing cocktail
@@ -67,8 +130,13 @@ for _, row in df.iterrows():
             cocktail_sa.append(row["seasonal_associations"])
 
         if pd.notna(row["flavor_profile"]):
-            cocktail_fp = current_cocktail["flavor_profile"]
-            cocktail_fp.append(row["flavor_profile"])
+            current_cocktail["flavor_profile"].extend(
+                standardize_flavor_profiles(row["flavor_profile"])
+            )
+            # Re-standardize the complete list to remove duplicates
+            current_cocktail["flavor_profile"] = standardize_flavor_profiles(
+                current_cocktail["flavor_profile"]
+            )
 
 
 # Don't forget to append the last cocktail
@@ -77,5 +145,4 @@ if current_cocktail is not None:
     cocktails.append(current_cocktail)
 
 # Write the resulting cocktail data to a JSON file with indentation for readability
-with open(output_path, "w") as f:
-    json.dump(cocktails, f, indent=4)
+pd.DataFrame(cocktails).to_json(output_path, orient='records', indent=4)
