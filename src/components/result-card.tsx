@@ -6,9 +6,9 @@ export function ResultCard({cocktail, index}: ResultCardProps & { index: number 
     ingredients, 
     method, 
     glass_type, 
-    ice_type,
+    
     garnish, 
-    seasonal_associations,
+    
     strength, 
     flavor_profile 
   } = cocktail;
