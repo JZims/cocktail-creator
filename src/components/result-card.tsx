@@ -4,9 +4,11 @@ export function ResultCard({cocktail, index}: ResultCardProps & { index: number 
   const { 
     name,
     ingredients, 
-    glass_type, 
-    garnish, 
     method, 
+    glass_type, 
+    ice_type,
+    garnish, 
+    seasonal_associations,
     strength, 
     flavor_profile 
   } = cocktail;

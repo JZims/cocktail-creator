@@ -1,18 +1,9 @@
 import { useState } from "react";
 import { ResultCard } from "./components/result-card";
 import { NoneFound } from "./components/none-found";
-import cocktailsData from "./assets/scripts/output/veda_cocktails.json";
+import cocktailsData from "./assets/scripts/output/veda_cocktails_xlsx.json";
 
-interface Cocktail {
-  name: string;
-  ingredients: { name: string; measurement_fl_oz: number | string }[];
-  seasonal_associations: { season: string }[];
-  glass_type: string;
-  method: string;
-  strength: string;
-  garnish: string;
-  flavor_profile: string[];
-}
+
 
 const App = () => {
   const [selectedSeasons, setSelectedSeasons] = useState<string[]>([]);
@@ -24,11 +15,11 @@ const App = () => {
   const allSelected =
     selectedGlassTypes[0] && selectedSeasons[0] && selectedFlavorProfiles[0];
 
-  const filteredCocktails = cocktailsData.cocktails.filter((cocktail) => {
+  const filteredCocktails = cocktailsData.filter((cocktail) => {
     const seasonMatch =
       selectedSeasons.length === 0 ||
       cocktail.seasonal_associations.some((sa) =>
-        selectedSeasons.includes(sa.season)
+        selectedSeasons.includes(sa)
       );
 
     const glassMatch =
@@ -75,12 +66,12 @@ const App = () => {
   const seasonOptions = ["Summer", "Winter", "Spring", "Autumn"];
 
   const glassTypeOptions = Array.from(
-    new Set(cocktailsData.cocktails.map((cocktail) => cocktail.glass_type))
+    new Set(cocktailsData.map((cocktail) => cocktail.glass_type))
   ).sort();
 
   const flavorProfileOptions = Array.from(
     new Set(
-      cocktailsData.cocktails
+      cocktailsData
         .map((cocktail) => cocktail.flavor_profile)
         .map((fps) => fps.map((fp) => fp.toLowerCase()))
         .reduce((acc, val) => acc.concat(val), [])
@@ -150,8 +141,12 @@ const App = () => {
           </div>
           <div className="results-grid">
             {allSelected && filteredCocktails.length > 0 ? (
-              filteredCocktails.map((cocktail: Cocktail, index: number) => (
-                <ResultCard index={index} key={index} cocktail={cocktail} />
+              filteredCocktails.map((cocktail, index: number) => (
+              <ResultCard 
+                key={cocktail.name} 
+                index = {index}
+                cocktail={cocktail} 
+              />
               ))
             ) : (
               <NoneFound />

@@ -1,6 +1,6 @@
 [
     {
-        "name":"Veda Old Fashioned",
+        "name":"Veda Old-Fashioned",
         "ingredients":[
             {
                 "name":"Bourbon",
@@ -11,12 +11,12 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stirred",
-        "glass_type":"Double Old Fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Ice Block",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -45,7 +45,7 @@
             }
         ],
         "method":"Stirred",
-        "glass_type":"Double Old Fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Ice Block",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -67,12 +67,12 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"2 dashes"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"2 Dashes"
             },
             {
                 "name":"Ginger Beer",
@@ -187,7 +187,7 @@
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Double Old Fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed Ice",
         "garnish":"Lime Wedge",
         "seasonal_associations":[
@@ -247,7 +247,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":1
             }
         ],
@@ -314,11 +314,11 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Angostura Bitters",
+                "name":"Angostura bitters",
                 "measurement_fl_oz":"1 Dash"
             },
             {
-                "name":"Organge Bitters",
+                "name":"Organge bitters",
                 "measurement_fl_oz":"1 Dash"
             }
         ],
@@ -348,7 +348,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Simple Syrup",
+                "name":"Simple syrup",
                 "measurement_fl_oz":0.25
             },
             {
@@ -387,7 +387,7 @@
             }
         ],
         "method":"Stir",
-        "glass_type":"Double Old Fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Lime Peel",
         "seasonal_associations":[
@@ -449,7 +449,7 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Angostura Bitters",
+                "name":"Angostura bitters",
                 "measurement_fl_oz":"1 Dash"
             }
         ],
@@ -517,8 +517,8 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
@@ -539,7 +539,7 @@
         "name":"Avion",
         "ingredients":[
             {
-                "name":"Tequila Blanco",
+                "name":"Tequila blanco",
                 "measurement_fl_oz":0.75
             },
             {
@@ -551,7 +551,7 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.75
             }
         ],
@@ -573,7 +573,7 @@
         "name":"Hunter'S Verdict",
         "ingredients":[
             {
-                "name":"Aged Rum",
+                "name":"Aged rum",
                 "measurement_fl_oz":2
             },
             {
@@ -585,16 +585,16 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"1 Dash"
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
-        "glass_type":"Double Old Fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Any",
         "garnish":"Orange Wedge",
         "seasonal_associations":[
@@ -667,7 +667,7 @@
             }
         ],
         "method":"Stir",
-        "glass_type":"Double Old Fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Ice Block",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -693,12 +693,12 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Apricot Liqueur",
+                "name":"Apricot liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
@@ -831,7 +831,7 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Tomato Pasata",
+                "name":"Tomato pasata",
                 "measurement_fl_oz":3
             },
             {
@@ -844,11 +844,11 @@
             },
             {
                 "name":"Worcestershire Sauce",
-                "measurement_fl_oz":"1dash"
+                "measurement_fl_oz":"1 Dash"
             },
             {
                 "name":"Tobasco",
-                "measurement_fl_oz":"2dashes"
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -877,11 +877,11 @@
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Blood Orange Juice",
+                "name":"Blood Orange juice",
                 "measurement_fl_oz":2
             },
             {
-                "name":"Pink Grapefruit Juice",
+                "name":"Pink Grapefruit juice",
                 "measurement_fl_oz":1.75
             }
         ],
@@ -898,7 +898,7 @@
         "flavor_profile":[
             "Dry",
             "Sweet",
-            "Citrus"
+            "Citrusy"
         ]
     },
     {
@@ -913,11 +913,11 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Giffard Banana Do Brazil",
+                "name":"Giffard Banana do brazil",
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             }
         ],
@@ -956,12 +956,12 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.75
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Nick n Nora",
+        "glass_type":"Nick & Nora",
         "ice_type":"Any",
         "garnish":"-",
         "seasonal_associations":[
@@ -980,7 +980,7 @@
     {
         "name":"Swizzle Suspect",
         "ingredients":[
-            null,
+    
             {
                 "name":"Suze",
                 "measurement_fl_oz":1.33
@@ -990,15 +990,15 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Peach Liqueur",
+                "name":"Peach liqueur",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Mint Leaves",
+                "name":"Mint leaves",
                 "measurement_fl_oz":8
             },
             {
-                "name":"Seedless Green Grapes",
+                "name":"Seedless green grapes",
                 "measurement_fl_oz":6
             }
         ],
@@ -1034,12 +1034,12 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Angostura Btiters",
-                "measurement_fl_oz":"3dashes"
+                "name":"Angostura btiters",
+                "measurement_fl_oz":"3 Dashes"
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
@@ -1098,7 +1098,7 @@
         "name":"Drunken Pirate",
         "ingredients":[
             {
-                "name":"Overproof Aged Rum",
+                "name":"Overproof aged rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -1106,20 +1106,20 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Falernum Liqueur",
+                "name":"falernum liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":1
             },
             {
-                "name":"Maple Syrup",
+                "name":"Maple syrup",
                 "measurement_fl_oz":0.5
             }
         ],
         "method":"Shake And Strain",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Mint Peak And Orange Wedge",
         "seasonal_associations":[
@@ -1153,8 +1153,8 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Angostura Cocoa Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Angostura cocoa bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
@@ -1187,16 +1187,16 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Chili Liqueur",
+                "name":"Chili liqueur",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Chocolate Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Chocolate bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Candied Ginger",
         "seasonal_associations":[
@@ -1225,20 +1225,20 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Pineapple Syrup",
+                "name":"Pineapple syrup",
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Churn",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Crashed",
         "garnish":"Mint Peak",
         "seasonal_associations":[
@@ -1270,8 +1270,8 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
@@ -1299,7 +1299,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":1
             },
             {
@@ -1343,16 +1343,16 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Elderflower Liqueur",
+                "name":"Elderflower liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Saline Solution",
-                "measurement_fl_oz":"2drops"
+                "name":"Saline solution",
+                "measurement_fl_oz":"2 Drops"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -1375,15 +1375,15 @@
         "name":"Moment Gone",
         "ingredients":[
             {
-                "name":"White Rum",
+                "name":"White rum",
                 "measurement_fl_oz":2
             },
             {
-                "name":"Pomegranate Juice",
+                "name":"Pomegranate juice",
                 "measurement_fl_oz":1.33
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.67
             },
             {
@@ -1391,7 +1391,7 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 sugar syrup",
                 "measurement_fl_oz":0.25
             },
             {
@@ -1426,11 +1426,11 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Pimento Liqueur",
+                "name":"Pimento liqueur",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             },
             {
@@ -1439,7 +1439,7 @@
             },
             {
                 "name":"Prosecco",
-                "measurement_fl_oz":"1 0.5"
+                "measurement_fl_oz":"1 0"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -1465,7 +1465,7 @@
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Green Chartreuse",
+                "name":"Green chartreuse",
                 "measurement_fl_oz":0.25
             },
             {
@@ -1473,7 +1473,7 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.5
             },
             {
@@ -1481,7 +1481,7 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Egg White",
+                "name":"Egg white",
                 "measurement_fl_oz":0.5
             }
         ],
@@ -1525,12 +1525,12 @@
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Spiced Chocolate Bitters",
+                "name":"Spiced Chocolate bitters",
                 "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Cherry And Green Olive",
         "seasonal_associations":[
@@ -1552,7 +1552,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Peated Scotch",
+                "name":"Peated scotch",
                 "measurement_fl_oz":0.67
             },
             {
@@ -1568,12 +1568,12 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Honey Syrup",
+                "name":"Honey syrup",
                 "measurement_fl_oz":0.25
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Peated Whiskey Spray",
         "seasonal_associations":[
@@ -1597,11 +1597,11 @@
                 "measurement_fl_oz":2
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Orgeat Syrup",
+                "name":"Orgeat syrup",
                 "measurement_fl_oz":0.5
             },
             {
@@ -1609,20 +1609,20 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Cinnamon Syrup",
+                "name":"Cinnamon syrup",
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Pimento Liqueur",
+                "name":"Pimento liqueur",
                 "measurement_fl_oz":0.54
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -1653,19 +1653,19 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Orange Juice",
+                "name":"Orange juice",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 Sugar syrup",
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Egg White",
+                "name":"Egg white",
                 "measurement_fl_oz":0.5
             }
         ],
@@ -1730,11 +1730,11 @@
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Ginger Beer",
+                "name":"Ginger beer",
                 "measurement_fl_oz":2.5
             }
         ],
@@ -1762,11 +1762,11 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Apricot Liqueur",
+                "name":"Apricot liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.5
             }
         ],
@@ -1831,12 +1831,12 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Peach Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Peach bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Lemon Zest",
         "seasonal_associations":[
@@ -1867,12 +1867,12 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Celery Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Celery bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
-        "glass_type":"Old-fashioned",
+        "glass_type":"Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Basil Leaf",
         "seasonal_associations":[
@@ -1894,7 +1894,7 @@
                 "measurement_fl_oz":2
             },
             {
-                "name":"Peated Scotch",
+                "name":"Peated scotch",
                 "measurement_fl_oz":1
             },
             {
@@ -1902,12 +1902,12 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Saline Solution",
-                "measurement_fl_oz":"2 drops"
+                "name":"Saline solution",
+                "measurement_fl_oz":"2 Drops"
             }
         ],
         "method":"Stir",
-        "glass_type":"Old-fashioned",
+        "glass_type":"Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -1925,11 +1925,11 @@
         "name":"Mushroom Daiquiri",
         "ingredients":[
             {
-                "name":"Aged Rum",
+                "name":"Aged rum",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Pinepple Rum",
+                "name":"Pinepple rum",
                 "measurement_fl_oz":0.5
             },
             {
@@ -1937,11 +1937,11 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 Sugar syrup",
                 "measurement_fl_oz":0.25
             }
         ],
@@ -1972,7 +1972,7 @@
                 "measurement_fl_oz":0.67
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.5
             },
             {
@@ -1980,7 +1980,7 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Raspberry Syrup",
+                "name":"Raspberry syrup",
                 "measurement_fl_oz":0.25
             }
         ],
@@ -2012,19 +2012,19 @@
             },
             {
                 "name":"Honey",
-                "measurement_fl_oz":"2barspoon"
+                "measurement_fl_oz":"2 Barspoon"
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.67
             },
             {
-                "name":"Ginger Syrup",
+                "name":"Ginger syrup",
                 "measurement_fl_oz":0.1
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Lime Wedge",
         "seasonal_associations":[
@@ -2054,8 +2054,8 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Grapefruit Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Grapefruit bitters",
+                "measurement_fl_oz":"1 Dash"
             },
             {
                 "name":"Tonic",
@@ -2089,7 +2089,7 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.5
             },
             {
@@ -2097,7 +2097,7 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Champagne \/ Sparkling Wine",
+                "name":"Champagne \/ Sparkling wine",
                 "measurement_fl_oz":2
             }
         ],
@@ -2123,24 +2123,24 @@
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Creme De Mure",
+                "name":"Creme de mure",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.83
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 Sugar syrup",
                 "measurement_fl_oz":0.25
             },
             {
                 "name":"Absinth",
-                "measurement_fl_oz":"1dash"
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Old-fashioend",
+        "glass_type":"Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Blackberry",
         "seasonal_associations":[
@@ -2157,7 +2157,7 @@
         "name":"Mushroom Hold",
         "ingredients":[
             {
-                "name":"Jamaican Overproof Rum",
+                "name":"Jamaican overproof rum",
                 "measurement_fl_oz":0.75
             },
             {
@@ -2165,11 +2165,11 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Elderflower Liqueur",
+                "name":"Elderflower liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.75
             },
             {
@@ -2178,7 +2178,7 @@
             }
         ],
         "method":"Shake And Strain",
-        "glass_type":"Old-fashioned",
+        "glass_type":"Old-Fashioned",
         "ice_type":"Crushed",
         "garnish":"Mint Peaks",
         "seasonal_associations":[
@@ -2205,7 +2205,7 @@
                 "measurement_fl_oz":0.83
             },
             {
-                "name":"Creme De Cassis",
+                "name":"Creme de cassis",
                 "measurement_fl_oz":0.25
             },
             {
@@ -2213,8 +2213,8 @@
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Pear Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Pear bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
@@ -2237,7 +2237,7 @@
         "name":"Killer Queen",
         "ingredients":[
             {
-                "name":"White Overproof Rum",
+                "name":"White overproof rum",
                 "measurement_fl_oz":1
             },
             {
@@ -2245,11 +2245,11 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Rose Liqueur",
+                "name":"Rose liqueur",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             }
         ],
@@ -2288,8 +2288,8 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Saline Solution",
-                "measurement_fl_oz":"3drops"
+                "name":"Saline solution",
+                "measurement_fl_oz":"3 Drops"
             }
         ],
         "method":"Stir",
@@ -2317,16 +2317,16 @@
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Creme De Cacao",
+                "name":"Creme de Cacao",
                 "measurement_fl_oz":0.17
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
-        "glass_type":"old-fashioned",
+        "glass_type":"Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -2355,11 +2355,11 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Apricot Liqueur",
+                "name":"Apricot liqueur",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.67
             },
             {
@@ -2398,16 +2398,16 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Angostura Bitters",
+                "name":"Angostura bitters",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Applejack Brandy",
+                "name":"Applejack brandy",
                 "measurement_fl_oz":0.25
             }
         ],
         "method":"Stir",
-        "glass_type":"Double old-fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Orange Peel",
         "seasonal_associations":[
@@ -2435,8 +2435,8 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
@@ -2457,7 +2457,7 @@
         "name":"M. Colada",
         "ingredients":[
             {
-                "name":"White Rum",
+                "name":"White rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2465,7 +2465,7 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Pineapple Juice",
+                "name":"Pineapple juice",
                 "measurement_fl_oz":1
             },
             {
@@ -2495,7 +2495,7 @@
         "name":"Rum & Mushroom",
         "ingredients":[
             {
-                "name":"White Rum",
+                "name":"White rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2503,16 +2503,16 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Sugar Syrup 1:1",
+                "name":"Sugar syrup 1:1",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"1 Dash"
             },
             {
                 "name":"Tonic",
@@ -2538,28 +2538,28 @@
         "name":"Positive Side",
         "ingredients":[
             {
-                "name":"8Yo Rum",
-                "measurement_fl_oz":"1 .5"
+                "name":"8yo Rum",
+                "measurement_fl_oz":"1 ."
             },
             {
                 "name":"Veda",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Apricot Liqueur",
+                "name":"Apricot liqueur",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Sugar Syrup 1:1",
+                "name":"Sugar syrup 1:1",
                 "measurement_fl_oz":0.33
             },
             {
                 "name":"Ginger",
-                "measurement_fl_oz":"1inch"
+                "measurement_fl_oz":"1 Inch"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -2581,7 +2581,7 @@
         "name":"Poderoso",
         "ingredients":[
             {
-                "name":"Aged Rum",
+                "name":"Aged rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2589,16 +2589,16 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Coffee Liqueur",
+                "name":"Coffee liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Pineapple Juice",
+                "name":"Pineapple juice",
                 "measurement_fl_oz":0.5
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Pineapple Wedge",
         "seasonal_associations":[
@@ -2628,7 +2628,7 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             }
         ],
@@ -2651,7 +2651,7 @@
         "name":"Nuclear Mushroom Daiquiri",
         "ingredients":[
             {
-                "name":"Overoproof Rum",
+                "name":"Overoproof rum",
                 "measurement_fl_oz":1
             },
             {
@@ -2663,12 +2663,12 @@
                 "measurement_fl_oz":0.67
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.67
             },
             {
                 "name":"Banana",
-                "measurement_fl_oz":"1\/2 fresh"
+                "measurement_fl_oz":"1 \/"
             }
         ],
         "method":"Blend With Crashed Ice",
@@ -2698,11 +2698,11 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Walnut Liqueur",
+                "name":"Walnut liqueur",
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Tawny Port",
+                "name":"Tawny port",
                 "measurement_fl_oz":0.5
             }
         ],
@@ -2734,7 +2734,7 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Dry Vermouth",
+                "name":"Dry vermouth",
                 "measurement_fl_oz":0.75
             }
         ],
@@ -2772,8 +2772,8 @@
                 "measurement_fl_oz":0.16
             },
             {
-                "name":"Bokers Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Bokers bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
@@ -2803,16 +2803,16 @@
                 "measurement_fl_oz":0.16
             },
             {
-                "name":"Blood Orange Juice",
+                "name":"Blood orange juice",
                 "measurement_fl_oz":1
             },
             {
-                "name":"Maple Syrup",
+                "name":"Maple syrup",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Xocolatl Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Xocolatl bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -2833,19 +2833,19 @@
         "name":"My Shroomy Tie",
         "ingredients":[
             {
-                "name":"Aged Rum",
+                "name":"Aged rum",
                 "measurement_fl_oz":1
             },
             {
-                "name":"Pineapple Rum",
+                "name":"Pineapple rum",
                 "measurement_fl_oz":1
             },
             {
-                "name":"Orange Curacao",
+                "name":"Orange curacao",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             },
             {
@@ -2862,11 +2862,11 @@
             },
             {
                 "name":"Absinthe",
-                "measurement_fl_oz":"2dash"
+                "measurement_fl_oz":"2 Dash"
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Double old-fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Crushed",
         "garnish":"Orange Wedge",
         "seasonal_associations":[
@@ -2901,12 +2901,12 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Orange Juice",
+                "name":"Orange juice",
                 "measurement_fl_oz":0.67
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -2927,7 +2927,7 @@
         "name":"New Carre",
         "ingredients":[
             {
-                "name":"Rye Whiskey",
+                "name":"Rye whiskey",
                 "measurement_fl_oz":0.75
             },
             {
@@ -2943,16 +2943,16 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Peychaud'S Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Peychaud's bitters",
+                "measurement_fl_oz":"2 Dashes"
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Stir",
-        "glass_type":"Double old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Block",
         "garnish":"Lemon Zest",
         "seasonal_associations":[
@@ -2973,7 +2973,7 @@
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Cherry Heering",
+                "name":"Cherry heering",
                 "measurement_fl_oz":0.5
             },
             {
@@ -2981,15 +2981,15 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Triple Sec",
+                "name":"Triple sec",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Pineapple Juice",
+                "name":"Pineapple juice",
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.5
             },
             {
@@ -2997,8 +2997,8 @@
                 "measurement_fl_oz":0.1
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"1dash"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"1 Dash"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -3033,8 +3033,8 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"3dashes"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"3 Dashes"
             }
         ],
         "method":"Stir",
@@ -3063,16 +3063,16 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Pink Grapefruit Juice",
+                "name":"Pink grapefruit juice",
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Grapefruit Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Grapefruit bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Shake And Fine Strain",
@@ -3102,15 +3102,15 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Apple Juice",
+                "name":"Apple juice",
                 "measurement_fl_oz":0.66
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Cinnamon Syrup",
+                "name":"Cinnamon syrup",
                 "measurement_fl_oz":0.33
             }
         ],
@@ -3134,11 +3134,11 @@
         "name":"Coco Shroom",
         "ingredients":[
             {
-                "name":"Gold Rum",
+                "name":"Gold rum",
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Coconut Rum",
+                "name":"Coconut rum",
                 "measurement_fl_oz":0.5
             },
             {
@@ -3146,12 +3146,12 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Fino Sherry",
+                "name":"Fino sherry",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Vanilla Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Vanilla bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
@@ -3177,7 +3177,7 @@
                 "measurement_fl_oz":0.66
             },
             {
-                "name":"Rosso Vermouth",
+                "name":"Rosso vermouth",
                 "measurement_fl_oz":0.5
             },
             {
@@ -3218,7 +3218,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Punt E Mes",
+                "name":"Punt e Mes",
                 "measurement_fl_oz":0.75
             },
             {
@@ -3226,8 +3226,8 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Orange Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Orange bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Stir",
@@ -3256,20 +3256,20 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Apricot Jam",
-                "measurement_fl_oz":"2 brspn"
+                "name":"Apricot jam",
+                "measurement_fl_oz":"2 Brspn"
             },
             {
-                "name":"Angostura Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Angostura bitters",
+                "measurement_fl_oz":"2 Dashes"
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"highball",
+        "glass_type":"Highball",
         "ice_type":"Crushed",
         "garnish":"Mint Peak",
         "seasonal_associations":[
@@ -3287,7 +3287,7 @@
         "name":"Loose Lips",
         "ingredients":[
             {
-                "name":"Rye Whiskey",
+                "name":"Rye whiskey",
                 "measurement_fl_oz":1
             },
             {
@@ -3299,15 +3299,15 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Maraschino Liqueur",
+                "name":"Maraschino liqueur",
                 "measurement_fl_oz":0.33
             },
             {
@@ -3336,10 +3336,10 @@
         "ingredients":[
             {
                 "name":"Strawberries",
-                "measurement_fl_oz":"2 hulled"
+                "measurement_fl_oz":"2 Hulled"
             },
             {
-                "name":"Raspberry Vodka",
+                "name":"Raspberry vodka",
                 "measurement_fl_oz":1.5
             },
             {
@@ -3347,11 +3347,11 @@
                 "measurement_fl_oz":0.2
             },
             {
-                "name":"Strawberry Syrup",
+                "name":"Strawberry syrup",
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.33
             }
         ],
@@ -3382,11 +3382,11 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Creme De Cacao",
+                "name":"Creme de cacao",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Chili Liqueur",
+                "name":"Chili liqueur",
                 "measurement_fl_oz":0.1
             }
         ],
@@ -3415,11 +3415,11 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Pineapple Juice",
+                "name":"Pineapple juice",
                 "measurement_fl_oz":1.5
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             }
         ],
@@ -3442,11 +3442,11 @@
         "name":"Mushroom Daisy",
         "ingredients":[
             {
-                "name":"Light Rum",
+                "name":"Light rum",
                 "measurement_fl_oz":2
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             },
             {
@@ -3454,16 +3454,16 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 Sugar syrup",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Yellow Chartreuse",
+                "name":"Yellow chartreuse",
                 "measurement_fl_oz":0.1
             }
         ],
         "method":"Shake And Strain",
-        "glass_type":"Wine glass",
+        "glass_type":"Wine Glass",
         "ice_type":"Crushed",
         "garnish":"Berries",
         "seasonal_associations":[
@@ -3489,32 +3489,32 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Celery Juice",
+                "name":"Celery juice",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 sugar syrup",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"White Wine Vinegar",
+                "name":"White wine vinegar",
                 "measurement_fl_oz":0.1
             },
             {
-                "name":"Celery Bitters",
-                "measurement_fl_oz":"2dashes"
+                "name":"Celery bitters",
+                "measurement_fl_oz":"2 Dashes"
             },
             {
-                "name":"Celery Salt",
-                "measurement_fl_oz":"1 pinch"
+                "name":"Celery salt",
+                "measurement_fl_oz":"1 Pinch"
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Double - old fashioned",
+        "glass_type":"Double Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Celery Stick",
         "seasonal_associations":[
@@ -3540,11 +3540,11 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Sugar Syrup",
+                "name":"Sugar syrup",
                 "measurement_fl_oz":0.5
             },
             {
@@ -3583,11 +3583,11 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Lemon Juice",
+                "name":"Lemon juice",
                 "measurement_fl_oz":1
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 Sugar syrup",
                 "measurement_fl_oz":0.5
             },
             {
@@ -3595,7 +3595,7 @@
                 "measurement_fl_oz":"Pinch"
             },
             {
-                "name":"Egg White",
+                "name":"Egg white",
                 "measurement_fl_oz":0.5
             },
             {
@@ -3624,7 +3624,7 @@
         "name":"Optimism",
         "ingredients":[
             {
-                "name":"White Rum",
+                "name":"White rum",
                 "measurement_fl_oz":2
             },
             {
@@ -3632,19 +3632,19 @@
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Lime Juice",
+                "name":"Lime juice",
                 "measurement_fl_oz":0.66
             },
             {
-                "name":"Ginger Syrup",
+                "name":"Ginger syrup",
                 "measurement_fl_oz":0.16
             },
             {
-                "name":"Honey Syrup",
+                "name":"Honey syrup",
                 "measurement_fl_oz":0.16
             },
             {
-                "name":"Basil Leaves",
+                "name":"Basil leaves",
                 "measurement_fl_oz":8
             }
         ],
@@ -3682,12 +3682,12 @@
                 "measurement_fl_oz":0.33
             },
             {
-                "name":"Melon Liqueur",
+                "name":"Melon liqueur",
                 "measurement_fl_oz":0.5
             }
         ],
         "method":"Stir",
-        "glass_type":"Old-fashioned",
+        "glass_type":"Old-Fashioned",
         "ice_type":"Cubed",
         "garnish":"Melon Slice",
         "seasonal_associations":[
@@ -3712,20 +3712,20 @@
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"La Tomato Liqueur",
+                "name":"La tomato liqueur",
                 "measurement_fl_oz":0.25
             },
             {
-                "name":"Lime Jucie",
+                "name":"Lime jucie",
                 "measurement_fl_oz":0.25
             },
             {
                 "name":"Soda",
-                "measurement_fl_oz":null
+                "measurement_fl_oz":"Top up"
             }
         ],
         "method":"Shake And Fine Strain",
-        "glass_type":"Colins",
+        "glass_type":"Collins",
         "ice_type":"Cubed",
         "garnish":"Lime Wedge",
         "seasonal_associations":[
@@ -3747,7 +3747,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"Tawny Port",
+                "name":"Tawny port",
                 "measurement_fl_oz":0.5
             },
             {
@@ -3759,7 +3759,7 @@
                 "measurement_fl_oz":1
             },
             {
-                "name":"2:1 Sugar Syrup",
+                "name":"2:1 Sugar syrup",
                 "measurement_fl_oz":0.5
             }
         ],
@@ -3789,15 +3789,15 @@
                 "measurement_fl_oz":0.75
             },
             {
-                "name":"Coffee Liqueur",
+                "name":"Coffee liqueur",
                 "measurement_fl_oz":0.5
             },
             {
-                "name":"Hot Filter Coffee",
+                "name":"Hot filter coffee",
                 "measurement_fl_oz":2
             },
             {
-                "name":"Heavy Cream",
+                "name":"Heavy cream",
                 "measurement_fl_oz":1
             }
         ],
