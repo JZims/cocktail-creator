@@ -21,6 +21,7 @@ export function ResultCard({cocktail, index}: ResultCardProps & { index: number 
         <h3 className="result-card-title">{name}</h3>
         <ul className="result-card-details">
           <li>Glass: {glass_type}</li>
+          <li> Base Spirit: {ingredients[0].name}</li>
           <li>
             <ul>Ingredients: {ingredients.map(ingredient => 
                 <li>{ingredient.name}: {

@@ -11,9 +11,10 @@ const App = () => {
   const [selectedFlavorProfiles, setSelectedFlavorProfiles] = useState<
     string[]
   >([]);
+  const [selectedBaseSpirit, setSelectedBaseSpirit] = useState<string[]>([])
 
   const allSelected =
-    selectedGlassTypes[0] && selectedSeasons[0] && selectedFlavorProfiles[0];
+    selectedGlassTypes[0] && selectedSeasons[0] && selectedFlavorProfiles[0] && selectedBaseSpirit[0];
 
   const filteredCocktails = cocktailsData.filter((cocktail) => {
     const seasonMatch =
@@ -30,7 +31,11 @@ const App = () => {
       selectedFlavorProfiles.length === 0 ||
       cocktail.flavor_profile.some((fp) => selectedFlavorProfiles.includes(fp));
 
-    return seasonMatch && glassMatch && flavorProfileMatch;
+    const baseSpiritMatch =
+      selectedBaseSpirit.length === 0 ||
+      selectedBaseSpirit.includes(cocktail.ingredients[0].name);
+
+    return seasonMatch && glassMatch && flavorProfileMatch && baseSpiritMatch;
   });
 
   const capitalizeFirstLetter = function (string: string) {
@@ -51,6 +56,14 @@ const App = () => {
       (option) => option.value
     );
     setSelectedGlassTypes(value);
+  };
+
+  const handleBaseSpiritChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const value = Array.from(
+      e.target.selectedOptions,
+      (option) => option.value
+    );
+    setSelectedBaseSpirit(value);
   };
 
   const handleFlavorProfileChange = (
@@ -79,11 +92,20 @@ const App = () => {
     )
   ).sort();
 
+  const baseSpiritOptions = Array.from(
+      new Set(
+        cocktailsData
+        .map(cocktail => cocktail.ingredients[0].name)
+        .sort()
+      )
+  )
+
   return (
     <div className="search-interface">
       <div id="search-block" className="search-block">
         <div className="container">
           <div className="search-controls">
+
             <div className="selection-box-wrapper">
               <h2>Seasonal Associations</h2>
               <div className="select-wrapper">
@@ -138,6 +160,26 @@ const App = () => {
                 </select>
               </div>
             </div>
+
+            <div className="selection-box-wrapper">
+              <h2> Base Spirit </h2>
+              <div className="select-wrapper">
+                <select
+                  className="select"
+                  multiple
+                  value={selectedBaseSpirit}
+                  onChange={handleBaseSpiritChange}
+                >
+                  {baseSpiritOptions.map((spirit) => (
+                    <option key={spirit} value={spirit}>
+                      {spirit}
+                    </option>
+                  ))}
+                  )
+                </select>
+              </div>
+            </div>
+
           </div>
           <div className="results-grid">
             {allSelected && filteredCocktails.length > 0 ? (
