@@ -14,7 +14,7 @@ const App = () => {
   const [selectedBaseSpirit, setSelectedBaseSpirit] = useState<string[]>([])
 
   const allSelected =
-    selectedGlassTypes[0] && selectedSeasons[0] && selectedFlavorProfiles[0] && selectedBaseSpirit[0];
+    selectedGlassTypes[0] || selectedSeasons[0] || selectedFlavorProfiles[0] || selectedBaseSpirit[0];
 
   const filteredCocktails = cocktailsData.filter((cocktail) => {
     const seasonMatch =
@@ -105,7 +105,6 @@ const App = () => {
       <div id="search-block" className="search-block">
         <div className="container">
           <div className="search-controls">
-
             <div className="selection-box-wrapper">
               <h2>Seasonal Associations</h2>
               <div className="select-wrapper">
@@ -180,6 +179,18 @@ const App = () => {
               </div>
             </div>
 
+          </div>
+          <div className="reset-field">
+            <button
+              onClick={() => {
+                setSelectedSeasons([]);
+                setSelectedGlassTypes([]);
+                setSelectedFlavorProfiles([]);
+                setSelectedBaseSpirit([]);
+              }}
+            >
+              Reset
+            </button>
           </div>
           <div className="results-grid">
             {allSelected && filteredCocktails.length > 0 ? (

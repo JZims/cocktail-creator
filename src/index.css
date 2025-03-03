@@ -207,6 +207,39 @@ body {
   text-align: center;
   grid-area: 6 / 2;
   line-height: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.none-found-image {
+  width: 300px;  
+  height: auto;  
+  opacity: 0.5;
+  margin: 20px auto; 
+  display: block;
+}
+
+.reset-field {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 40px 0;
+}
+
+.reset-field button {
+  padding: 10px 30px;
+  background-color: var(--veda-cream);
+  color: var(--veda-red);
+  border: 2px solid var(--veda-red);
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.reset-field button:hover {
+  background-color: var(--veda-red);
+  color: var(--veda-cream);
 }
 
 
