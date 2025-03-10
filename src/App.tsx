@@ -2,17 +2,19 @@ import { useState } from "react";
 import { ResultCard } from "./components/result-card";
 import { NoneFound } from "./components/none-found";
 import cocktailsData from "./assets/scripts/output/veda_cocktails_xlsx.json";
-import Select  from "react-select";
+import Select, { MultiValue } from "react-select";
 
+type OptionType = {
+  label: string;
+  value: string;
+};
 
 
 const App = () => {
-  const [selectedSeasons, setSelectedSeasons] = useState<string[]>([]);
-  const [selectedGlassTypes, setSelectedGlassTypes] = useState<string[]>([]);
-  const [selectedFlavorProfiles, setSelectedFlavorProfiles] = useState<
-    string[]
-  >([]);
-  const [selectedBaseSpirit, setSelectedBaseSpirit] = useState<string[]>([])
+  const [selectedSeasons, setSelectedSeasons] = useState<MultiValue<OptionType>>([]);
+  const [selectedGlassTypes, setSelectedGlassTypes] = useState<MultiValue<OptionType>>([]);
+  const [selectedFlavorProfiles, setSelectedFlavorProfiles] = useState<MultiValue<OptionType>>([]);
+  const [selectedBaseSpirit, setSelectedBaseSpirit] = useState<MultiValue<OptionType>>([]);
 
   const allSelected =
     selectedGlassTypes[0] || selectedSeasons[0] || selectedFlavorProfiles[0] || selectedBaseSpirit[0];
@@ -21,60 +23,28 @@ const App = () => {
     const seasonMatch =
       selectedSeasons.length === 0 ||
       cocktail.seasonal_associations.some((sa) =>
-        selectedSeasons.includes(sa)
+        selectedSeasons.some(option => option.value === sa)
       );
-
-    const glassMatch =
-      selectedGlassTypes.length === 0 ||
-      selectedGlassTypes.includes(cocktail.glass_type);
-
-    const flavorProfileMatch =
-      selectedFlavorProfiles.length === 0 ||
-      cocktail.flavor_profile.some((fp) => selectedFlavorProfiles.includes(fp));
-
-    const baseSpiritMatch =
-      selectedBaseSpirit.length === 0 ||
-      selectedBaseSpirit.includes(cocktail.ingredients[0].name);
-
-    return seasonMatch && glassMatch && flavorProfileMatch && baseSpiritMatch;
-  });
+    
+      const glassMatch =
+        selectedGlassTypes.length === 0 ||
+        selectedGlassTypes.some(option => option.value === cocktail.glass_type);
+    
+      const flavorProfileMatch =
+        selectedFlavorProfiles.length === 0 ||
+        cocktail.flavor_profile.some((fp) => 
+          selectedFlavorProfiles.some(option => option.value === fp)
+        );
+    
+      const baseSpiritMatch =
+        selectedBaseSpirit.length === 0 ||
+        selectedBaseSpirit.some(option => option.value === cocktail.ingredients[0].name);
+    
+      return seasonMatch && glassMatch && flavorProfileMatch && baseSpiritMatch;
+    });
 
   const capitalizeFirstLetter = function (string: string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
-  };
-
-  const handleSeasonChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    const value = Array.from(
-      e.target.selectedOptions,
-      (option) => option.value
-    );
-    setSelectedSeasons(value);
-  };
-
-  const handleGlassTypeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    const value = Array.from(
-      e.target.selectedOptions,
-      (option) => option.value
-    );
-    setSelectedGlassTypes(value);
-  };
-
-  const handleBaseSpiritChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    const value = Array.from(
-      e.target.selectedOptions,
-      (option) => option.value
-    );
-    setSelectedBaseSpirit(value);
-  };
-
-  const handleFlavorProfileChange = (
-    e: React.ChangeEvent<HTMLSelectElement>
-  ) => {
-    const value = Array.from(
-      e.target.selectedOptions,
-      (option) => option.value
-    );
-    setSelectedFlavorProfiles(value);
   };
 
   const seasonOptions = [
@@ -86,7 +56,10 @@ const App = () => {
 
   const glassTypeOptions = Array.from(
     new Set(cocktailsData.map((cocktail) => cocktail.glass_type))
-  ).sort();
+  ).sort().map(type => ({
+    label: type, 
+    value: type,
+  }));
 
   const flavorProfileOptions = Array.from(
     new Set(
@@ -96,15 +69,21 @@ const App = () => {
         .reduce((acc, val) => acc.concat(val), [])
         .map((fp) => capitalizeFirstLetter(fp))
     )
-  ).sort();
+  ).sort().map(type => ({
+    label: type, 
+    value: type,
+  }));
 
   const baseSpiritOptions = Array.from(
       new Set(
         cocktailsData
-        .map(cocktail => cocktail.ingredients[0].name)
+        .map(cocktail => capitalizeFirstLetter(cocktail.ingredients[0].name))
         .sort()
-      )
-  )
+        )
+  ).map(type => ({
+    label: type, 
+    value: type,
+  }))
 
   return (
     <div className="search-interface">
@@ -114,72 +93,56 @@ const App = () => {
             <div className="selection-box-wrapper">
               <h2>Seasonal Associations</h2>
               <div className="select-wrapper">
-                <Select
+              <Select
+                  closeMenuOnSelect={false}
+                  className="select"
                   options={seasonOptions}
-                  isMulti={true}
-                  onChange={(selected) => {
-                    setSelectedSeasons(selected ? selected.map(option => option.value) : []);
-                  }}
+                  isMulti
+                  value={selectedSeasons}
+                  onChange={(newValue) => setSelectedSeasons(newValue)}
                 />
-                {seasonOptions.map((opt) => (
-                    <option key={opt.label} value={opt.value} />
-                  ))}
               </div>
             </div>
 
             <div className="selection-box-wrapper">
               <h2>Glass Type</h2>
               <div className="select-wrapper">
-                <select
+              <Select
+                  closeMenuOnSelect={false}
                   className="select"
-                  multiple
+                  options={glassTypeOptions}
+                  isMulti
                   value={selectedGlassTypes}
-                  onChange={handleGlassTypeChange}
-                >
-                  {glassTypeOptions.map((opt) => (
-                    <option key={opt} value={opt}>
-                      {opt}
-                    </option>
-                  ))}
-                </select>
+                  onChange={(newValue) => setSelectedGlassTypes(newValue)}
+                />
               </div>
             </div>
 
             <div className="selection-box-wrapper">
               <h2> Flavor Profile </h2>
               <div className="select-wrapper">
-                <select
-                  className="select"
-                  multiple
-                  value={selectedFlavorProfiles}
-                  onChange={handleFlavorProfileChange}
-                >
-                  {flavorProfileOptions.map((flavor) => (
-                    <option key={flavor} value={flavor}>
-                      {flavor}
-                    </option>
-                  ))}
-                  )
-                </select>
+              <Select
+                closeMenuOnSelect={false}
+                className="select"
+                options={flavorProfileOptions}
+                isMulti
+                value={selectedFlavorProfiles}
+                onChange={(newValue) => setSelectedFlavorProfiles(newValue)}
+              />
               </div>
             </div>
 
             <div className="selection-box-wrapper">
               <h2> Base Spirit </h2>
               <div className="select-wrapper">
-                <select
+              <Select
+                  closeMenuOnSelect={false}
                   className="select"
-                  multiple
+                  options={baseSpiritOptions}
+                  isMulti
                   value={selectedBaseSpirit}
-                  onChange={handleBaseSpiritChange}
-                >
-                  {baseSpiritOptions.map((spirit) => (
-                    <option key={spirit} value={spirit}>
-                      {spirit}
-                    </option>
-                  ))}
-                  )
-                </select>
+                  onChange={(newValue) => setSelectedBaseSpirit(newValue)}
+                />
               </div>
             </div>
 
