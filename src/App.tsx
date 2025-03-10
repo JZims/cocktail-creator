@@ -2,6 +2,7 @@ import { useState } from "react";
 import { ResultCard } from "./components/result-card";
 import { NoneFound } from "./components/none-found";
 import cocktailsData from "./assets/scripts/output/veda_cocktails_xlsx.json";
+import Select  from "react-select";
 
 
 
@@ -76,7 +77,12 @@ const App = () => {
     setSelectedFlavorProfiles(value);
   };
 
-  const seasonOptions = ["Summer", "Winter", "Spring", "Autumn"];
+  const seasonOptions = [
+    { label: "Summer", value: "Summer" },
+    { label: "Winter", value: "Winter" },
+    { label: "Spring", value: "Spring" },
+    { label: "Autumn", value: "Autumn" }
+  ];
 
   const glassTypeOptions = Array.from(
     new Set(cocktailsData.map((cocktail) => cocktail.glass_type))
@@ -108,18 +114,16 @@ const App = () => {
             <div className="selection-box-wrapper">
               <h2>Seasonal Associations</h2>
               <div className="select-wrapper">
-                <select
-                  className="select"
-                  multiple
-                  value={selectedSeasons}
-                  onChange={handleSeasonChange}
-                >
-                  {seasonOptions.map((opt) => (
-                    <option key={opt} value={opt}>
-                      {opt}
-                    </option>
+                <Select
+                  options={seasonOptions}
+                  isMulti={true}
+                  onChange={(selected) => {
+                    setSelectedSeasons(selected ? selected.map(option => option.value) : []);
+                  }}
+                />
+                {seasonOptions.map((opt) => (
+                    <option key={opt.label} value={opt.value} />
                   ))}
-                </select>
               </div>
             </div>
 
