@@ -9,7 +9,6 @@ type OptionType = {
   value: string;
 };
 
-
 const App = () => {
   const [selectedSeasons, setSelectedSeasons] = useState<MultiValue<OptionType>>([]);
   const [selectedGlassTypes, setSelectedGlassTypes] = useState<MultiValue<OptionType>>([]);

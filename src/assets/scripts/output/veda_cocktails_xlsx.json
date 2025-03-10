@@ -539,7 +539,7 @@
         "name":"Avion",
         "ingredients":[
             {
-                "name":"Tequila blanco",
+                "name":"Tequila",
                 "measurement_fl_oz":0.75
             },
             {
@@ -573,7 +573,7 @@
         "name":"Hunter'S Verdict",
         "ingredients":[
             {
-                "name":"Aged rum",
+                "name":"Aged Rum",
                 "measurement_fl_oz":2
             },
             {
@@ -1098,7 +1098,7 @@
         "name":"Drunken Pirate",
         "ingredients":[
             {
-                "name":"Overproof aged rum",
+                "name":"Aged Rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -1375,7 +1375,7 @@
         "name":"Moment Gone",
         "ingredients":[
             {
-                "name":"White rum",
+                "name":"White Rum",
                 "measurement_fl_oz":2
             },
             {
@@ -1925,7 +1925,7 @@
         "name":"Mushroom Daiquiri",
         "ingredients":[
             {
-                "name":"Aged rum",
+                "name":"Aged Rum",
                 "measurement_fl_oz":0.5
             },
             {
@@ -2157,7 +2157,7 @@
         "name":"Mushroom Hold",
         "ingredients":[
             {
-                "name":"Jamaican overproof rum",
+                "name":"Jamaican Overproof Rum",
                 "measurement_fl_oz":0.75
             },
             {
@@ -2237,7 +2237,7 @@
         "name":"Killer Queen",
         "ingredients":[
             {
-                "name":"White overproof rum",
+                "name":"White Rum",
                 "measurement_fl_oz":1
             },
             {
@@ -2386,7 +2386,7 @@
         "name":"A Moment Of Silence",
         "ingredients":[
             {
-                "name":"Rye",
+                "name":"Rye Whiskey",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2457,7 +2457,7 @@
         "name":"M. Colada",
         "ingredients":[
             {
-                "name":"White rum",
+                "name":"White Rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2495,7 +2495,7 @@
         "name":"Rum & Mushroom",
         "ingredients":[
             {
-                "name":"White rum",
+                "name":"White Rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2538,7 +2538,7 @@
         "name":"Positive Side",
         "ingredients":[
             {
-                "name":"8yo Rum",
+                "name":"Aged Rum",
                 "measurement_fl_oz":"1 ."
             },
             {
@@ -2581,7 +2581,7 @@
         "name":"Poderoso",
         "ingredients":[
             {
-                "name":"Aged rum",
+                "name":"Aged Rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -2651,7 +2651,7 @@
         "name":"Nuclear Mushroom Daiquiri",
         "ingredients":[
             {
-                "name":"Overoproof rum",
+                "name":"Overproof Rum",
                 "measurement_fl_oz":1
             },
             {
@@ -2833,7 +2833,7 @@
         "name":"My Shroomy Tie",
         "ingredients":[
             {
-                "name":"Aged rum",
+                "name":"Aged Rum",
                 "measurement_fl_oz":1
             },
             {
@@ -2927,7 +2927,7 @@
         "name":"New Carre",
         "ingredients":[
             {
-                "name":"Rye whiskey",
+                "name":"Rye Whiskey",
                 "measurement_fl_oz":0.75
             },
             {
@@ -3021,7 +3021,7 @@
         "name":"The Ground",
         "ingredients":[
             {
-                "name":"Rye",
+                "name":"Rye Whiskey",
                 "measurement_fl_oz":1.5
             },
             {
@@ -3134,7 +3134,7 @@
         "name":"Coco Shroom",
         "ingredients":[
             {
-                "name":"Gold rum",
+                "name":"Gold Rum",
                 "measurement_fl_oz":1.5
             },
             {
@@ -3287,7 +3287,7 @@
         "name":"Loose Lips",
         "ingredients":[
             {
-                "name":"Rye whiskey",
+                "name":"Rye Whiskey",
                 "measurement_fl_oz":1
             },
             {
@@ -3335,12 +3335,12 @@
         "name":"Strawberry Fields",
         "ingredients":[
             {
-                "name":"Strawberries",
-                "measurement_fl_oz":"2 Hulled"
+                "name":"Raspberry Vodka",
+                "measurement_fl_oz":1.5
             },
             {
-                "name":"Raspberry vodka",
-                "measurement_fl_oz":1.5
+                "name":"Strawberries",
+                "measurement_fl_oz":"2 Hulled"
             },
             {
                 "name":"Veda",
@@ -3442,7 +3442,7 @@
         "name":"Mushroom Daisy",
         "ingredients":[
             {
-                "name":"Light rum",
+                "name":"White Rum",
                 "measurement_fl_oz":2
             },
             {
@@ -3624,7 +3624,7 @@
         "name":"Optimism",
         "ingredients":[
             {
-                "name":"White rum",
+                "name":"White Rum",
                 "measurement_fl_oz":2
             },
             {
